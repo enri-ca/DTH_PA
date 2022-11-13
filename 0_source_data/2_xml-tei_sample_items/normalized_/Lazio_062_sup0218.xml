@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Lazio_062_sup0218</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup0218_062_Lazio.jpg' n='1'/>
+			<pb xml:id='062bis_Lazio.jpg' n='2'/>
+			<p>
+				<lb facs='#facs_2_l_91' n='N001'/>Court of Cardinal <objectName ref='#OA_106976'>Vitelleschi&apos;s palace</objectName> at <placeName ref='#Taquinia'>Corneto</placeName>. 
+				<lb facs='#facs_2_l_96' n='N002'/><rs ref='#OA_106976' type='object'>It</rs> is <date month='0' year='0' day='0' notBefore='1861'>now</date> an inn and a tenement for the person classes in <rs ref='#Tarquinia' type='place'>the town</rs>. 
+				<lb facs='#facs_2_l_31' n='N003'/>When <rs ref='#PA_creator' type='person'>I</rs> was first <rs ref='#Tarquinia' type='place'>there</rs> in <date when='1861'>1861</date>, <rs ref='#OA_106976' type='object'>it</rs> was occupied by French officiers, 
+				<lb facs='#facs_2_l_40' n='N004'/>who had their mess in <rs ref='#OA_106976' type='object'>it</rs>.
+			</p>
+		</body>
+	</text>
+</TEI>

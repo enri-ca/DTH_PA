@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Grecia3_051_sup2832</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup2832_051_Grecia3.JPG' n='1'/>
+			<p>
+				<lb facs='#facs_1_line_1667941394445_570' n='N001'/>52
+			</p>
+			<p>
+				<lb facs='#facs_1_line_1667941371962_555' n='N001'/>93
+			</p>
+			<p>
+				<lb facs='#facs_1_line_1667941172653_468' n='N001'/>28
+			</p>
+			<p>
+				<lb facs='#facs_1_line_1667941203450_485' n='N001'/>26
+			</p>
+			<pb xml:id='sup2832_051bis_Grecia3.JPG' n='2'/>
+			<p>
+				<lb facs='#facs_2_r1l1' n='N001'/><orgName ref='#National_Museum_Athens' type='museum'>National Museum Athens.</orgName> 
+				<lb facs='#facs_2_r1l2' n='N002'/><ref>28</ref>. Archaic Sphinx from Spata in Attica of Pentelic marble. 
+				<lb facs='#facs_2_r1l3' n='N003'/><ref>76</ref>. Archaic Sphinx found at the Peiraios in 1880. Parian marble. 
+				<lb facs='#facs_2_r1l4' n='N004'/><ref>52</ref>. Archaic head of beautiful art. Pentelic marble.
+				<lb facs='#facs_2_r1l5' n='N005'/><ref>93</ref>. Disk of Parian marble found at the Peiraios in 1889. 11 inches in <choice><expan>diameter</expan><abbr>diam</abbr></choice>.
+				<lb facs='#facs_2_r1l6' n='N006'/>The painting on it is <date month='0' year='0' day='0' notBefore='1889'>now</date> almost effaced but once represented a <unclear>bearded</unclear> 
+				<lb facs='#facs_2_r1l7' n='N007'/>man with <cit><ref>an inscription saying</ref>: <quote>to the memory of Ainios, a wise and </quote></cit>
+				<lb facs='#facs_2_r1l8' n='N008'/><cit><quote>good doctor</quote></cit>.
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Sicilia_024_sup1368</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup1368_024_Sicilia.JPG' n='1'/>
+			<p>
+				<lb facs='#facs_1_l' n='N001'/><objectName ref='#negIncorpora_067'>67</objectName>. - <placeName ref='#Palermo'>PALERMO</placeName> 
+				<lb facs='#facs_1_l_393' n='N002'/><objectName ref='#OA_107699'>TOMBA DI COSTANZA </objectName>
+				<lb facs='#facs_1_l_397' n='N003'/><orgName ref='#Incorpora' type='photographer'>G. INCORPORA, <placeName ref='#Palermo'>PALERMO</placeName></orgName> 
+			</p>
+			<pb xml:id='024bis_Sicilia.jpg' n='2'/>
+			<p>
+				<lb facs='#facs_2_r1l1' n='N001'/><rs ref='#OA_107699' type='object'>The sarcophagus</rs> is of solid porphyry; the six supporting columns 
+				<lb facs='#facs_2_r1l2' n='N002'/>of the baldachino are inlaid with gold mosaics; at the head 
+				<lb facs='#facs_2_r1l3' n='N003'/>of the <choice><expan>sarcophagus</expan><abbr><rs ref='#OA_107699' type='object'>sarc.</rs></abbr></choice> an imperial crown in relief, below it a cross patonce 
+				<lb facs='#facs_2_r1l4' n='N004'/>inscribed in a circle; at the rear, above a rosette, below a 
+				<lb facs='#facs_2_r1l5' n='N005'/>single headed eagle. 
+				<lb facs='#facs_2_line_1668199366974_463' n='N006'/><cit><ref>An old, but contemporary inscription said:</ref></cit>
+			</p>
+			<p>
+				<lb facs='#facs_2_r1l7' n='N001'/><cit><quote>Caesaris Henrici latet hic Constantia corpus </quote></cit>
+				<lb facs='#facs_2_r1l8' n='N002'/><quote><cit>undeno lustro hac platea rugosa sacerdos </cit></quote>
+				<lb facs='#facs_2_r1l9' n='N003'/><quote><cit>Facta dedis parta Fredericum Augusta secundum </cit></quote>
+				<lb facs='#facs_2_r1l10' n='N004'/><quote><cit>To meritis sacratam tenes sic ossa Panhormus, </cit></quote>
+				<lb facs='#facs_2_r1l11' n='N005'/><cit><quote>Vix. Au LX1. Ubiis MCCIII. M.2.</quote> </cit>
+				<lb facs='#facs_2_r1l12' n='N006'/>She died in fact in 1198 aged 44. 
+				<lb facs='#facs_2_r1l13' n='N007'/>See <bibl source='#Villani'>Villani</bibl> for the myth about her. 
+			</p>
+			<p>
+				<lb facs='#facs_2_r1l14' n='N001'/>The impress Constantia II, the wife of stupor mundi, she died at Catania 
+				<lb facs='#facs_2_r1l15' n='N002'/>in 1222, is also buried here, with her was interred a lot of jewels, rings, 
+				<lb facs='#facs_2_r1l16' n='N003'/>collars, diadem etc. There, when her tomb was opened in the past century 
+				<lb facs='#facs_2_r1l17' n='N004'/>were found in a box other feet together with a lamina with an 
+				<lb facs='#facs_2_r1l18' n='N005'/>inscription in rude Latin, but quite legible. She wore garments of 
+				<lb facs='#facs_2_r1l19' n='N006'/>Saracenic art. <rs ref='#PA_creator' type='person'>I</rs> saw some of these remains in the sacristy of 
+				<lb facs='#facs_2_r1l20' n='N007'/>the <placeName ref='#Palermo'>Duomo</placeName> in <date when='1892'>1892</date>.
+			</p>
+		</body>
+	</text>
+</TEI>

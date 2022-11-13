@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Umbria_037_sup0661</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup661_037_Umbria.JPG' n='1'/>
+			<pb xml:id='sup661_037bis_Umbria.JPG' n='2'/>
+			<p>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/><placeName ref='#Assisi'>Assisi</placeName>. 
+				<lb facs='#facs_2_r_2_1l1' n='N002'/><objectName ref='#OA_81897'>Monument of Hecuba de Lusignan</objectName>, Queen of Cyprus. 
+				<lb facs='#facs_2_r_3_1l1' n='N003'/>Said to have been made by Fuccio Fiorentino about 1240. 
+				<lb facs='#facs_2_r_3_1l2' n='N004'/><persName ref='#Perkins'>Mr. Perkins</persName> thinks that the tomb was made probably 
+				<lb facs='#facs_2_r_3_1l3' n='N005'/>by Lapo, one of Nicolò Pisanos scholars. 
+			</p>
+			<p>
+				<lb facs='#facs_2_r_3_1l4' n='N001'/>It is thought <date when='1898'>now (1898)</date> that the tomb is that of Maria, princess of 
+				<lb facs='#facs_2_r_3_1l5' n='N002'/>Antioch, daughter of John of Brieune, king of Jerusalem. He died at Constantinople 
+				<lb facs='#facs_2_r_3_1l6' n='N003'/>in 1237 and in 1268 she made over her right to his Kingdom to Carl of <unclear>Ansor</unclear>. 
+				<lb facs='#facs_2_r_3_1l7' n='N004'/>The arms on the tomb are those of Jerusalem. 
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Grecia3_092_sup2783</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup2783_011_Grecia3.JPG' n='1'/>
+			<p>
+				<lb facs='#facs_1_l_19' n='N001'/><objectName ref='#negUNK_067'>67</objectName> 
+			</p>
+			<p>
+				<lb facs='#facs_1_l' n='N001'/>128 
+			</p>
+			<pb xml:id='sup2783_011bis_Grecia3.JPG' n='2'/>
+			<p>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/>N°. 247. h. C
+			</p>
+			<p>
+				<lb facs='#facs_2_r_4_1l1' n='N001'/><placeName ref='#Athens'>Athens</placeName>. <orgName ref='#NA_Museum' type='museum'>Central Museum</orgName>
+			</p>
+			<p>
+				<lb facs='#facs_2_r_10_1l1' n='N001'/><objectName ref='#OA_108561'>Fighting warrior</objectName> found at <placeName ref='#Delos'>Delos</placeName>. An inscription names an Ephelian, 
+				<lb facs='#facs_2_r_10_1l2' n='N002'/>Agalias, the son of Menophilos, as the sculptor.
+				<lb facs='#facs_2_r_10_1l3' n='N003'/><rs ref='#OA_108561' type='object'>The work</rs> belongs to the Neo-Attic school.
+			</p>
+		</body>
+	</text>
+</TEI>

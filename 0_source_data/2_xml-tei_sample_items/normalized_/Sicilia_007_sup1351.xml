@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Sicilia_007_sup1351</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup1351_007_Sicilia.JPG' n='1'/>
+			<p>
+				<lb facs='#facs_1_line_1667759538519_323' n='N001'/><objectName ref='#OA_107660'>SARCOFAGO ETRUSCO</objectName>
+				<lb facs='#facs_1_line_1667759532302_320' n='N002'/><objectName ref='#negIncorpora_229'>N. 229</objectName> - <orgName ref='#PA_museum' type='museum'>Museo Palermo</orgName>
+				<lb facs='#facs_1_line_1667759626723_336' n='N003'/><orgName ref='#Incorpora' type='photographer'>G. Incorpora, <placeName ref='#Palermo'>Palermo</placeName></orgName>
+			</p>
+			<pb xml:id='007bis_Sicilia.jpg' n='2'/>
+			<p>
+				<lb facs='#facs_2_l_32' n='N001'/><rs ref='#OA_107660' type='object'>This grand headless Etruscan lady</rs> came with the other gear 
+				<lb facs='#facs_2_l_37' n='N002'/>from the <orgName ref='#Casuccini_coll' type='collection'>Casuccini collection</orgName> of <placeName ref='#Chiusi'>Chiusi</placeName> where <rs ref='#PA_creator' type='person'>I</rs> saw 
+				<lb facs='#facs_2_l_26' n='N003'/><rs ref='#OA_107660' type='object'>her</rs> in <date when='1866'>1866</date>. <rs ref='#OA_107660' type='object'>She</rs> is of white marble. The figures below, 
+				<lb facs='#facs_2_l_36' n='N004'/>painted and with painted inscriptions, are of alabaster. 
+			</p>
+		</body>
+	</text>
+</TEI>

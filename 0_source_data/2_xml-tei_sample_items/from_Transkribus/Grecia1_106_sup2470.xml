@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Grecia1_106_sup2470</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup2470_106_Grecia 1.JPG' n='1'/>
+			<pb xml:id='sup2470_106bis_Grecia 1.JPG' n='2'/>
+			<p>
+				<lb facs='#facs_2_r1l1' n='N001'/><objectName ref='#OA_108395'>This is the fine tower</objectName> built in the 13<hi rend='superscript:true;'>th</hi>century by the Frank Dukes
+				<lb facs='#facs_2_r1l2' n='N002'/>of Athens on the southern wing of the Propylea. <rs ref='#PA_creator' type='person'>I</rs> saw <rs ref='#OA_108395' type='object'>it</rs> in <date when='1865'>1865</date>.
+				<lb facs='#facs_2_r1l3' n='N003'/>Some <date when='1880'>15 years after</date>, <rs ref='#OA_108395' type='object'>it</rs> was destroyed by Greeck pedantry, <persName ref='#Schliemann'>Schliemann</persName>
+				<lb facs='#facs_2_r1l4' n='N004'/>assisting with a subscription. When <persName ref='#Stuart'>Stuart</persName> saw <rs ref='#OA_108395' type='object'>it</rs> in 1752 <rs ref='#OA_108395' type='object'>it</rs> was
+				<lb facs='#facs_2_r1l5' n='N005'/>used by the Turks as a prison.
+			</p>
+			<p>
+				<lb facs='#facs_2_r1l6' n='N001'/>It was the keep of the fortified palace of these dukes and is if
+				<lb facs='#facs_2_r1l7' n='N002'/>the same age as the tower of Marco Sanudo in the citadel of Naxos
+				<lb facs='#facs_2_r1l8' n='N003'/>and of that of Santonieri (Nicolas de St. Omer) at Phebes say between
+				<lb facs='#facs_2_r1l9' n='N004'/>1250 and 1300. 
+			</p>
+			<p>
+				<lb facs='#facs_2_r1l10' n='N001'/>It rose to a height of 85 feet above its base, which base was 45 feet
+				<lb facs='#facs_2_r1l11' n='N002'/>below the stylobate of the Parthenon.
+			</p>
+			<p>
+				<lb facs='#facs_2_r1l12' n='N001'/>The top of the tower was not so high as the roof of the Parthenon, but 
+				<lb facs='#facs_2_r1l13' n='N002'/>36 feet above the highest point of the Akropolis road. 
+			</p>
+			<p>
+				<lb facs='#facs_2_r1l14' n='N001'/>It was far long; 28 1/2 feet long from East to West and 25 1/2 feet wide 
+				<lb facs='#facs_2_r1l15' n='N002'/>from North to South. The walls were 5 3/4 ft thick. They consisted of 
+				<lb facs='#facs_2_r1l16' n='N003'/>51 layers of big marble stones from the old monements, each 
+				<lb facs='#facs_2_r1l17' n='N004'/>layer being above 10 inches in thickness. 
+			</p>
+			<p>
+				<lb facs='#facs_2_r1l18' n='N001'/>On the towers North face, high up was a square tourelle putting 
+				<lb facs='#facs_2_r1l19' n='N002'/>out and terminating in a vault and a terrace in which the 
+				<lb facs='#facs_2_r1l20' n='N003'/>Turks had placed 2 small canons. The entrance was at the 
+				<lb facs='#facs_2_r1l21' n='N004'/>vert facing Nike Anteros; the stairs inside were of wood.
+			</p>
+		</body>
+	</text>
+</TEI>

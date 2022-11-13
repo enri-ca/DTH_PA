@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Grecia2_040_sup2581</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup2581_040_Grecia 2.JPG' n='1'/>
+			<pb xml:id='sup2581_040bis_Grecia 2.JPG' n='2'/>
+			<p>
+				<lb facs='#facs_2_r1l1' n='N001'/><placeName ref='#Olympia'>Olympia</placeName>.
+				<lb facs='#facs_2_r1l2' n='N002'/><objectName ref='#OA_108400'>The Hermes of Praxiteles</objectName>.
+				<lb facs='#facs_2_l' n='N003'/><rs ref='#UND'>They</rs> have lately (<date when='1889'>1889</date>) put legs on <rs ref='#OA_108400' type='object'>him</rs>.
+			</p>
+			<p>
+				<lb facs='#facs_2_r1l6' n='N001'/><rs ref='#OA_108400' type='object'>He</rs> was discovered on the 8.<hi rend='superscript:true;'>th</hi> of May 1877.
+				<lb facs='#facs_2_r1l7' n='N002'/><persName ref='#PA_creator'>I</persName> saw <rs ref='#OA_108400' type='object'>him</rs> in <date when='1887'>1887</date> and <date when='1893'>1893</date>.
+				<lb facs='#facs_2_r1l8' n='N003'/><bibl source='#Fr_Wolt'>Fr. + Wolt.N° 1212</bibl>.
+			</p>
+		</body>
+	</text>
+</TEI>
