@@ -7,6 +7,15 @@ The folder source data (<b>0_source_data</b>) contains the data sample: <br>
 </b>) <br>
 - the Xquery files to work as a whole the single photographs' TEI encodings (<b>3_xpath_xquery_files</b>). <br>
 
-An overall <a href="https://enri-ca.github.io/dist/" target="_blank">visualization</b></a> is also realized thanks to <a href="http://evt.labcd.unipi.it/" target="_blank">EVT-Edition Visualization Technology tool</a>.
-The project is completed by a <b>Encoding Guide (0_PA_encoding_model.pdf)</b> and the <b>presentation (2_PA_presentation)</b>.<br>
-All the images and the data are published for illustrating and didactical purposes only. Please refer to <a href="mailto:abis.arti-av@unibo.it" object="Supino images request">Biblioteca delle Arti. Sezione di Arti visive "I. B. Supino"</a> for any request of use.
+The <b>1_evt-files</b> folder contains the customized files to make work the <a href="http://evt.labcd.unipi.it/" target="_blank">EVT-Edition Visualization Technology tool</a>:<br>
+- a config.json file to be put in the config folder
+- the final tei files in the data\text folders
+- the image folder to be filled with images in 0_source_data
+Those files have been used for creating the overall <a href="https://enri-ca.github.io/dist/" target="_blank">Partizione Antica from Fototeca Supino: a pilot digital edition</b></a> from the cloned EVT files: <a href="https://github.com/enri-ca/dist" target="_blank">Github EVT repository</a>.<br>
+
+The project is completed by:<br>
+- an <b>Encoding Guide (0_PA_encoding_model.pdf)</b> 
+- the <b>prject presentation (2_PA_presentation)</b>.<br>
+
+All the images and the data are published for <b>illustrating and didactical purposes only</b>. <br>
+Please refer to <a href="mailto:abis.arti-av@unibo.it" object="Supino images request">Biblioteca delle Arti. Sezione di Arti visive "I. B. Supino"</a> for any request of use.
