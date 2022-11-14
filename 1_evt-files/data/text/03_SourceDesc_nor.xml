@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sourceDesc>
+	<listBibl>
+	<bibl xml:id="Dennis">
+		<author><name>Dennis, George</name></author>
+		<author><name>Wolters, Paul</name></author>
+		<title>Cities and Cemeteries of Etruria</title>
+		<date>1878-1883</date>
+		<ref target="http://digi.ub.uni-heidelberg.de/diglit/dennis1848bd2">Digitized version by Heidelberg Un.</ref>		<ref target="http://xml.coverpages.org/coombs.html">http://xml.coverpages.org/coombs.html</ref>
+	</bibl>
+	<bibl xml:id="Fr_Wolt">
+		<author><name>Friederichs, Carl</name></author>
+		<author><name>Wolters, Paul</name></author>
+		<title>Die Gipsabgusse Antiker Bildwerke in Historischer Folge Erklart</title>
+		<date>1885</date>
+	</bibl>
+	<bibl xml:id="GazBArts">
+		<title>Gazette des beaux-arts (Paris. 1859)</title>
+		<date>1859</date>
+		<idno type="ISSN">2419-641X</idno>
+		<ref target="https://gallica.bnf.fr/ark:/12148/cb343486585/date">Gallica Reproduction numérique</ref>
+	</bibl>
+	<bibl xml:id="Lechat_b">
+		<author><name>Lechat, Henry</name></author>
+		<title>Epidaure Restauration et Description Des Principaux Monuments Du Sanctuaire D'asclépios</title>
+		<date>1895</date>
+	</bibl>
+	<bibl xml:id="Villani">
+		<author><name>Villani, Giovanni</name></author>
+		<title>Nova cronica</title>
+		<ref target="http://digi.ub.uni-heidelberg.de/diglit/bav_pal_lat_939/0015">Digitized version by Heidelberg Un.</ref>
+	</bibl>
+	</listBibl>
+</sourceDesc>
