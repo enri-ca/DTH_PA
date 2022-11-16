@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Prassitele , Ermes e Dioniso" sercdoa="108400">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">105841</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">2</UBFN><UBFT etichetta="Container heading">Estero</UBFT><UBFF etichetta="Folder number">10</UBFF><UBFU etichetta="Folder heading">Grecia I</UBFU></RIPETIZIONE>
+				<RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">2</UBFN><UBFT etichetta="Container heading">Estero</UBFT><UBFF etichetta="Folder number">11</UBFF><UBFU etichetta="Folder heading">Grecia II</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">statua</OGTD><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Ermes e Dioniso</SGTI><MTC etichetta="Medium or materials">marmo</MTC><MISU etichetta="Unit of measurement">cm</MISU><MISA etichetta="Height">215</MISA></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Prassitele</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. IV a.C.</DTZG><DTZS etichetta="Part of century">terzo quarto</DTZS><DTSI etichetta="From">350 a.C.</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">330 a.C.</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Grecia</PVCS><PVCC etichetta="Town / Municipality">Olimpia</PVCC><LDCN etichetta="Repository">Museo Archeologico </LDCN></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    <RIPETIZIONE>
+				   <BIBX etichetta="Type">bibliografia specifica</BIBX><BIBA etichetta="Author">Wolters P./ Friederichs K.</BIBA><BIBG etichetta="Title">Die gipsabgüsse antiker bildwerke in historischer folge erkla¨rt. Bausteine zur geschichte der griechisch-romischen plastik</BIBG><BIBD etichetta="Publication date">1885</BIBD><BIBN etichetta="Page">pp. 411-415</BIBN></RIPETIZIONE>
+				</PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 2341, verso del supporto secondario: nota anonima manoscritta: &#034;The Hermes with his legs on. / Oliver Rayet +, following Pliny, makes Kephisodotos the sculptor of / the Hermes, and so does Eugenie Sellers&#034;.&amp;#10;Foto sup 2479, verso del supporto secondario: nota anonima manoscritta: &#034;Olympia. Hermes his head. The German offered to give a million of drachmas for this fine statue, and this was noble, but the poor impecunions Greeks refused to sell their Hermes, the very God of their race, and this was nobler still. The statue was not particularly admired in antiquity; Praxiteles produced much better things&#034;.&amp;#10;Foto sup 2581, verso del supporto secondario: nota anonima manoscritta: &#034;Olympia. The Hermes of Praxiteles. They have lately (1889) put legs on him. He was discovered on the 8.th of May 1877. I saw him in 1887 and 1893. Fr. + Wolt. N° 1212&#034;. </OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Anonimo , Prassitele - sec. IV a.C. - Ermes e Dioniso - insieme" sercdf="182033" progr="1" altezza="254" larghezza="198">/FONDO_SUPINO/Altri_paesi/Grecia I/sup 2479.jpg</FOTO>
+				 
+				<FOTO note="Merlin, Carl Prior , The Ermes with his legs on - insieme" sercdf="182060" progr="2" altezza="202" larghezza="262">/FONDO_SUPINO/Altri_paesi/Grecia I/sup 2341.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Prassitele - sec. IV a.C. - Ermes e Dioniso - insieme" sercdf="182219" progr="3" altezza="250" larghezza="182">/FONDO_SUPINO/Altri_paesi/Grecia II/sup 2581.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/108400/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

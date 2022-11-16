@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Anonimo umbro sec. XIV - Cristo Redentore benedicente; San Francesco d&#039;Assisi; Madonna addolorata e san Giovanni Evangelista; San Giovanni Battista; San Francesco d&#039;Assisi e santa Chiara" sercdf="181753" sercdoa="10523">
+			  <PARAGRAFO etichetta="CLASSIFICATION"> 
+				   <INVN etichetta="Inventory number">sup 719</INVN><LDCM etichetta="Collection">Fototeca I.B. Supino</LDCM><UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">1</UBFN><UBFT etichetta="Container heading">Italia</UBFT><UBFF etichetta="Folder number">21</UBFF><UBFU etichetta="Folder heading">Umbria</UBFU><UBFC etichetta="Shelfmark">PA_Umbria 085</UBFC></PARAGRAFO>		  
+			  <PARAGRAFO etichetta="SUBJECT">
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">Cristo Redentore benedicente</SGTI>
+						 <OGTDOA etichetta="Object">croce reliquiario</OGTDOA>
+						 </RIPETIZIONE> 
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">San Francesco d&#039;Assisi</SGTI>
+						 <OGTDOA etichetta="Object">croce reliquiario</OGTDOA>
+						 </RIPETIZIONE> 
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">Madonna addolorata e san Giovanni Evangelista</SGTI>
+						 <OGTDOA etichetta="Object">croce reliquiario</OGTDOA>
+						 </RIPETIZIONE> 
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">San Giovanni Battista</SGTI>
+						 <OGTDOA etichetta="Object">croce reliquiario</OGTDOA>
+						 </RIPETIZIONE> 
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">San Francesco d&#039;Assisi e santa Chiara</SGTI>
+						 <OGTDOA etichetta="Object">croce reliquiario</OGTDOA>
+						 </RIPETIZIONE> 
+					</PARAGRAFO>		  					
+			<PARAGRAFO etichetta="SOURCE OF TITLE">
+				<RIPETIZIONE>
+					 <SGLS etichetta="Source of title">del catalogatore</SGLS>
+					 <SGLA etichetta="Attributed title">Anonimo umbro sec. XIV - Cristo Redentore benedicente; San Francesco d&#039;Assisi; Madonna addolorata e san Giovanni Evangelista; San Giovanni Battista; San Francesco d&#039;Assisi e santa Chiara</SGLA>					 
+					 </RIPETIZIONE> 
+					</PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="OBJECT">
+				    <QNTN etichetta="Number of items">1</QNTN><OGTD etichetta="Object">positivo</OGTD><OGTB etichetta="Type">m</OGTB><MTX etichetta="BW/C">BN</MTX><MTC etichetta="Medium or materials">gelatina ai sali d&#039;argento/ carta baritata</MTC><MISU etichetta="Unit of measurement">mm</MISU>
+					<MISA etichetta="Height">215</MISA>
+					<MISL etichetta="Length">284</MISL>
+					<MISO etichetta="Type of dimensions">supporto primario</MISO>				   				   				   
+					</PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="PHOTOGRAPHERS">
+	            <RIPETIZIONE >  	
+					   <AUFN etichetta="Photographer">Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale</AUFN><AUFM etichetta="Reason for attribution">numero di inventario</AUFM></RIPETIZIONE>
+			   </PARAGRAFO>		  			  			   
+			  <PARAGRAFO etichetta="AUTHOR OF ARTWORK REPRESENTED IN THE PHOTOGRAPH">
+	            <RIPETIZIONE>	
+					   <AUTN etichetta="Artist's name">Anonimo umbro sec. XIV</AUTN><AUTB etichetta="Cultural context">Scuola italiana, scuola umbra</AUTB></RIPETIZIONE>
+			   </PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="DATING">
+					<DTZG etichetta="Century">XX</DTZG>
+					 <DTSI etichetta="From">1914</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">1940</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL><DTMM etichetta="Reason for dating">numero di inventario/ analisi tecnico-formale</DTMM>
+					 </PARAGRAFO>		  			 
+			  <PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">		  		  		  
+				   <LRD etichetta="Shot date">1914-1918</LRD></PARAGRAFO>
+
+			  <PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+			  
+				   <ROFI etichetta="Negative number">C 8151</ROFI></PARAGRAFO>	
+	     			  
+
+            		 
+  			  <PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+	            </PARAGRAFO>	
+                          
+
+			  <PARAGRAFO etichetta="STATE OF PRESERVATION">
+				   </PARAGRAFO>			  			  
+			  
+			  <PARAGRAFO etichetta="LOCATION">		  		  		  
+				   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR><PVCP etichetta="District">BO</PVCP><PVCC etichetta="Town / Municipality">Bologna</PVCC><LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN><LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU></PARAGRAFO>
+	  
+          
+			<PARAGRAFO etichetta="PROVENANCE">
+	            </PARAGRAFO>				  
+			  
+
+	     			  			 
+			  
+			  <PARAGRAFO etichetta="CODES">		  		  		  
+				   <TSK etichetta="Type of entry">F</TSK><LIR etichetta="Cataloguing level">I</LIR><NCTR etichetta="Regional code">08</NCTR><NCTN etichetta="Id. number">800719</NCTN><ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC></PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">		  		  		  
+				   </PARAGRAFO>
+
+			  <PARAGRAFO etichetta="OWNERSHIP">
+				   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG><CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS></PARAGRAFO>			  			  
+			  <PARAGRAFO etichetta="COPYRIGHT">
+				   </PARAGRAFO>			  	
+			  <PARAGRAFO etichetta="CATALOGUING">
+				   <CMPD etichetta="Cataloguing date">20/01/2020</CMPD><CMPN etichetta="Cataloguer">Giulia Calanna</CMPN></PARAGRAFO>			  			  
+			  <PARAGRAFO etichetta="NOTES">
+				   </PARAGRAFO>					  
+  			  <PARAGRAFO etichetta="DIGITAL IMAGE">
+	            <FTAT etichetta="Detail / Whole">insieme</FTAT><FTAN etichetta="File name">\FONDO_SUPINO\Italia\Umbria\sup 719.jpg</FTAN><FTAX etichetta="Attached / Unattached image">allegata</FTAX><FTAP etichetta="Type">fotografia digitale</FTAP><VERSO etichetta="Verso">Pubblico</VERSO></PARAGRAFO>			  
+	  			  
+  			  <PARAGRAFO etichetta="UPDATING">
+	            <RIPETIZIONE>
+				   <AGGD etichetta="Data">20/01/2020</AGGD><AGGN etichetta="Nome revisore">Giulia Calanna</AGGN></RIPETIZIONE>
+			   </PARAGRAFO>		
+			  
+	  			  
+  			  <PARAGRAFO etichetta="SUPERVISING">
+	            </PARAGRAFO>		
+			  	     			  			 
+			 
+			 
+			  <ELENCO_FOTO>
+			    <FOTO note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Anonimo umbro sec. XIV - Cristo Redentore benedicente; San Francesco d&#039;Assisi; Madonna addolorata e san Giovanni Evangelista; San Giovanni Battista; San Francesco d&#039;Assisi e santa Chiara - insieme" sercdf="181753" altezza="215" larghezza="284">/FONDO_SUPINO/Italia/Umbria/sup 719.jpg</FOTO>
+				</ELENCO_FOTO>
+			  
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/photo/181753/
+			  </ISSHOWNBY>
+		  </SCHEDA>			  
+	 </RISULTATI>	 
+
+  
+  

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Fidia , Ergastine" sercdoa="108820">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">106557</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">2</UBFN><UBFT etichetta="Container heading">Estero</UBFT><UBFF etichetta="Folder number">7</UBFF><UBFU etichetta="Folder heading">Francia</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">fregio</OGTD><OGTV etichetta="Identification">frammento</OGTV><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Ergastine</SGTI><SGTT etichetta="Traditional title">Placca delle Ergastine</SGTT><MTC etichetta="Medium or materials">marmo</MTC></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Fidia</AUTN><AUTS etichetta="Connection with artist">e aiuti</AUTS><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. V a.C.</DTZG><DTZS etichetta="Part of century">terzo quarto</DTZS><DTSI etichetta="From">447 a.C.</DTSI><DTSF etichetta="To">438 a.C.</DTSF></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Francia</PVCS><PVCR etichetta="Region / Federal State">Île-de-France</PVCR><PVCC etichetta="Town / Municipality">Parigi</PVCC><LDCN etichetta="Repository">Musée du Louvre</LDCN><LDCS etichetta="Precise location">inv. Ma 738</LDCS></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   <PRVS etichetta="Country">Grecia</PRVS><PRVC etichetta="Town / Municipality">Atene</PRVC><PRCD etichetta="Repository">Partenone</PRCD><PRCS etichetta="Precise location">fregio est</PRCS><PRDU etichetta="Date OUT">1874</PRDU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   <RSEC etichetta="Related entries">Fregi e metope del Partenone</RSEC></PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    </PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 2215, recto del supporto secondario: nota anonima manoscritta: &#034;Musée du Louvre. N. 3. continuation of Plate 2. Two maidens, 52 and 53, standing before the officier 51. 54. A maiden carrying a philiale, or sacrificial bowl. She is drapped as the older noble maids. The numbers are those on the frieze in the British Museum&#034;.&amp;#10;Foto sup 2216, recto del supporto secondario: nota anonima manoscritta: &#034;Musée du Louvre. N. 4 Part of the Panathenaic frieze on the last side of the Parthenon brought thence by Choisene Gouffier in 1787. It represents an official or priest (48) holding a Kanoun, or dish wich he has received from two maidens 49 50 standing with open hands ...&#034;.&amp;#10;Foto sup 2215, recto del supporto secondario: nota anonima manoscritta: &#034; Musée du Louvre. N. 2. Continuation of Plate 1. An officier 51 or priest has received a Kanoun, or dish from two Kanephori who appear in Plate 3. The dish has disappeared. Or he maybe giving them some order. He probably held a heralds staff in his right hand. The numeration is that of the frieze in the British Museum&#034;.</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Giraudon , Art grec - Frise provenant du Parthénon, détail (Louvre) - insieme" sercdf="182920" progr="1" altezza="257" larghezza="199">/FONDO_SUPINO/Altri_paesi/Francia/sup 2215.jpg</FOTO>
+				 
+				<FOTO note="Giraudon , Art grec - Frise provenant du Parthénon, détail Musée du Louvre) - insieme" sercdf="182922" progr="2" altezza="256" larghezza="191">/FONDO_SUPINO/Altri_paesi/Francia/sup 2216.jpg</FOTO>
+				 
+				<FOTO note="Giraudon , Art grec - Frise provenant du Parthénon, détail (Louvre) - insieme" sercdf="182974" progr="3" altezza="257" larghezza="198">/FONDO_SUPINO/Altri_paesi/Francia/sup 2225.jpg</FOTO>
+				 
+				<FOTO note="Giraudon , Epoque greque - pompe panathénienne, restauration - insieme" sercdf="182977" progr="4" altezza="197" larghezza="252">/FONDO_SUPINO/Altri_paesi/Francia/sup 2227.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/108820/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

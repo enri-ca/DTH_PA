@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo sec. VI a.C. , Eracle e i Cercopi" sercdoa="107669">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">105138</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">1</UBFN><UBFT etichetta="Container heading">Italia</UBFT><UBFF etichetta="Folder number">15</UBFF><UBFU etichetta="Folder heading">Sicilia</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">metopa</OGTD><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Eracle e i Cercopi</SGTI><MTC etichetta="Medium or materials">tufo</MTC></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Anonimo sec. VI a.C.</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. VI a.C.</DTZG><DTSI etichetta="From">550 a.C.</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">550 a.C.</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Italia</PVCS><PVCR etichetta="Region / Federal State">Sicilia</PVCR><PVCP etichetta="District">Palermo</PVCP><PVCC etichetta="Town / Municipality">Palermo</PVCC><LDCN etichetta="Repository">Museo Archeologico Regionale</LDCN></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    </PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">La metopa proviene dal Tempio C di Selinunte.</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Tagliarini , Metope. Museo. Palermo - insieme" sercdf="180289" progr="1" altezza="198" larghezza="243">/FONDO_SUPINO/Italia/Sicilia/sup 1357.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/107669/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Maestranze sec. XIV/ XV , Torre Franca" sercdoa="108395">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">105837</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">2</UBFN><UBFT etichetta="Container heading">Estero</UBFT><UBFF etichetta="Folder number">10</UBFF><UBFU etichetta="Folder heading">Grecia I</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">torre</OGTD><OGTT etichetta="Object type">architettura</OGTT><SGTT etichetta="Traditional title">Torre Franca</SGTT></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Maestranze sec. XIV/ XV</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. XIV/ XV</DTZG><DTSI etichetta="From">1388</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">1458</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Grecia</PVCS><PVCC etichetta="Town / Municipality">Atene</PVCC></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    </PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 2470, verso del supporto secondario: nota anonima manoscritta: &#034;This is the fine tower built in the 13.th century by the Frank Dukes of Athens on the Southern wing of the Propylaea. I saw it in 1865. Some 15 years after, it was destroyed by Greck pedantry, Schliemann assisting with a subscription. When Staurt saw it in 1752 it was used by the Turks as a prison. It was the keep of the fortified palace of ...&#034;.&amp;#10;</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Anonimo , Maestranze sec. XIV/ XV - Torre Franca - insieme" sercdf="182021" progr="1" altezza="276" larghezza="200">/FONDO_SUPINO/Altri_paesi/Grecia I/sup 2470.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/108395/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

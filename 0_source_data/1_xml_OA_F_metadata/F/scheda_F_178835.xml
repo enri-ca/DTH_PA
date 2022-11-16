@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo , Anonimo sec. IV a.C. - Sarcofago di Velthur Partunus" sercdf="178835" sercdoa="106911">
+			  <PARAGRAFO etichetta="CLASSIFICATION"> 
+				   <INVN etichetta="Inventory number">sup 28</INVN><LDCM etichetta="Collection">Fototeca I.B. Supino</LDCM><UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">1</UBFN><UBFT etichetta="Container heading">Italia</UBFT><UBFF etichetta="Folder number">5</UBFF><UBFU etichetta="Folder heading">Lazio</UBFU><UBFC etichetta="Shelfmark">PA_Lazio 015</UBFC></PARAGRAFO>		  
+			  <PARAGRAFO etichetta="SUBJECT">
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">Sfingi</SGTI>
+						 <OGTDOA etichetta="Object">sarcofago</OGTDOA>
+						 </RIPETIZIONE> 
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">Ritratto funebre</SGTI>
+						 <OGTDOA etichetta="Object">sarcofago</OGTDOA>
+						 </RIPETIZIONE> 
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">Amazzonomachia</SGTI>
+						 <OGTDOA etichetta="Object">sarcofago</OGTDOA>
+						 </RIPETIZIONE> 
+					</PARAGRAFO>		  					
+			<PARAGRAFO etichetta="SOURCE OF TITLE">
+				<RIPETIZIONE>
+					 <SGLS etichetta="Source of title">del catalogatore</SGLS>
+					 <SGLA etichetta="Attributed title">Anonimo sec. IV a.C. - Sarcofago di Velthur Partunus</SGLA>					 
+					 </RIPETIZIONE> 
+					</PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="OBJECT">
+				    <QNTN etichetta="Number of items">1</QNTN><OGTD etichetta="Object">positivo</OGTD><OGTB etichetta="Type">m</OGTB><MTX etichetta="BW/C">BN</MTX><MTC etichetta="Medium or materials">albumina/ carta</MTC><MISU etichetta="Unit of measurement">mm</MISU>
+					<MISA etichetta="Height">198</MISA>
+					<MISL etichetta="Length">259</MISL>
+					<MISO etichetta="Type of dimensions">supporto primario</MISO>				   				   				   
+					</PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="PHOTOGRAPHERS">
+	            <RIPETIZIONE >  	
+					   <AUFN etichetta="Photographer">Anonimo</AUFN><AUFM etichetta="Reason for attribution">n.r.</AUFM></RIPETIZIONE>
+			   </PARAGRAFO>		  			  			   
+			  <PARAGRAFO etichetta="AUTHOR OF ARTWORK REPRESENTED IN THE PHOTOGRAPH">
+	            <RIPETIZIONE>	
+					   <AUTN etichetta="Artist's name">Anonimo sec. IV a.C.</AUTN><AUTB etichetta="Cultural context">Arte etrusca</AUTB></RIPETIZIONE>
+			   </PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="DATING">
+					<DTZG etichetta="Century">XIX</DTZG>
+					 <DTSI etichetta="From">1876</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">1899</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL><DTMM etichetta="Reason for dating">bibliografia/ analisi storica</DTMM>
+					 </PARAGRAFO>		  			 
+			  <PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">		  		  		  
+				   <LRD etichetta="Shot date">1876-1899</LRD></PARAGRAFO>
+
+			  <PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+			  
+				   </PARAGRAFO>	
+	     			  
+
+            		 
+  			  <PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+	            </PARAGRAFO>	
+                          
+
+			  <PARAGRAFO etichetta="STATE OF PRESERVATION">
+				   </PARAGRAFO>			  			  
+			  
+			  <PARAGRAFO etichetta="LOCATION">		  		  		  
+				   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR><PVCP etichetta="District">BO</PVCP><PVCC etichetta="Town / Municipality">Bologna</PVCC><LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN><LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU></PARAGRAFO>
+	  
+          
+			<PARAGRAFO etichetta="PROVENANCE">
+	            </PARAGRAFO>				  
+			  
+
+	     			  			 
+			  
+			  <PARAGRAFO etichetta="CODES">		  		  		  
+				   <TSK etichetta="Type of entry">F</TSK><LIR etichetta="Cataloguing level">I</LIR><NCTR etichetta="Regional code">08</NCTR><NCTN etichetta="Id. number">800028</NCTN><ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC></PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">		  		  		  
+				   </PARAGRAFO>
+
+			  <PARAGRAFO etichetta="OWNERSHIP">
+				   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG><CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS></PARAGRAFO>			  			  
+			  <PARAGRAFO etichetta="COPYRIGHT">
+				   </PARAGRAFO>			  	
+			  <PARAGRAFO etichetta="CATALOGUING">
+				   <CMPD etichetta="Cataloguing date">03/09/2019</CMPD><CMPN etichetta="Cataloguer">Giulia Calanna</CMPN></PARAGRAFO>			  			  
+			  <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Fotografia incollata su cartoncino; supporto secondario mm 381x317.
+</OSS></PARAGRAFO>					  
+  			  <PARAGRAFO etichetta="DIGITAL IMAGE">
+	            <FTAT etichetta="Detail / Whole">insieme</FTAT><FTAN etichetta="File name">\FONDO_SUPINO\Italia\Lazio\sup 28.jpg</FTAN><FTAX etichetta="Attached / Unattached image">allegata</FTAX><FTAP etichetta="Type">fotografia digitale</FTAP><VERSO etichetta="Verso">Pubblico</VERSO></PARAGRAFO>			  
+	  			  
+  			  <PARAGRAFO etichetta="UPDATING">
+	            <RIPETIZIONE>
+				   <AGGD etichetta="Data">03/09/2019</AGGD><AGGN etichetta="Nome revisore">Giulia Calanna</AGGN></RIPETIZIONE>
+			   <RIPETIZIONE>
+				   <AGGD etichetta="Data">03/09/2019</AGGD><AGGN etichetta="Nome revisore">Francesca Candi</AGGN></RIPETIZIONE>
+			   </PARAGRAFO>		
+			  
+	  			  
+  			  <PARAGRAFO etichetta="SUPERVISING">
+	            </PARAGRAFO>		
+			  	     			  			 
+			 
+			 
+			  <ELENCO_FOTO>
+			    <FOTO note="Anonimo , Anonimo sec. IV a.C. - Sarcofago di Velthur Partunus - insieme" sercdf="178835" altezza="198" larghezza="259">/FONDO_SUPINO/Italia/Lazio/sup 28.jpg</FOTO>
+				</ELENCO_FOTO>
+			  
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/photo/178835/
+			  </ISSHOWNBY>
+		  </SCHEDA>			  
+	 </RISULTATI>	 
+
+  
+  

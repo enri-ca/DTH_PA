@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo sec. VI a.C. , Sfinge alata" sercdoa="108665">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">106026</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">2</UBFN><UBFT etichetta="Container heading">Estero</UBFT><UBFF etichetta="Folder number">12</UBFF><UBFU etichetta="Folder heading">Grecia III</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">statua</OGTD><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Sfinge alata</SGTI><MTC etichetta="Medium or materials">marmo</MTC></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Anonimo sec. VI a.C.</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. VI a.C.</DTZG><DTSI etichetta="From">600 a.C.</DTSI><DTSF etichetta="To">501 a.C.</DTSF></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Grecia</PVCS><PVCC etichetta="Town / Municipality">Atene</PVCC><LDCN etichetta="Repository">Museo Archeologico Nazionale</LDCN><LDCS etichetta="Precise location">inv. 76</LDCS></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   <PRVS etichetta="Country">Grecia</PRVS><PRVC etichetta="Town / Municipality">Atene</PRVC><PRCD etichetta="Repository">Pireo</PRCD><PRDU etichetta="Date OUT">1880</PRDU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    <RIPETIZIONE>
+				   <BIBX etichetta="Type">bibliografia specifica</BIBX><BIBA etichetta="Author">Karouzou S.</BIBA><BIBG etichetta="Title">National Archaeological Museum. Collection of sculpture. A catalogue</BIBG><BIBD etichetta="Publication date">1968</BIBD><BIBN etichetta="Page">pp. 13-14</BIBN></RIPETIZIONE>
+				</PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 2832, verso del supporto secondario: nota anonima manoscritta: &#034;National Museum Athens. / 28 Archaic Sphinx from Spata in Attica of Pentelic marble. / 76. Archaic Sphinx found at the Peiraios in 1880. Parian marble. / 52. Archaic head of beautiful art. Pentelic marble. 93. Disk of Parian marble found at the Peiraios in 1889. 11 inches in diam. The painting on it is now almost effaced but once represented a...&#034;.</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Anonimo , Anonimo sec. VI a.C. - Sfingi alate, Testa maschile, Piatto dipinto nel Museo Nazionale Archeologico Nazionale - insieme" sercdf="182606" progr="1" altezza="211" larghezza="265">/FONDO_SUPINO/Altri_paesi/Grecia III/sup 2832.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/108665/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Maestranze sec. XV , Palazzo Vitelleschi" sercdoa="106976">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">104163</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">1</UBFN><UBFT etichetta="Container heading">Italia</UBFT><UBFF etichetta="Folder number">5</UBFF><UBFU etichetta="Folder heading">Lazio</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">palazzo</OGTD><OGTT etichetta="Object type">architettura</OGTT><SGTT etichetta="Traditional title">Palazzo Vitelleschi</SGTT></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Maestranze sec. XV</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. XV</DTZG><DTSI etichetta="From">1436</DTSI><DTSF etichetta="To">1490</DTSF></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Italia</PVCS><PVCR etichetta="Region / Federal State">Lazio</PVCR><PVCP etichetta="District">Viterbo</PVCP><PVCC etichetta="Town / Municipality">Tarquinia</PVCC></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    </PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 218, verso del supporto secondario: nota anonima manoscritta: &#034;Corneto Vitelleschi. Court of Cardinal Vitelleschis palace at Corneto. It is now an inn and a tenement for the person classes in the town. When I was first there in 1861, it was occupied by French officiers who had their mess in it&#034;.&amp;#10;&amp;#10;Foto sup 223, verso del supporto secondario: nota anonima manoscritta: &#034;Corneto. Cardinal Vitelleschis palace. It was incomplete when he was murdered in 1440 and finished by nephew, the bishop of Corneto&#034;.</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Anonimo , Maestranze sec. XV - Palazzo Vitelleschi a Tarquinia - insieme" sercdf="178933" progr="1" altezza="260" larghezza="200">/FONDO_SUPINO/Italia/Lazio/sup 218.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Maestranze sec. XV - Palazzo Vitelleschi a Tarquinia - insieme" sercdf="178942" progr="2" altezza="260" larghezza="200">/FONDO_SUPINO/Italia/Lazio/sup 223.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/106976/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

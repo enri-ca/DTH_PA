@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo sec. II a.C , Motivi decorativi,Ritratto di Larthia Seianti" sercdoa="107455">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">104892</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">1</UBFN><UBFT etichetta="Container heading">Italia</UBFT><UBFF etichetta="Folder number">17</UBFF><UBFU etichetta="Folder heading">Toscana II</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">sarcofago</OGTD><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Motivi decorativi,Ritratto di Larthia Seianti</SGTI><SGTT etichetta="Traditional title">Sarcofago di Larthia Seianti</SGTT><MTC etichetta="Medium or materials">terracotta</MTC></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Anonimo sec. II a.C</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. II a.C.</DTZG><DTSI etichetta="From">200 a.C.</DTSI><DTSF etichetta="To">101 a.C.</DTSF></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Italia</PVCS><PVCR etichetta="Region / Federal State">Toscana</PVCR><PVCP etichetta="District">Firenze</PVCP><PVCC etichetta="Town / Municipality">Firenze</PVCC><LDCN etichetta="Repository">Museo Archeologico Nazionale</LDCN></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   <PRVS etichetta="Country">Italia</PRVS><PRVR etichetta="Region / Federal State">Toscana</PRVR><PRVP etichetta="District">Siena</PRVP><PRVC etichetta="Town / Municipality">Chiusi</PRVC><PRDU etichetta="Date OUT">1877</PRDU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    </PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 1965, verso del supporto secondario: nota anonima manoscritta: &#034;This painted terra cotta Etruscan Lady, Larthia Seianti S... (of the family / of Sejanus) was discovered at Chiusi in 1877, brought to Rome and placed / in the Kircherian in 1878 and then removed to the Museum at Florence, / where she now is. She wears a quantity of jewelry: a fillet of flowers with / rubies and emeralds; a girdle studded with rubies; [...] / The date of this monument is said to be 217 B.C. / It cost the Government 10,000 fes. only&#034;.&amp;#10;Foto sup 1967, verso del supporto secondario: nota anonima manoscritta: &#034;The painted lady came from Chiusi; the great tufo sarc. from Orvieto&#034;. Quest&#039;ultima foto documenta l&#039;allestimento ottocentesco della sala del Museo Archeologico di Firenze dove era conservato il sarcofago di Larthia Seianti.</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Paganori, Vincenzo , Anonimo sec. II a.C - Sarcofago di Larthia Seianti; Ritratto di Larthia Seianti - insieme" sercdf="179841" progr="1" altezza="190" larghezza="259">/FONDO_SUPINO/Italia/Toscana II/sup 1965.jpg</FOTO>
+				 
+				<FOTO note="Alinari, Fratelli , Firenze. - R. Museo Archeologico. Sezione Etrusca. Sala delle sculture. - insieme, veduta della sala del Museo" sercdf="179849" progr="2" altezza="200" larghezza="252">/FONDO_SUPINO/Italia/Toscana II/sup 1967.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/107455/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo sec. IV a.C. , Hermes" sercdoa="108716">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">105991</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">2</UBFN><UBFT etichetta="Container heading">Estero</UBFT><UBFF etichetta="Folder number">9</UBFF><UBFU etichetta="Folder heading">Gran Bretagna </UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">statua</OGTD><OGTV etichetta="Identification">frammento</OGTV><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Hermes</SGTI><MTC etichetta="Medium or materials">marmo</MTC><MISU etichetta="Unit of measurement">cm</MISU><MISA etichetta="Height">35</MISA></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Anonimo sec. IV a.C.</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. IV a.C.</DTZG><DTSI etichetta="From">350 a.C.</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">301 a.C.</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Regno Unito</PVCS><PVCC etichetta="Town / Municipality">Londra</PVCC><LDCN etichetta="Repository">British Museum</LDCN><LDCS etichetta="Precise location">1862,0817.1</LDCS></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   <PRVS etichetta="Country">Grecia</PRVS></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    </PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 3003, verso del supporto secondario: nota anonima manoscritta: &#034;British Museum. This head came from Lord Aberdeens collection and was formerly called that of a young Hercules. In 1886 Wolters discovered that it was Praxitelean. Miss Sellers put it by the side of the head of the Hermes of Olympia and found them amazingly similar. The head is of finest Parian marble and has holes in the hair for a wreath. Lechat says...&#034;.</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Anonimo , Anonimo sec. IV a.C. - Hermes - insieme" sercdf="182708" progr="1" altezza="278" larghezza="186">/FONDO_SUPINO/Altri_paesi/G Bretagna/sup 3003.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/108716/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

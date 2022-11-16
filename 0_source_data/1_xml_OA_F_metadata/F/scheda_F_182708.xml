@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo , Anonimo sec. IV a.C. - Hermes" sercdf="182708" sercdoa="108716">
+			  <PARAGRAFO etichetta="CLASSIFICATION"> 
+				   <INVN etichetta="Inventory number">sup 3003</INVN><LDCM etichetta="Collection">Fototeca I.B. Supino</LDCM><UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">2</UBFN><UBFT etichetta="Container heading">Estero</UBFT><UBFF etichetta="Folder number">9</UBFF><UBFU etichetta="Folder heading">Gran Bretagna </UBFU><UBFC etichetta="Shelfmark">PA_Gran Bretagna 043</UBFC></PARAGRAFO>		  
+			  <PARAGRAFO etichetta="SUBJECT">
+					<RIPETIZIONE>
+						<SGTI etichetta="Subject">Hermes</SGTI>
+						 <OGTDOA etichetta="Object">statua</OGTDOA>
+						 </RIPETIZIONE> 
+					</PARAGRAFO>		  					
+			<PARAGRAFO etichetta="SOURCE OF TITLE">
+				<RIPETIZIONE>
+					 <SGLS etichetta="Source of title">del catalogatore</SGLS>
+					 <SGLA etichetta="Attributed title">Anonimo sec. IV a.C. - Hermes</SGLA>					 
+					 </RIPETIZIONE> 
+					</PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="OBJECT">
+				    <QNTN etichetta="Number of items">1</QNTN><OGTD etichetta="Object">positivo</OGTD><OGTB etichetta="Type">m</OGTB><MTX etichetta="BW/C">BN</MTX><MTC etichetta="Medium or materials">albumina/ carta</MTC><MISU etichetta="Unit of measurement">mm</MISU>
+					<MISA etichetta="Height">278</MISA>
+					<MISL etichetta="Length">186</MISL>
+					<MISO etichetta="Type of dimensions">supporto primario</MISO>				   				   				   
+					</PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="PHOTOGRAPHERS">
+	            <RIPETIZIONE >  	
+					   <AUFN etichetta="Photographer">Anonimo</AUFN><AUFM etichetta="Reason for attribution">n.r.</AUFM></RIPETIZIONE>
+			   </PARAGRAFO>		  			  			   
+			  <PARAGRAFO etichetta="AUTHOR OF ARTWORK REPRESENTED IN THE PHOTOGRAPH">
+	            <RIPETIZIONE>	
+					   <AUTN etichetta="Artist's name">Anonimo sec. IV a.C.</AUTN><AUTB etichetta="Cultural context">Arte greca</AUTB></RIPETIZIONE>
+			   </PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="DATING">
+					<DTZG etichetta="Century">XIX</DTZG>
+					 <DTSI etichetta="From">1862</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">1899</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL><DTMM etichetta="Reason for dating">analisi storica</DTMM>
+					 </PARAGRAFO>		  			 
+			  <PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">		  		  		  
+				   <LRD etichetta="Shot date">1899/ ante</LRD></PARAGRAFO>
+
+			  <PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+			  
+				   <ROFI etichetta="Negative number">267</ROFI></PARAGRAFO>	
+	     			  
+
+            		 
+  			  <PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+	            </PARAGRAFO>	
+                          
+
+			  <PARAGRAFO etichetta="STATE OF PRESERVATION">
+				   </PARAGRAFO>			  			  
+			  
+			  <PARAGRAFO etichetta="LOCATION">		  		  		  
+				   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR><PVCP etichetta="District">BO</PVCP><PVCC etichetta="Town / Municipality">Bologna</PVCC><LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN><LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU></PARAGRAFO>
+	  
+          
+			<PARAGRAFO etichetta="PROVENANCE">
+	            </PARAGRAFO>				  
+			  
+
+	     			  			 
+			  
+			  <PARAGRAFO etichetta="CODES">		  		  		  
+				   <TSK etichetta="Type of entry">F</TSK><LIR etichetta="Cataloguing level">I</LIR><NCTR etichetta="Regional code">08</NCTR><NCTN etichetta="Id. number">803003</NCTN><ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC></PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">		  		  		  
+				   </PARAGRAFO>
+
+			  <PARAGRAFO etichetta="OWNERSHIP">
+				   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG><CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS></PARAGRAFO>			  			  
+			  <PARAGRAFO etichetta="COPYRIGHT">
+				   </PARAGRAFO>			  	
+			  <PARAGRAFO etichetta="CATALOGUING">
+				   <CMPD etichetta="Cataloguing date">13/02/2020</CMPD><CMPN etichetta="Cataloguer">Giulia Calanna</CMPN></PARAGRAFO>			  			  
+			  <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Fotografia incollata su cartoncino; supporto secondario mm 381x312.</OSS></PARAGRAFO>					  
+  			  <PARAGRAFO etichetta="DIGITAL IMAGE">
+	            <FTAT etichetta="Detail / Whole">insieme</FTAT><FTAN etichetta="File name">\FONDO_SUPINO\Altri_paesi\G Bretagna\sup 3003.jpg</FTAN><FTAX etichetta="Attached / Unattached image">allegata</FTAX><FTAP etichetta="Type">fotografia digitale</FTAP><VERSO etichetta="Verso">Pubblico</VERSO></PARAGRAFO>			  
+	  			  
+  			  <PARAGRAFO etichetta="UPDATING">
+	            <RIPETIZIONE>
+				   <AGGD etichetta="Data">13/02/2020</AGGD><AGGN etichetta="Nome revisore">Giulia Calanna</AGGN></RIPETIZIONE>
+			   </PARAGRAFO>		
+			  
+	  			  
+  			  <PARAGRAFO etichetta="SUPERVISING">
+	            </PARAGRAFO>		
+			  	     			  			 
+			 
+			 
+			  <ELENCO_FOTO>
+			    <FOTO note="Anonimo , Anonimo sec. IV a.C. - Hermes - insieme" sercdf="182708" altezza="278" larghezza="186">/FONDO_SUPINO/Altri_paesi/G Bretagna/sup 3003.jpg</FOTO>
+				</ELENCO_FOTO>
+			  
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/photo/182708/
+			  </ISSHOWNBY>
+		  </SCHEDA>			  
+	 </RISULTATI>	 
+
+  
+  

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo sec. II a.C , Guerriero" sercdoa="108561">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">105908</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">2</UBFN><UBFT etichetta="Container heading">Estero</UBFT><UBFF etichetta="Folder number">12</UBFF><UBFU etichetta="Folder heading">Grecia III</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">statua</OGTD><OGTV etichetta="Identification">frammento</OGTV><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Guerriero</SGTI><MTC etichetta="Medium or materials">marmo</MTC></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Anonimo sec. II a.C</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. II a.C.</DTZG><DTSI etichetta="From">200 a.C.</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">150 a.C.</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Grecia</PVCS><PVCC etichetta="Town / Municipality">Atene</PVCC><LDCN etichetta="Repository">Museo Archeologico Nazionale</LDCN><LDCS etichetta="Precise location">inv. 247</LDCS></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   <PRVS etichetta="Country">Grecia</PRVS><PRVC etichetta="Town / Municipality">Delo</PRVC><PRDU etichetta="Date OUT">1883</PRDU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    <RIPETIZIONE>
+				   <BIBX etichetta="Type">bibliografia specifica</BIBX><BIBA etichetta="Author">Karouzou S.</BIBA><BIBG etichetta="Title">National Archaeological Museum. Collection of sculpture. A catalogue</BIBG><BIBD etichetta="Publication date">1968</BIBD><BIBN etichetta="Page">ppp. 170-171</BIBN></RIPETIZIONE>
+				</PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 2782, verso del supporto secondario: nota anonima manoscritta: &#034;N° 247. N.C. Central Museum, Athens. The fighting warrior, like the Borghese warrior of the Louvre. It was found in the excavations made by the French school in Delos in 1883. Size rather above that of nature, marble parian. It was made by Agasias the son of Menophilos of Ephesus who appears to have been a disciple of the school of Pergamos and ...&#034;.&amp;#10;La foto sup 2782 documenta le opere e l&#039;allestimento ottocentesco del museo.</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Anonimo , Anonimo sec. II a.C - Guerriero - insieme" sercdf="182339" progr="1" altezza="203" larghezza="263">/FONDO_SUPINO/Altri_paesi/Grecia III/sup 2782.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo sec. II a.C - Guerriero - insieme" sercdf="182342" progr="2" altezza="258" larghezza="203">/FONDO_SUPINO/Altri_paesi/Grecia III/sup 2783.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/108561/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

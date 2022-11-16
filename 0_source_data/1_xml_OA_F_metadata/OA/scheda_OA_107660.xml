@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo sec. III a.C. , Ritratto funebre di Hasti Afunei,Scena di commiato" sercdoa="107660">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">105133</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">1</UBFN><UBFT etichetta="Container heading">Italia</UBFT><UBFF etichetta="Folder number">15</UBFF><UBFU etichetta="Folder heading">Sicilia</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">sarcofago</OGTD><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Ritratto funebre di Hasti Afunei,Scena di commiato</SGTI><SGTT etichetta="Traditional title">Sarcofago di Hasti Afunei</SGTT><MTC etichetta="Medium or materials">alabastro</MTC></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Anonimo sec. III a.C.</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. III a.C.</DTZG><DTZS etichetta="Part of century">ultimo quarto</DTZS><DTSI etichetta="From">201 a.C.</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">225 a.C.</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Italia</PVCS><PVCR etichetta="Region / Federal State">Sicilia</PVCR><PVCP etichetta="District">Palermo</PVCP><PVCC etichetta="Town / Municipality">Palermo</PVCC><LDCN etichetta="Repository">Museo Archeologico Regionale</LDCN></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    </PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Il sarcofago proviene dalla Collezione Casuccini di Chiusi, acquistata dal Museo archeologico di Palermo nel 1865-1866.&amp;#10;Foto sup 1351, verso del supporto secondario: nota anonima manoscritta: &#034;This grand headless Etruscan lady came with the other gear from the Casuccini collection of Chiusi where I saw her in 1866. She is of white marble. The figures below, painted and with painted inscriptions, are of alabaster&#034;. &amp;#10;Foto sup 1352, verso del supporto secondario: nota anonima manoscritta: &#034;All these sarch. and turns are of alabaster and come from Chiusi. The town of Palermo bought the Casuccini collection in 1866. The relief of the big sarc. represents the farewell of a married pair. He is Lavth Aphuna, she Aphunei who reclines covered with jewelry on the lid of the sarc. Awreiged female demon leads her off to the shades below [...] See Dennis Vol II, page 316&#034;.</OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Tagliarini , Sarcofago etrusco. Museo. Palermo - insieme" sercdf="180272" progr="1" altezza="187" larghezza="250">/FONDO_SUPINO/Italia/Sicilia/sup 1350.jpg</FOTO>
+				 
+				<FOTO note="Incorpora , Museo. Palermo. Sarcofago etrusco - insieme" sercdf="180276" progr="2" altezza="202" larghezza="257">/FONDO_SUPINO/Italia/Sicilia/sup 1351.jpg</FOTO>
+				 
+				<FOTO note="Sommer, Giorgio , Palermo. Sarcofago - particolare" sercdf="180277" progr="3" altezza="257" larghezza="204">/FONDO_SUPINO/Italia/Sicilia/sup 1352.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/107660/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

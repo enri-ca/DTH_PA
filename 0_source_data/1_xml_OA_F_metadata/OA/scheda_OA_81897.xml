@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo umbro sec. XIV , Ritratto funebre di Filippo de Courtenay,Madonna con Bambino,Re (?),Leone,Angeli reggicortina,Stemmi,Profeti" sercdoa="81897">
+			  <PARAGRAFO etichetta="CODES">
+				   <NRSCHEDA etichetta="Entry number">80031</NRSCHEDA><RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Scultura italiana</UBFS><UBFN etichetta="Container number">10</UBFN><UBFT etichetta="Container heading">Scultura italiana sec. XIV. Siena, Umbria, Roma, Italia Meridionale, Sicilia</UBFT><UBFF etichetta="Folder number">6</UBFF><UBFU etichetta="Folder heading">Umbria sec. XIV 2</UBFU></RIPETIZIONE>
+				<RIPETIZIONE>
+				   <UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">1</UBFN><UBFT etichetta="Container heading">Italia</UBFT><UBFF etichetta="Folder number">21</UBFF><UBFU etichetta="Folder heading">Umbria</UBFU></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="OBJECT">
+				   <OGTD etichetta="Object">monumento funebre</OGTD><OGTT etichetta="Object type">scultura</OGTT><SGTI etichetta="Subject">Ritratto funebre di Filippo de Courtenay,Madonna con Bambino,Re (?),Leone,Angeli reggicortina,Stemmi,Profeti</SGTI><SGTT etichetta="Traditional title">Monumento funebre di Filippo de Courtenay, imperatore di Costantinopoli</SGTT><MTC etichetta="Medium or materials">marmo</MTC></PARAGRAFO>
+			  <PARAGRAFO etichetta="AUTHOR">
+			    <RIPETIZIONE>
+				   <AUTN etichetta="Artist's name">Anonimo umbro sec. XIV</AUTN><AUTM etichetta="Reason for attribution">Bibliografia</AUTM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			    <RIPETIZIONE>
+				   <AAT etichetta="Name">Fuccio</AAT><AATM etichetta="Reason for attribution">Bibliografia</AATM></RIPETIZIONE>
+				<RIPETIZIONE>
+				   <AAT etichetta="Name">Ramo di Paganello</AAT><AATS etichetta="Connection with artist">(?)</AATS><AATM etichetta="Reason for attribution">Bibliografia</AATM></RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="DATING">
+				   <DTZG etichetta="Century">sec. XIV</DTZG><DTZS etichetta="Part of century">prima metà</DTZS><DTSI etichetta="From">1320</DTSI><DTSF etichetta="To">1349</DTSF></PARAGRAFO>
+			  <PARAGRAFO etichetta="LOCATION">
+				   <PVCS etichetta="Country">Italia</PVCS><PVCR etichetta="Region / Federal State">Umbria</PVCR><PVCP etichetta="District">Perugia</PVCP><PVCC etichetta="Town / Municipality">Assisi</PVCC><LDCN etichetta="Repository">Basilica di S. Francesco, Basilica inferiore</LDCN><LDCS etichetta="Precise location">atrio</LDCS></PARAGRAFO>
+			  <PARAGRAFO etichetta="PROVENANCE">
+			    <RIPETIZIONE>
+				   </RIPETIZIONE>
+				</PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+				   </PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATED ENTRIES">
+				   </PARAGRAFO>
+
+			 <PARAGRAFO etichetta="BIBLIOGRAPHY">
+			    </PARAGRAFO>
+
+
+			 <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Foto sup 661, verso del supporto secondario: nota anonima manoscritta: &#034;Assisi. Monument of Hecuba de Lusignan, Queen of Cyprus. Said to have been made by Fuccio Fiorentino about 1240 Mr. Perkins thinks that the tomb was made probably by Lapo, one of Nicolà Pisanos scholars. It is thought now (1898) that the tomb is that of Maria, princeps of Antioch, daughter of John of Brieune, king of Jerusalem ...&#034;.&amp;#10;&amp;#10;Foto sup 717, verso del supporto secondario: nota anonima manoscritta: &#034;Particolare del monumento detto della Regina di Cipro Sec. XIV&#034;. </OSS></PARAGRAFO>
+
+			  <ALLEGATI>
+
+                            <FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay - insieme" sercdf="143148" progr="1" altezza="238" larghezza="180">/160000/142400/142366.jpg</FOTO>
+				 
+				<FOTO note="Alinari, Fratelli , Assisi - Chiesa Inferiore di S. Francesco. Monumento alla memoria di Ecuba Lusignana regina di Cipro e Gerusalemme (Fuccio Fiorentino.)? - insieme" sercdf="143150" progr="2" altezza="252" larghezza="192">/160000/142400/142378.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay - particolare" sercdf="143158" progr="3" altezza="239" larghezza="180">/160000/142400/142367.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay - particolare" sercdf="143159" progr="4" altezza="238" larghezza="180">/160000/142400/142368.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay - particolare" sercdf="143160" progr="5" altezza="238" larghezza="181">/160000/142400/142369.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay - particolare" sercdf="143161" progr="6" altezza="238" larghezza="181">/160000/142400/142370.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Ritratto funebre di Filippo de Courtenay - particolare" sercdf="143413" progr="7" altezza="180" larghezza="239">/160000/142400/142371.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay: Profeta (?) - particolare" sercdf="143414" progr="8" altezza="239" larghezza="180">/160000/142400/142372.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay: Profeta (?) - particolare" sercdf="143415" progr="9" altezza="239" larghezza="180">/160000/142400/142373.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay: Angelo reggicortina - particolare" sercdf="143416" progr="10" altezza="239" larghezza="180">/160000/142400/142374.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay: Angelo reggicortina - particolare" sercdf="143417" progr="11" altezza="239" larghezza="180">/160000/142400/142375.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro - sec. XIV - Monumento funebre di Filippo de Courtenay: leone - particolare" sercdf="143418" progr="12" altezza="180" larghezza="239">/160000/142400/142376.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro sec. XIV - sec. XIV - Monumento funebre di Filippo de Courtenay, imperatore di Costantinopoli; Madonna con Bambino; Re (?); Leone; Angeli reggicortina; Stemmi; Profeti - insieme" sercdf="181642" progr="13" altezza="230" larghezza="173">/FONDO_SUPINO/Italia/Umbria/sup 661.jpg</FOTO>
+				 
+				<FOTO note="Alinari, Fratelli , Assisi - Chiesa Inferiore di S. Francesco. Monumento alla memoria di Ecuba Lusignana regina di Cipro e Gerusalemme (Fuccio Fiorentino.)? - particolare" sercdf="181714" progr="14" altezza="194" larghezza="251">/FONDO_SUPINO/Italia/Umbria/sup 692.jpg</FOTO>
+				 
+				<FOTO note="Alinari, Fratelli , Assisi - Chiesa Inferiore di S. Francesco. Monumento alla memoria di Ecuba Lusignana regina di Cipro e Gerusalemme (Fuccio Fiorentino?) - insieme" sercdf="181715" progr="15" altezza="250" larghezza="189">/FONDO_SUPINO/Italia/Umbria/sup 693.jpg</FOTO>
+				 
+				<FOTO note="Anonimo , Anonimo umbro sec. XIV - Monumento funebre di Filippo de Courtenay, imperatore di Costantinopoli; Madonna con Bambino; Re (?); Leone; Angeli reggicortina; Stemmi; Profeti - insieme" sercdf="181746" progr="16" altezza="180" larghezza="238">/FONDO_SUPINO/Italia/Umbria/sup 717.jpg</FOTO>
+				 
+				</ALLEGATI>
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/work/81897/
+			  </ISSHOWNBY>
+			  
+			</SCHEDA>
+	 </RISULTATI>
+
+
+  

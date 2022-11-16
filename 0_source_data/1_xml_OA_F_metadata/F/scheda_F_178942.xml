@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RISULTATI>
+
+   <SCHEDA intestazione="Anonimo , Maestranze sec. XV - Palazzo Vitelleschi a Tarquinia" sercdf="178942" sercdoa="106976">
+			  <PARAGRAFO etichetta="CLASSIFICATION"> 
+				   <INVN etichetta="Inventory number">sup 223</INVN><LDCM etichetta="Collection">Fototeca I.B. Supino</LDCM><UBFS etichetta="Archival series">Partizione Antica</UBFS><UBFN etichetta="Container number">1</UBFN><UBFT etichetta="Container heading">Italia</UBFT><UBFF etichetta="Folder number">5</UBFF><UBFU etichetta="Folder heading">Lazio</UBFU><UBFC etichetta="Shelfmark">PA_Lazio 067</UBFC></PARAGRAFO>		  
+			  <PARAGRAFO etichetta="SUBJECT">
+					<RIPETIZIONE>
+						<OGTDOA etichetta="Object">palazzo</OGTDOA>
+						 </RIPETIZIONE> 
+					</PARAGRAFO>		  					
+			<PARAGRAFO etichetta="SOURCE OF TITLE">
+				<RIPETIZIONE>
+					 <SGLS etichetta="Source of title">del catalogatore</SGLS>
+					 <SGLA etichetta="Attributed title">Maestranze sec. XV - Palazzo Vitelleschi a Tarquinia</SGLA>					 
+					 </RIPETIZIONE> 
+					</PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="OBJECT">
+				    <QNTN etichetta="Number of items">1</QNTN><OGTD etichetta="Object">positivo</OGTD><OGTB etichetta="Type">m</OGTB><MTX etichetta="BW/C">BN</MTX><MTC etichetta="Medium or materials">albumina/ carta</MTC><MISU etichetta="Unit of measurement">mm</MISU>
+					<MISA etichetta="Height">260</MISA>
+					<MISL etichetta="Length">200</MISL>
+					<MISO etichetta="Type of dimensions">supporto primario</MISO>				   				   				   
+					</PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="PHOTOGRAPHERS">
+	            <RIPETIZIONE >  	
+					   <AUFN etichetta="Photographer">Anonimo</AUFN><AUFM etichetta="Reason for attribution">n.r.</AUFM></RIPETIZIONE>
+			   </PARAGRAFO>		  			  			   
+			  <PARAGRAFO etichetta="AUTHOR OF ARTWORK REPRESENTED IN THE PHOTOGRAPH">
+	            <RIPETIZIONE>	
+					   <AUTN etichetta="Artist's name">Maestranze sec. XV</AUTN><AUTB etichetta="Cultural context">Arte gotica/ arte rinascimentale</AUTB></RIPETIZIONE>
+			   </PARAGRAFO>		  			  
+			  <PARAGRAFO etichetta="DATING">
+					<DTZG etichetta="Century">XIX</DTZG>
+					 <DTSI etichetta="From">1855</DTSI><DTSV etichetta="Degree of approximation">ca.</DTSV><DTSF etichetta="To">1899</DTSF><DTSL etichetta="Degree of approximation">ca.</DTSL><DTMM etichetta="Reason for dating">analisi tecnico-formale/ analisi storica</DTMM>
+					 </PARAGRAFO>		  			 
+			  <PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">		  		  		  
+				   <LRD etichetta="Shot date">1899/ ante</LRD></PARAGRAFO>
+
+			  <PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+			  
+				   </PARAGRAFO>	
+	     			  
+
+            		 
+  			  <PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+	            </PARAGRAFO>	
+                          
+
+			  <PARAGRAFO etichetta="STATE OF PRESERVATION">
+				   </PARAGRAFO>			  			  
+			  
+			  <PARAGRAFO etichetta="LOCATION">		  		  		  
+				   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR><PVCP etichetta="District">BO</PVCP><PVCC etichetta="Town / Municipality">Bologna</PVCC><LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN><LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU></PARAGRAFO>
+	  
+          
+			<PARAGRAFO etichetta="PROVENANCE">
+	            </PARAGRAFO>				  
+			  
+
+	     			  			 
+			  
+			  <PARAGRAFO etichetta="CODES">		  		  		  
+				   <TSK etichetta="Type of entry">F</TSK><LIR etichetta="Cataloguing level">I</LIR><NCTR etichetta="Regional code">08</NCTR><NCTN etichetta="Id. number">800223</NCTN><ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC></PARAGRAFO>
+			  <PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">		  		  		  
+				   </PARAGRAFO>
+
+			  <PARAGRAFO etichetta="OWNERSHIP">
+				   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG><CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS></PARAGRAFO>			  			  
+			  <PARAGRAFO etichetta="COPYRIGHT">
+				   </PARAGRAFO>			  	
+			  <PARAGRAFO etichetta="CATALOGUING">
+				   <CMPD etichetta="Cataloguing date">06/09/2019</CMPD><CMPN etichetta="Cataloguer">Giulia Calanna</CMPN></PARAGRAFO>			  			  
+			  <PARAGRAFO etichetta="NOTES">
+				   <OSS etichetta="Notes">Fotografia incollata su cartoncino; supporto secondario mm 382x318.
+
+Confronta con foto Parker n. 3374 in Un inglese a Roma 1864-1877, 1989, p. 219.
+
+</OSS></PARAGRAFO>					  
+  			  <PARAGRAFO etichetta="DIGITAL IMAGE">
+	            <FTAT etichetta="Detail / Whole">insieme</FTAT><FTAN etichetta="File name">\FONDO_SUPINO\Italia\Lazio\sup 223.jpg</FTAN><FTAX etichetta="Attached / Unattached image">allegata</FTAX><FTAP etichetta="Type">fotografia digitale</FTAP><VERSO etichetta="Verso">Pubblico</VERSO></PARAGRAFO>			  
+	  			  
+  			  <PARAGRAFO etichetta="UPDATING">
+	            <RIPETIZIONE>
+				   <AGGD etichetta="Data">06/09/2019</AGGD><AGGN etichetta="Nome revisore">Giulia Calanna</AGGN></RIPETIZIONE>
+			   </PARAGRAFO>		
+			  
+	  			  
+  			  <PARAGRAFO etichetta="SUPERVISING">
+	            </PARAGRAFO>		
+			  	     			  			 
+			 
+			 
+			  <ELENCO_FOTO>
+			    <FOTO note="Anonimo , Maestranze sec. XV - Palazzo Vitelleschi a Tarquinia - insieme" sercdf="178942" altezza="260" larghezza="200">/FONDO_SUPINO/Italia/Lazio/sup 223.jpg</FOTO>
+				</ELENCO_FOTO>
+			  
+			  <ISSHOWNBY>
+			   http://catalogo.fondazionezeri.unibo.it/entry/photo/178942/
+			  </ISSHOWNBY>
+		  </SCHEDA>			  
+	 </RISULTATI>	 
+
+  
+  
