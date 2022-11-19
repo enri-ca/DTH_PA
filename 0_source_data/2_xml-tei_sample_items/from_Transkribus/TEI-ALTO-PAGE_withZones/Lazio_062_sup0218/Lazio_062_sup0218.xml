@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Lazio_062_sup0218</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2550' lry='3269' corresp='0001_sup0218_062_Lazio.jpg'>
+			<graphic url='0001_sup0218_062_Lazio.jpg' width='2550px' height='3269px'/>
+			<zone points='102,103 2440,103 2440,3160 102,3160' rendition='Image' xml:id='facs_1_Image_1667758806061_248'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='698' lry='166' corresp='0002_062bis_Lazio.jpg'>
+			<graphic url='0002_062bis_Lazio.jpg' width='698px' height='166px'/>
+			<zone points='34,22 691,10 691,146 38,145' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_35'>
+				<zone points='34,48 512,34 519,37 531,9 517,5 33,18' rendition='Line' xml:id='facs_2_l_91'/>
+				<zone points='32,79 677,59 683,68 708,51 695,26 31,49' rendition='Line' xml:id='facs_2_l_96'/>
+				<zone points='37,112 676,90 675,60 36,82' rendition='Line' xml:id='facs_2_l_31'/>
+				<zone points='42,142 323,127 322,97 40,112' rendition='Line' xml:id='facs_2_l_40'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup0218_062_Lazio.jpg' n='1'/>
+			<pb facs='#facs_2' xml:id='0002_062bis_Lazio.jpg' n='2'/>
+			<p facs='#facs_2_r_35'>
+				<lb facs='#facs_2_l_91' n='N001'/>Court of Cardinal <objectName ref='#OA_106976'>Vitelleschi&apos;s palace</objectName> at <placeName ref='#Taquinia'>Corneto</placeName>. 
+				<lb facs='#facs_2_l_96' n='N002'/><rs ref='#OA_106976' type='object'>It</rs> is <date month='0' year='0' day='0' notBefore='1861'>now</date> an inn and a tenement for the person classes in <rs ref='#Tarquinia' type='place'>the town</rs>. 
+				<lb facs='#facs_2_l_31' n='N003'/>When <rs ref='#PA_creator' type='person'>I</rs> was first <rs ref='#Tarquinia' type='place'>there</rs> in <date when='1861'>1861</date>, <rs ref='#OA_106976' type='object'>it</rs> was occupied by French officiers, 
+				<lb facs='#facs_2_l_40' n='N004'/>who had their mess in <rs ref='#OA_106976' type='object'>it</rs>.
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:13.323+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3129" WIDTH="2511">
+         <TopMargin HEIGHT="0" WIDTH="2511" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3129" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3129" WIDTH="0" VPOS="0" HPOS="2511"/>
+         <BottomMargin HEIGHT="0" WIDTH="2511" VPOS="3129" HPOS="0"/>
+         <PrintSpace HEIGHT="3129" WIDTH="2511" VPOS="0" HPOS="0">
+            <TextBlock ID="r_379" HEIGHT="105" WIDTH="2359" VPOS="2987" HPOS="118">
+               <Shape>
+                  <Polygon POINTS="2474,3063 123,3092 118,3003 2477,2987"/>
+               </Shape>
+               <TextLine ID="l"
+                         BASELINE="157,3055 516,3049"
+                         HEIGHT="36"
+                         WIDTH="359"
+                         VPOS="3019"
+                         HPOS="157">
+                  <String ID="string_l"
+                          HEIGHT="36"
+                          WIDTH="359"
+                          VPOS="3019"
+                          HPOS="157"
+                          CONTENT="67. - PALERMO "/>
+               </TextLine>
+               <TextLine ID="l_393"
+                         BASELINE="1354,3055 1847,3047"
+                         HEIGHT="38"
+                         WIDTH="493"
+                         VPOS="3017"
+                         HPOS="1354">
+                  <String ID="string_l_393"
+                          HEIGHT="38"
+                          WIDTH="493"
+                          VPOS="3017"
+                          HPOS="1354"
+                          CONTENT="TOMBA DI COSTANZA "/>
+               </TextLine>
+               <TextLine ID="l_397"
+                         BASELINE="1896,3052 2472,3041"
+                         HEIGHT="41"
+                         WIDTH="577"
+                         VPOS="3011"
+                         HPOS="1895">
+                  <String ID="string_l_397"
+                          HEIGHT="41"
+                          WIDTH="577"
+                          VPOS="3011"
+                          HPOS="1895"
+                          CONTENT="G. INCORPORA, PALERMO "/>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="Image_1667760463999_436"
+                          HEIGHT="2982"
+                          WIDTH="2388"
+                          VPOS="17"
+                          HPOS="86"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

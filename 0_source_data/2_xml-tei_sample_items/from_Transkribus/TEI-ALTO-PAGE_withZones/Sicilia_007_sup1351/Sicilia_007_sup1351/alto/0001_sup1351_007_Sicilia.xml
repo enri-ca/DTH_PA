@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:12.666+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2502" WIDTH="3129">
+         <TopMargin HEIGHT="0" WIDTH="3129" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2502" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2502" WIDTH="0" VPOS="0" HPOS="3129"/>
+         <BottomMargin HEIGHT="0" WIDTH="3129" VPOS="2502" HPOS="0"/>
+         <PrintSpace HEIGHT="2502" WIDTH="3129" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1667759445209_306"
+                       HEIGHT="87"
+                       WIDTH="3007"
+                       VPOS="2370"
+                       HPOS="37">
+               <Shape>
+                  <Polygon POINTS="3044,2457 37,2457 37,2370 3044,2370"/>
+               </Shape>
+               <TextLine ID="line_1667759538519_323"
+                         BASELINE=""
+                         HEIGHT="45"
+                         WIDTH="830"
+                         VPOS="2399"
+                         HPOS="1159">
+                  <String ID="string_line_1667759538519_323"
+                          HEIGHT="45"
+                          WIDTH="830"
+                          VPOS="2399"
+                          HPOS="1159"
+                          CONTENT="SARCOFAGO ETRUSCO"/>
+               </TextLine>
+               <TextLine ID="line_1667759532302_320"
+                         BASELINE=""
+                         HEIGHT="48"
+                         WIDTH="514"
+                         VPOS="2382"
+                         HPOS="142">
+                  <String ID="string_line_1667759532302_320"
+                          HEIGHT="48"
+                          WIDTH="514"
+                          VPOS="2382"
+                          HPOS="142"
+                          CONTENT="N. 229 - Museo Palermo"/>
+               </TextLine>
+               <TextLine ID="line_1667759626723_336"
+                         BASELINE=""
+                         HEIGHT="58"
+                         WIDTH="475"
+                         VPOS="2403"
+                         HPOS="2487">
+                  <String ID="string_line_1667759626723_336"
+                          HEIGHT="58"
+                          WIDTH="475"
+                          VPOS="2403"
+                          HPOS="2487"
+                          CONTENT="G. Incorpora, Palermo"/>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="Image_1668198443979_270"
+                          HEIGHT="2302"
+                          WIDTH="2993"
+                          VPOS="69"
+                          HPOS="54"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

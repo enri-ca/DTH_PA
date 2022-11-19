@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-06T22:03:13.963+01:00</Created>
+        <LastChange>2022-11-11T22:30:01.903+01:00</LastChange>
+        <TranskribusMetadata docId="1215960" pageId="49380049" pageNr="1" tsid="103250450" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=HMAKATHBUXMWCQYTCKKEXOAU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MRYNLTJUBCBNSQSHSPSZWTIO" imageId="40332284"/>
+    </Metadata>
+    <Page imageFilename="0001_sup0028_015_Lazio.JPG" imageWidth="3327" imageHeight="2622" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864725578" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <ImageRegion id="Image_1668201901996_680" custom="readingOrder {index:0;}">
+            <Coords points="127,161 3194,161 3194,2472 127,2472"/>
+        </ImageRegion>
+        <TextRegion orientation="0.0" type="other" id="r1" custom="readingOrder {index:1;} structure {type:other;}">
+            <Coords points="559,1202 559,1376 2953,1372 2953,1198"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1032,1370 1089,1372 1147,1372 1204,1372 1262,1372 1320,1370 1377,1369 1435,1367 1492,1366 1550,1363 1608,1360 1665,1357 1723,1355 1780,1352 1838,1351 1896,1349 1953,1348 2011,1348 2068,1348 2126,1349 2184,1351 2184,1201 2126,1199 2068,1198 2011,1198 1953,1198 1896,1199 1838,1201 1780,1202 1723,1205 1665,1207 1608,1210 1550,1213 1492,1216 1435,1217 1377,1219 1320,1220 1262,1222 1204,1222 1147,1222 1089,1222 1032,1220"/>
+                <Baseline points="1032,1320 589,1324 1147,1322 1204,1322 1262,1322 1320,1320 1377,1319 1435,1317 1492,1316 1550,1313 1608,1310 1665,1307 1723,1305 1780,1302 1838,1301 1896,1299 1953,1298 2011,1298 2068,1298 2126,1299 2928,1281"/>
+            </TextLine>
+            <TextLine id="line_1668202001562_717" custom="readingOrder {index:1;}">
+                <Coords points="2611,1343 2922,1343 2922,1339 2611,1339"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

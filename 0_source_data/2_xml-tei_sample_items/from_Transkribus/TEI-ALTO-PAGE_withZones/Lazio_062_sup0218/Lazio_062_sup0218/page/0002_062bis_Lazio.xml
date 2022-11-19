@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-09-30T21:22:20.023+02:00</Created>
+        <LastChange>2022-11-13T12:56:01.295+01:00</LastChange>
+        <TranskribusMetadata docId="1175493" pageId="47896961" pageNr="2" tsid="103288555" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=GWARPFONSMHHRXKWGQRWUWHD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UJKUKUXFMIGUOLRVNPATCCOM" imageId="39116902"/>
+    </Metadata>
+    <Page imageFilename="0002_062bis_Lazio.jpg" imageWidth="698" imageHeight="166" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864732150" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_35"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_35" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="34,22 691,10 691,146 38,145"/>
+            <TextLine id="l_91" custom="readingOrder {index:0;} objectName {offset:18; length:20;ref:#OA_106976;} place {offset:42; length:7;ref:#Taquinia;}">
+                <Coords points="34,48 512,34 519,37 531,9 517,5 33,18"/>
+                <Baseline points="34,48 512,34 519,37"/>
+                <TextEquiv>
+                    <Unicode>Court of Cardinal Vitelleschi's palace at Corneto. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_96" custom="readingOrder {index:1;} rs {offset:0; length:2;ref:#OA_106976; type:object;} date {offset:6; length:3;year:0; day:0; month:0; notBefore:1861;} rs {offset:58; length:8;ref:#Tarquinia; type:place;}">
+                <Coords points="32,79 677,59 683,68 708,51 695,26 31,49"/>
+                <Baseline points="32,79 677,59 683,68"/>
+                <TextEquiv>
+                    <Unicode>It is now an inn and a tenement for the person classes in the town. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:2;} rs {offset:5; length:1;ref:#PA_creator; type:person;} rs {offset:17; length:5;ref:#Tarquinia; type:place;} date {offset:26; length:4;when:1861;} rs {offset:32; length:2;ref:#OA_106976; type:object;}">
+                <Coords points="37,112 676,90 675,60 36,82"/>
+                <Baseline points="37,112 676,90"/>
+                <TextEquiv>
+                    <Unicode>When I was first there in 1861, it was occupied by French officiers, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:3;} rs {offset:22; length:2;ref:#OA_106976; type:object;}">
+                <Coords points="42,142 323,127 322,97 40,112"/>
+                <Baseline points="42,142 323,127"/>
+                <TextEquiv>
+                    <Unicode>who had their mess in it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Court of Cardinal Vitelleschi's palace at Corneto. &#13;
+It is now an inn and a tenement for the person classes in the town. &#13;
+When I was first there in 1861, it was occupied by French officiers, &#13;
+who had their mess in it.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

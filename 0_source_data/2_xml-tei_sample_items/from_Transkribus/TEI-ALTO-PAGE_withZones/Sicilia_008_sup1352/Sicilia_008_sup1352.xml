@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Sicilia_008_sup1352</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2451' lry='3120' corresp='0001_sup 1352_g.jpg'>
+			<graphic url='0001_sup 1352_g.jpg' width='2451px' height='3120px'/>
+			<zone points='38,52 2444,52 2444,3091 38,3091' rendition='printspace'/>
+			<zone points='38,52 2444,52 2444,3091 38,3091' rendition='Image' xml:id='facs_1_Image_1667767154358_1794'/>
+			<zone points='2425,3103 76,3103 76,3045 2425,3045' rendition='TextRegion' subtype='caption' xml:id='facs_1_r_13'>
+				<zone points='317,3076 399,3076 399,3048 317,3048' rendition='Line' subtype='signature-mark' xml:id='facs_1_line_1667767471372_1882'/>
+				<zone points='315,3073 838,3074 838,3044 315,3043' rendition='Line' subtype='header' xml:id='facs_1_l_27'/>
+				<zone points='2067,3076 2423,3073 2422,3043 2066,3046' rendition='Line' subtype='credit' xml:id='facs_1_l_31'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2613' lry='1389' corresp='0002_sup 1352v.jpg'>
+			<graphic url='0002_sup 1352v.jpg' width='2613px' height='1389px'/>
+			<zone points='27,64 2569,64 2569,1297 27,1297' rendition='printspace'/>
+			<zone points='129,58 2305,64 2303,431 129,439' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_2_1'>
+				<zone points='133,204 1021,163 1311,226 1498,159 1806,177 1851,79 928,71 524,130 369,67 131,123' rendition='Line' xml:id='facs_2_r_2_1l1'/>
+				<zone points='125,322 1301,293 1387,361 1584,294 1851,314 1850,245 1580,181 1370,252 1078,200 934,254 748,196 557,251 124,228' rendition='Line' xml:id='facs_2_r_3_1l1'/>
+				<zone points='116,461 1566,443 1590,346 1176,386 1063,314 388,384 200,328 115,376' rendition='Line' xml:id='facs_2_r_3_1l2'/>
+			</zone>
+			<zone points='53,450 2590,454 2567,1347 42,1343' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_3_1'>
+				<zone points='67,568 265,640 525,551 657,611 1219,560 1392,638 2434,558 2399,460 67,480' rendition='Line' xml:id='facs_2_l'/>
+				<zone points='49,700 2535,715 2456,595 49,603' rendition='Line' xml:id='facs_2_l_89'/>
+				<zone points='57,819 2520,838 2521,738 57,744' rendition='Line' xml:id='facs_2_l_93'/>
+				<zone points='41,926 2436,940 2580,922 2581,828 41,863' rendition='Line' xml:id='facs_2_l_97'/>
+				<zone points='42,1058 1570,1028 1815,1111 1900,1039 2232,1069 2233,966 42,967' rendition='Line' xml:id='facs_2_l_101'/>
+				<zone points='38,1140 2526,1192 2493,1082 39,1043' rendition='Line' xml:id='facs_2_l_105'/>
+				<zone points='41,1312 255,1250 374,1285 679,1243 1156,1317 1419,1281 1464,1183 42,1190' rendition='Line' xml:id='facs_2_l_109'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup 1352_g.jpg' n='1'/>
+			<p facs='#facs_1_r_13'>
+				<lb facs='#facs_1_line_1667767471372_1882' n='N001'/><objectName ref='#negSommier_9072'>9072</objectName>
+				<lb facs='#facs_1_l_27' n='N002'/><placeName ref='#Palermo'>PALERMO</placeName> <objectName ref='#OA_107660'>Sarcofago</objectName> 
+				<lb facs='#facs_1_l_31' n='N003'/> <orgName ref='#Sommer' type='photographer'>G. Sommer - <placeName ref='#Napoli'>Napoli</placeName></orgName>
+			</p>
+			<pb facs='#facs_2' xml:id='0002_sup 1352v.jpg' n='2'/>
+			<p facs='#facs_2_r_2_1'>
+				<lb facs='#facs_2_r_2_1l1' n='N001'/><rs ref='#OA_107660' type='object'>All these</rs> <choice><expan>scarcophagus</expan><abbr>sarch.</abbr></choice> and turns are of alabaster and 
+				<lb facs='#facs_2_r_3_1l1' n='N002'/>come from <placeName ref='#Chiusi'>Chiusi</placeName>. The <orgName ref='#PA_gov' type='collector'>town of <placeName ref='#Palermo'>Palermo</placeName></orgName> bought 
+				<lb facs='#facs_2_r_3_1l2' n='N003'/>the <orgName ref='#Casuccini_coll' type='collection'>Casuccini collection</orgName> in <date when='1866'>1866</date>. 
+			</p>
+			<p facs='#facs_2_r_3_1'>
+				<lb facs='#facs_2_l' n='N001'/>The relief of the big <choice><expan>sarchophagus</expan><abbr>sarc.</abbr></choice> represents the farewell of a married pair. 
+				<lb facs='#facs_2_l_89' n='N002'/>He is Lavth Aphuna, she Aphunei who reclines covered with jewelry 
+				<lb facs='#facs_2_l_93' n='N003'/>on the lid of the <choice><expan>sarchophagus</expan><abbr>sarc.</abbr></choice> Awreiged female demon leads her off to the 
+				<lb facs='#facs_2_l_97' n='N004'/>shades below, while her daughter Thanch (Tanaquit) tries to console 
+				<lb facs='#facs_2_l_101' n='N005'/>her old father. Others of the family are standing about. 
+				<lb facs='#facs_2_l_105' n='N006'/>On the extreme left a fate, called <unclear>Culice</unclear> is coming out of the portal 
+				<lb facs='#facs_2_l_109' n='N007'/>of Death. See <bibl source='#Dennis'>Dennis Vol II. page 316</bibl>.
+			</p>
+		</body>
+	</text>
+</TEI>

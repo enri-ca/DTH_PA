@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Lazio_015_sup0028</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3327' lry='2622' corresp='0001_sup0028_015_Lazio.JPG'>
+			<graphic url='0001_sup0028_015_Lazio.JPG' width='3327px' height='2622px'/>
+			<zone points='127,161 3194,161 3194,2472 127,2472' rendition='Image' xml:id='facs_1_Image_1668201901996_680'/>
+			<zone points='559,1202 559,1376 2953,1372 2953,1198' rendition='TextRegion' subtype='other' xml:id='facs_1_r1'>
+				<zone points='1032,1370 1089,1372 1147,1372 1204,1372 1262,1372 1320,1370 1377,1369 1435,1367 1492,1366 1550,1363 1608,1360 1665,1357 1723,1355 1780,1352 1838,1351 1896,1349 1953,1348 2011,1348 2068,1348 2126,1349 2184,1351 2184,1201 2126,1199 2068,1198 2011,1198 1953,1198 1896,1199 1838,1201 1780,1202 1723,1205 1665,1207 1608,1210 1550,1213 1492,1216 1435,1217 1377,1219 1320,1220 1262,1222 1204,1222 1147,1222 1089,1222 1032,1220' rendition='Line' xml:id='facs_1_r1l1'/>
+				<zone points='2611,1343 2922,1343 2922,1339 2611,1339' rendition='Line' xml:id='facs_1_line_1668202001562_717'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3585' lry='1473' corresp='0002_sup0028_015bis_Lazio.JPG'>
+			<graphic url='0002_sup0028_015bis_Lazio.JPG' width='3585px' height='1473px'/>
+			<zone points='312,227 312,942 3198,942 3198,227' rendition='TextRegion' xml:id='facs_2_r1'>
+				<zone points='1101,353 1138,354 1175,356 1212,357 1249,359 1286,360 1323,362 1361,362 1398,362 1435,363 1472,363 1509,363 1546,363 1583,363 1621,363 1658,363 1695,363 1732,362 1769,362 1806,360 1844,360 1844,234 1806,234 1769,236 1732,236 1695,237 1658,237 1621,237 1583,237 1546,237 1509,237 1472,237 1435,237 1398,236 1361,236 1323,236 1286,234 1249,233 1212,231 1175,230 1138,228 1101,227' rendition='Line' xml:id='facs_2_r1l1'/>
+				<zone points='338,579 481,581 624,584 767,585 910,585 1053,587 1196,588 1339,588 1482,588 1625,588 1768,590 1911,590 2054,590 2197,590 2340,591 2483,591 2626,591 2769,593 2912,594 3055,596 3198,597 3198,471 3055,470 2912,468 2769,467 2626,465 2483,465 2340,465 2197,464 2054,464 1911,464 1768,464 1625,462 1482,462 1339,462 1196,462 1053,461 910,459 767,459 624,458 481,455 338,453' rendition='Line' xml:id='facs_2_r1l2'/>
+				<zone points='312,749 430,752 549,754 667,755 786,757 905,757 1023,757 1142,757 1261,757 1379,757 1498,755 1617,755 1735,754 1854,753 1973,752 2091,752 2210,752 2329,752 2447,752 2566,754 2685,755 2685,631 2566,630 2447,628 2329,628 2210,628 2091,628 1973,628 1854,629 1735,630 1617,631 1498,631 1379,633 1261,633 1142,633 1023,633 905,633 786,633 667,631 549,630 430,628 312,625' rendition='Line' xml:id='facs_2_r1l3'/>
+				<zone points='350,918 446,921 542,923 638,926 734,927 830,930 926,930 1023,932 1119,933 1215,933 1311,935 1407,935 1503,936 1599,936 1696,936 1792,938 1888,938 1984,939 2080,939 2176,941 2273,942 2273,816 2176,815 2080,813 1984,813 1888,812 1792,812 1696,810 1599,810 1503,810 1407,809 1311,809 1215,807 1119,807 1023,806 926,804 830,804 734,801 638,800 542,797 446,795 350,792' rendition='Line' xml:id='facs_2_r1l4'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup0028_015_Lazio.JPG' n='1'/>
+			<p facs='#facs_1_r1'>
+				<lb facs='#facs_1_r1l1' n='N001'/>
+				<lb facs='#facs_1_line_1668202001562_717' n='N002'/>
+			</p>
+			<pb facs='#facs_2' xml:id='0002_sup0028_015bis_Lazio.JPG' n='2'/>
+			<p facs='#facs_2_r1'>
+				<lb facs='#facs_2_r1l1' n='N001'/><orgName ref='#Corneto_Museum' type='museum'><placeName ref='#Tarquinia'>Corneto</placeName>. Museum</orgName>. 
+				<lb facs='#facs_2_r1l2' n='N002'/><rs ref='#OA_106911' type='object'>Sarcophagus</rs> found in <date month='0' year='0' when='1876' day='0'>1876</date>. Relief with encaustic paintings showing 
+				<lb facs='#facs_2_r1l3' n='N003'/>Achilles slaughtering prisoners to the shade of Petroclus. 
+				<lb facs='#facs_2_r1l4' n='N004'/>The reclining figure is called the priest of Giove. 
+			</p>
+		</body>
+	</text>
+</TEI>

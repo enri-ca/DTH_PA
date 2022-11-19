@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-10-29T18:48:23.622+02:00</Created>
+        <LastChange>2022-11-13T10:38:26.272+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1209199" pageId="49170099" pageNr="1" tsid="103284176" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=BAXLZGXIFEUGRLOMHHHEUSJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZAECCMHAJFEVCRIBNTIEJJM" imageId="40210746"/>
+    </Metadata>
+    <Page imageFilename="0001_sup 1352_g.jpg" imageWidth="2451" imageHeight="3120" type="front-cover">
+        <PrintSpace>
+            <Coords points="38,52 2444,52 2444,3091 38,3091"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864729926" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_13"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <ImageRegion id="Image_1667767154358_1794" custom="readingOrder {index:0;}">
+            <Coords points="38,52 2444,52 2444,3091 38,3091"/>
+        </ImageRegion>
+        <TextRegion type="caption" id="r_13" custom="readingOrder {index:1;} structure {type:caption;}">
+            <Coords points="2425,3103 76,3103 76,3045 2425,3045"/>
+            <TextLine id="line_1667767471372_1882" custom="readingOrder {index:0;} structure {type:signature-mark;} objectName {offset:0; length:4;ref:#negSommier_9072;}">
+                <Coords points="317,3076 399,3076 399,3048 317,3048"/>
+                <TextEquiv>
+                    <Unicode>9072</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:1;} structure {type:header;} place {offset:0; length:7;ref:#Palermo;} objectName {offset:8; length:9;ref:#OA_107660;}">
+                <Coords points="315,3073 838,3074 838,3044 315,3043"/>
+                <Baseline points="445,3074 838,3074"/>
+                <TextEquiv>
+                    <Unicode>PALERMO Sarcofago </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:2;} structure {type:credit;} organization {offset:1; length:18;ref:#Sommer; type:photographer;} place {offset:13; length:6;ref:#Napoli;}">
+                <Coords points="2067,3076 2423,3073 2422,3043 2066,3046"/>
+                <Baseline points="2067,3076 2423,3073"/>
+                <TextEquiv>
+                    <Unicode> G. Sommer - Napoli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9072&#13;
+PALERMO Sarcofago &#13;
+ G. Sommer - Napoli</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

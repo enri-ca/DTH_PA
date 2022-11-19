@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-11-02T19:09:55.198+01:00</Created>
+        <LastChange>2022-11-08T19:43:58.392+01:00</LastChange>
+        <TranskribusMetadata docId="1175493" pageId="49268749" pageNr="1" tsid="102501232" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=ZCLOOBMTUAXQEOJBJDLZJXUO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OYTWEMMMQRREXBSYZNTRXXBP" imageId="40252137"/>
+    </Metadata>
+    <Page imageFilename="0001_sup0218_062_Lazio.jpg" imageWidth="2550" imageHeight="3269" type="title">
+        <ImageRegion id="Image_1667758806061_248" custom="readingOrder {index:0;}">
+            <Coords points="102,103 2440,103 2440,3160 102,3160"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

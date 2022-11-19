@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.6:model_id=37646:lm=none:date=30_09_2022_20:17
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.6:model_id=37646:date=30_09_2022_20:17
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2022-09-30T20:10:39.724+02:00</Created>
+        <LastChange>2022-11-11T21:32:19.116+01:00</LastChange>
+        <TranskribusMetadata docId="1175469" pageId="49268706" pageNr="1" tsid="103250043" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=XWGQHXXGGDQALHNDJKGXDUYU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXXJLXIOLPBBTDGPFZUFOPYJ" imageId="40252095"/>
+    </Metadata>
+    <Page imageFilename="0001_sup1368_024_Sicilia.JPG" imageWidth="2511" imageHeight="3129" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864733276" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_379"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <ImageRegion id="Image_1667760463999_436" custom="readingOrder {index:0;}">
+            <Coords points="86,48 2453,17 2474,2980 124,2999"/>
+        </ImageRegion>
+        <TextRegion type="caption" id="r_379" custom="readingOrder {index:1;} structure {type:caption;}">
+            <Coords points="2474,3063 123,3092 118,3003 2477,2987"/>
+            <TextLine id="l" custom="readingOrder {index:0;} structure {type:signature-mark;} objectName {offset:0; length:2;ref:#negIncorpora_067;} place {offset:6; length:7;ref:#Palermo;}">
+                <Coords points="157,3055 516,3049 516,3019 157,3025"/>
+                <Baseline points="157,3055 516,3049"/>
+                <TextEquiv>
+                    <Unicode>67. - PALERMO </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_393" custom="readingOrder {index:1;} structure {type:header;} objectName {offset:0; length:18;ref:#OA_107699;}">
+                <Coords points="1354,3055 1847,3047 1846,3017 1354,3025"/>
+                <Baseline points="1354,3055 1847,3047"/>
+                <TextEquiv>
+                    <Unicode>TOMBA DI COSTANZA </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_397" custom="readingOrder {index:2;} structure {type:credit;} organization {offset:0; length:21;ref:#Incorpora; type:photographer;} place {offset:14; length:7;ref:#Palermo;}">
+                <Coords points="1896,3052 2472,3041 2471,3011 1895,3022"/>
+                <Baseline points="1896,3052 2472,3041"/>
+                <TextEquiv>
+                    <Unicode>G. INCORPORA, PALERMO </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>67. - PALERMO &#13;
+TOMBA DI COSTANZA &#13;
+G. INCORPORA, PALERMO </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

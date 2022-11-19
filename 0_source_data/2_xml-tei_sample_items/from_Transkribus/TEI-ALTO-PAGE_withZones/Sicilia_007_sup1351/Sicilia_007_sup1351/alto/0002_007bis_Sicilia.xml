@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:12.843+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="165" WIDTH="600">
+         <TopMargin HEIGHT="0" WIDTH="600" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="165" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="165" WIDTH="0" VPOS="0" HPOS="600"/>
+         <BottomMargin HEIGHT="0" WIDTH="600" VPOS="165" HPOS="0"/>
+         <PrintSpace HEIGHT="165" WIDTH="600" VPOS="0" HPOS="0">
+            <TextBlock ID="r" HEIGHT="142" WIDTH="572" VPOS="17" HPOS="17">
+               <Shape>
+                  <Polygon POINTS="17,17 589,18 589,86 588,157 18,159"/>
+               </Shape>
+               <TextLine ID="l_32"
+                         BASELINE="35,50 543,51 543,51"
+                         HEIGHT="31"
+                         WIDTH="508"
+                         VPOS="20"
+                         HPOS="35">
+                  <String ID="string_l_32"
+                          HEIGHT="31"
+                          WIDTH="508"
+                          VPOS="20"
+                          HPOS="35"
+                          CONTENT="This grand headless Etruscan lady came with the other gear "/>
+               </TextLine>
+               <TextLine ID="l_37"
+                         BASELINE="25,85 577,84"
+                         HEIGHT="31"
+                         WIDTH="552"
+                         VPOS="54"
+                         HPOS="25">
+                  <String ID="string_l_37"
+                          HEIGHT="31"
+                          WIDTH="552"
+                          VPOS="54"
+                          HPOS="25"
+                          CONTENT="from the Casuccini collection of Chiusi where I saw "/>
+               </TextLine>
+               <TextLine ID="l_26"
+                         BASELINE="25,118 527,118 527,118"
+                         HEIGHT="30"
+                         WIDTH="502"
+                         VPOS="88"
+                         HPOS="25">
+                  <String ID="string_l_26"
+                          HEIGHT="30"
+                          WIDTH="502"
+                          VPOS="88"
+                          HPOS="25"
+                          CONTENT="her in 1866. She is of white marble. The figures below, "/>
+               </TextLine>
+               <TextLine ID="l_36"
+                         BASELINE="25,151 527,151"
+                         HEIGHT="30"
+                         WIDTH="502"
+                         VPOS="121"
+                         HPOS="25">
+                  <String ID="string_l_36"
+                          HEIGHT="30"
+                          WIDTH="502"
+                          VPOS="121"
+                          HPOS="25"
+                          CONTENT="painted and with painted inscriptions, are of alabaster. "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

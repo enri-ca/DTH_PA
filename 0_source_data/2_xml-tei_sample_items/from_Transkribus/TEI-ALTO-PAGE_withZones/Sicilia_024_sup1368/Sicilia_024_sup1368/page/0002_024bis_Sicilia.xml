@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.6:model_id=37646:lm=none:date=30_09_2022_20:17
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.6:model_id=37646:date=30_09_2022_20:17
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2022-09-30T20:10:39.724+02:00</Created>
+        <LastChange>2022-11-11T21:44:39.279+01:00</LastChange>
+        <TranskribusMetadata docId="1175469" pageId="47896163" pageNr="2" tsid="103250169" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=SIKYPUKYWOVJOTAPLSFZBAMG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HJRVTZTUXVURULFZMJYAULUF" imageId="39116108"/>
+    </Metadata>
+    <Page imageFilename="0002_024bis_Sicilia.jpg" imageWidth="627" imageHeight="693" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864733447" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1668199101688_359"/>
+                <RegionRefIndexed index="2" regionRef="region_1668199034266_339"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="24,11 26,447 616,447 614,11"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} rs {offset:0; length:15;ref:#OA_107699; type:object;}">
+                <Coords points="28,44 185,56 383,38 495,61 525,38 612,40 612,17 28,19"/>
+                <Baseline points="33,33 61,33 90,34 119,34 147,34 176,34 205,35 233,35 262,35 291,35 320,35 348,35 377,36 406,36 434,36 463,36 492,36 520,36 549,37 578,37 607,37"/>
+                <TextEquiv>
+                    <Unicode>The sarcophagus is of solid porphyry; the six supporting columns </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="22,88 614,85 614,54 572,47 495,63 22,47"/>
+                <Baseline points="27,72 56,72 85,71 114,71 143,70 172,70 201,70 230,70 259,70 288,70 318,70 347,70 376,70 405,71 434,71 463,71 492,72 521,72 550,72 579,73 609,73"/>
+                <TextEquiv>
+                    <Unicode>of the baldachino are inlaid with gold mosaics; at the head </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} abbrev {offset:7; length:5;expansion:sarcophagus;} rs {offset:7; length:5;ref:#OA_107699; type:object;}">
+                <Coords points="23,119 607,111 607,89 517,79 23,87"/>
+                <Baseline points="28,104 56,103 85,103 114,103 142,103 171,103 200,103 228,103 257,103 286,103 315,103 343,103 372,104 401,104 429,104 458,104 487,104 515,105 544,105 573,105 602,105"/>
+                <TextEquiv>
+                    <Unicode>of the sarc. an imperial crown in relief, below it a cross patonce </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="16,144 578,143 554,119 16,124"/>
+                <Baseline points="21,137 48,137 76,137 103,137 131,137 159,137 186,137 214,137 241,137 269,138 297,138 324,138 352,138 379,138 407,138 435,138 462,138 490,138 517,138 545,138 573,137"/>
+                <TextEquiv>
+                    <Unicode>inscribed in a circle; at the rear, above a rosette, below a </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="20,184 62,184 75,174 103,173 162,180 178,190 207,175 227,179 227,155 207,150 169,159 153,150 98,160 66,148 20,154"/>
+                <Baseline points="25,172 53,171 81,170 109,170 137,170 165,171 193,171 222,172"/>
+                <TextEquiv>
+                    <Unicode>single headed eagle. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668199366974_463" custom="readingOrder {index:5;} cit {offset:0; length:42;} ref {offset:0; length:42;}">
+                <Coords points="27,208 547,208 547,192 27,192"/>
+                <TextEquiv>
+                    <Unicode>An old, but contemporary inscription said:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>The sarcophagus is of solid porphyry; the six supporting columns &#13;
+of the baldachino are inlaid with gold mosaics; at the head &#13;
+of the sarc. an imperial crown in relief, below it a cross patonce &#13;
+inscribed in a circle; at the rear, above a rosette, below a &#13;
+single headed eagle. &#13;
+An old, but contemporary inscription said:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1668199101688_359" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="588,448 20,448 20,178 588,178"/>
+            <TextLine id="r1l7" custom="readingOrder {index:0;} cit {offset:0; length:45; continued:true;} quote {offset:0; length:45;}">
+                <Coords points="30,248 314,243 451,259 476,245 476,222 30,221"/>
+                <Baseline points="35,238 60,238 86,238 111,238 137,238 163,238 188,238 214,238 240,238 265,238 291,239 317,239 342,239 368,239 394,239 419,240 445,240 471,241"/>
+                <TextEquiv>
+                    <Unicode>Caesaris Henrici latet hic Constantia corpus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;} quote {offset:0; length:41; continued:true;} cit {offset:0; length:41; continued:true;}">
+                <Coords points="54,278 482,284 482,258 462,256 54,251"/>
+                <Baseline points="59,270 85,271 111,271 137,271 163,272 189,272 215,272 241,272 268,273 294,273 320,273 346,273 372,273 398,273 424,273 450,274 477,274"/>
+                <TextEquiv>
+                    <Unicode>undeno lustro hac platea rugosa sacerdos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;} quote {offset:0; length:46; continued:true;} cit {offset:0; length:46; continued:true;}">
+                <Coords points="29,317 568,317 568,296 29,288"/>
+                <Baseline points="34,307 60,307 86,307 113,307 139,308 166,308 192,308 219,309 245,309 272,309 298,310 324,310 351,311 377,311 404,312 430,312 457,312 483,313 510,313 536,313 563,313"/>
+                <TextEquiv>
+                    <Unicode>Facta dedis parta Fredericum Augusta secundum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;} quote {offset:0; length:46; continued:true;} cit {offset:0; length:46; continued:true;}">
+                <Coords points="44,358 380,346 464,366 529,360 530,326 45,322"/>
+                <Baseline points="50,341 75,340 100,340 125,340 150,340 175,341 200,341 225,341 250,341 275,341 300,342 325,342 350,343 375,343 400,343 425,344 450,344 475,345 500,346 525,346"/>
+                <TextEquiv>
+                    <Unicode>To meritis sacratam tenes sic ossa Panhormus, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;} cit {offset:0; length:32; continued:true;} quote {offset:0; length:31; continued:true;}">
+                <Coords points="32,383 328,384 328,360 307,352 241,365 176,357 93,366 84,358 62,368 32,359"/>
+                <Baseline points="37,377 63,378 89,378 115,377 141,377 167,377 193,376 219,376 245,376 271,376 297,377 323,378"/>
+                <TextEquiv>
+                    <Unicode>Vix. Au LX1. Ubiis MCCIII. M.2. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="27,412 108,408 132,423 156,410 270,422 294,411 341,421 341,392 324,389 260,400 206,388 166,394 140,382 122,396 88,398 27,386"/>
+                <Baseline points="32,408 57,408 82,408 108,408 133,407 158,407 184,407 209,407 234,407 260,408 285,408 310,409 336,410"/>
+                <TextEquiv>
+                    <Unicode>She died in fact in 1198 aged 44. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;} bibl {offset:4; length:7;source:#Villani;}">
+                <Coords points="36,440 113,438 127,450 200,437 227,447 273,436 378,440 377,397 317,423 289,412 271,422 148,413 123,425 36,415"/>
+                <Baseline points="41,434 66,435 92,435 117,435 143,435 168,435 194,434 219,434 245,433 270,433 296,433 321,433 347,434 373,434"/>
+                <TextEquiv>
+                    <Unicode>See Villani for the myth about her. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Caesaris Henrici latet hic Constantia corpus &#13;
+undeno lustro hac platea rugosa sacerdos &#13;
+Facta dedis parta Fredericum Augusta secundum &#13;
+To meritis sacratam tenes sic ossa Panhormus, &#13;
+Vix. Au LX1. Ubiis MCCIII. M.2. &#13;
+She died in fact in 1198 aged 44. &#13;
+See Villani for the myth about her. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1668199034266_339" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="604,680 15,680 15,465 604,465"/>
+            <TextLine id="r1l14" custom="readingOrder {index:0;}">
+                <Coords points="24,502 576,517 588,486 24,476"/>
+                <Baseline points="29,493 56,494 84,495 112,495 139,496 167,496 195,497 222,498 250,498 278,498 306,499 333,500 361,500 389,501 416,501 444,502 472,502 499,503 527,504 555,505 583,505"/>
+                <TextEquiv>
+                    <Unicode>The impress Constantia II, the wife of stupor mundi, she died at Catania </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+                <Coords points="20,526 350,530 458,553 480,535 581,541 563,515 21,501"/>
+                <Baseline points="25,520 52,520 80,521 107,522 135,523 162,524 190,524 217,525 245,526 272,526 300,527 328,528 355,528 383,529 410,530 438,531 465,532 493,533 520,534 548,535 576,537"/>
+                <TextEquiv>
+                    <Unicode>in 1222, is also buried here, with her was interred a lot of jewels, rings, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:2;}">
+                <Coords points="23,560 566,577 587,572 588,545 24,531"/>
+                <Baseline points="28,548 55,548 83,549 111,550 138,551 166,552 194,552 221,553 249,554 277,555 305,556 332,556 360,557 388,558 415,559 443,559 471,560 498,561 526,562 554,563 582,564"/>
+                <TextEquiv>
+                    <Unicode>collars, diadem etc. There, when her tomb was opened in the past century </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:3;}">
+                <Coords points="24,582 293,587 311,605 342,589 580,591 555,566 24,564"/>
+                <Baseline points="29,575 56,576 83,578 110,579 138,580 165,581 192,581 220,582 247,583 274,584 302,584 329,585 356,586 383,586 411,587 438,587 465,588 493,589 520,589 547,590 575,590"/>
+                <TextEquiv>
+                    <Unicode>were found in a box other feet together with a lamina with an </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:4;}">
+                <Coords points="24,615 401,617 468,635 516,621 572,640 581,593 478,607 24,588"/>
+                <Baseline points="29,606 56,607 83,607 111,608 138,608 165,609 193,610 220,610 247,611 275,612 302,612 329,613 357,614 384,614 411,616 439,616 466,617 493,618 521,619 548,620 576,621"/>
+                <TextEquiv>
+                    <Unicode>inscription in rude Latin, but quite legible. She wore garments of </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:5;} rs {offset:15; length:1;ref:#PA_creator; type:person;}">
+                <Coords points="14,641 467,649 560,673 577,640 15,613"/>
+                <Baseline points="19,634 46,635 74,636 101,637 129,637 157,638 184,639 212,640 239,640 267,641 295,642 322,642 350,643 377,644 405,645 433,646 460,648 488,649 515,650 543,652 571,654"/>
+                <TextEquiv>
+                    <Unicode>Saracenic art. I saw some of these remains in the sacristy of </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:6;} place {offset:4; length:5;ref:#Palermo;} date {offset:13; length:4;when:1892;}">
+                <Coords points="17,670 78,674 92,668 111,676 121,669 144,681 180,675 181,644 166,642 157,650 147,643 133,650 121,644 95,654 85,648 75,652 58,639 18,640"/>
+                <Baseline points="22,664 47,664 73,664 98,665 124,666 149,667 175,668"/>
+                <TextEquiv>
+                    <Unicode>the Duomo in 1892.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>The impress Constantia II, the wife of stupor mundi, she died at Catania &#13;
+in 1222, is also buried here, with her was interred a lot of jewels, rings, &#13;
+collars, diadem etc. There, when her tomb was opened in the past century &#13;
+were found in a box other feet together with a lamina with an &#13;
+inscription in rude Latin, but quite legible. She wore garments of &#13;
+Saracenic art. I saw some of these remains in the sacristy of &#13;
+the Duomo in 1892.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:13.502+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="693" WIDTH="627">
+         <TopMargin HEIGHT="0" WIDTH="627" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="693" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="693" WIDTH="0" VPOS="0" HPOS="627"/>
+         <BottomMargin HEIGHT="0" WIDTH="627" VPOS="693" HPOS="0"/>
+         <PrintSpace HEIGHT="693" WIDTH="627" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="436" WIDTH="592" VPOS="11" HPOS="24">
+               <Shape>
+                  <Polygon POINTS="24,11 26,447 616,447 614,11"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="33,33 61,33 90,34 119,34 147,34 176,34 205,35 233,35 262,35 291,35 320,35 348,35 377,36 406,36 434,36 463,36 492,36 520,36 549,37 578,37 607,37"
+                         HEIGHT="44"
+                         WIDTH="584"
+                         VPOS="17"
+                         HPOS="28">
+                  <String ID="string_r1l1"
+                          HEIGHT="44"
+                          WIDTH="584"
+                          VPOS="17"
+                          HPOS="28"
+                          CONTENT="The sarcophagus is of solid porphyry; the six supporting columns "/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="27,72 56,72 85,71 114,71 143,70 172,70 201,70 230,70 259,70 288,70 318,70 347,70 376,70 405,71 434,71 463,71 492,72 521,72 550,72 579,73 609,73"
+                         HEIGHT="41"
+                         WIDTH="592"
+                         VPOS="47"
+                         HPOS="22">
+                  <String ID="string_r1l2"
+                          HEIGHT="41"
+                          WIDTH="592"
+                          VPOS="47"
+                          HPOS="22"
+                          CONTENT="of the baldachino are inlaid with gold mosaics; at the head "/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="28,104 56,103 85,103 114,103 142,103 171,103 200,103 228,103 257,103 286,103 315,103 343,103 372,104 401,104 429,104 458,104 487,104 515,105 544,105 573,105 602,105"
+                         HEIGHT="40"
+                         WIDTH="584"
+                         VPOS="79"
+                         HPOS="23">
+                  <String ID="string_r1l3"
+                          HEIGHT="40"
+                          WIDTH="584"
+                          VPOS="79"
+                          HPOS="23"
+                          CONTENT="of the sarc. an imperial crown in relief, below it a cross patonce "/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="21,137 48,137 76,137 103,137 131,137 159,137 186,137 214,137 241,137 269,138 297,138 324,138 352,138 379,138 407,138 435,138 462,138 490,138 517,138 545,138 573,137"
+                         HEIGHT="25"
+                         WIDTH="562"
+                         VPOS="119"
+                         HPOS="16">
+                  <String ID="string_r1l4"
+                          HEIGHT="25"
+                          WIDTH="562"
+                          VPOS="119"
+                          HPOS="16"
+                          CONTENT="inscribed in a circle; at the rear, above a rosette, below a "/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="25,172 53,171 81,170 109,170 137,170 165,171 193,171 222,172"
+                         HEIGHT="42"
+                         WIDTH="207"
+                         VPOS="148"
+                         HPOS="20">
+                  <String ID="string_r1l5"
+                          HEIGHT="42"
+                          WIDTH="207"
+                          VPOS="148"
+                          HPOS="20"
+                          CONTENT="single headed eagle. "/>
+               </TextLine>
+               <TextLine ID="line_1668199366974_463"
+                         BASELINE=""
+                         HEIGHT="16"
+                         WIDTH="520"
+                         VPOS="192"
+                         HPOS="27">
+                  <String ID="string_line_1668199366974_463"
+                          HEIGHT="16"
+                          WIDTH="520"
+                          VPOS="192"
+                          HPOS="27"
+                          CONTENT="An old, but contemporary inscription said:"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1668199101688_359"
+                       HEIGHT="270"
+                       WIDTH="568"
+                       VPOS="178"
+                       HPOS="20">
+               <Shape>
+                  <Polygon POINTS="588,448 20,448 20,178 588,178"/>
+               </Shape>
+               <TextLine ID="r1l7"
+                         BASELINE="35,238 60,238 86,238 111,238 137,238 163,238 188,238 214,238 240,238 265,238 291,239 317,239 342,239 368,239 394,239 419,240 445,240 471,241"
+                         HEIGHT="38"
+                         WIDTH="446"
+                         VPOS="221"
+                         HPOS="30">
+                  <String ID="string_r1l7"
+                          HEIGHT="38"
+                          WIDTH="446"
+                          VPOS="221"
+                          HPOS="30"
+                          CONTENT="Caesaris Henrici latet hic Constantia corpus "/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="59,270 85,271 111,271 137,271 163,272 189,272 215,272 241,272 268,273 294,273 320,273 346,273 372,273 398,273 424,273 450,274 477,274"
+                         HEIGHT="33"
+                         WIDTH="428"
+                         VPOS="251"
+                         HPOS="54">
+                  <String ID="string_r1l8"
+                          HEIGHT="33"
+                          WIDTH="428"
+                          VPOS="251"
+                          HPOS="54"
+                          CONTENT="undeno lustro hac platea rugosa sacerdos "/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="34,307 60,307 86,307 113,307 139,308 166,308 192,308 219,309 245,309 272,309 298,310 324,310 351,311 377,311 404,312 430,312 457,312 483,313 510,313 536,313 563,313"
+                         HEIGHT="29"
+                         WIDTH="539"
+                         VPOS="288"
+                         HPOS="29">
+                  <String ID="string_r1l9"
+                          HEIGHT="29"
+                          WIDTH="539"
+                          VPOS="288"
+                          HPOS="29"
+                          CONTENT="Facta dedis parta Fredericum Augusta secundum "/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="50,341 75,340 100,340 125,340 150,340 175,341 200,341 225,341 250,341 275,341 300,342 325,342 350,343 375,343 400,343 425,344 450,344 475,345 500,346 525,346"
+                         HEIGHT="44"
+                         WIDTH="486"
+                         VPOS="322"
+                         HPOS="44">
+                  <String ID="string_r1l10"
+                          HEIGHT="44"
+                          WIDTH="486"
+                          VPOS="322"
+                          HPOS="44"
+                          CONTENT="To meritis sacratam tenes sic ossa Panhormus, "/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="37,377 63,378 89,378 115,377 141,377 167,377 193,376 219,376 245,376 271,376 297,377 323,378"
+                         HEIGHT="32"
+                         WIDTH="296"
+                         VPOS="352"
+                         HPOS="32">
+                  <String ID="string_r1l11"
+                          HEIGHT="32"
+                          WIDTH="296"
+                          VPOS="352"
+                          HPOS="32"
+                          CONTENT="Vix. Au LX1. Ubiis MCCIII. M.2. "/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="32,408 57,408 82,408 108,408 133,407 158,407 184,407 209,407 234,407 260,408 285,408 310,409 336,410"
+                         HEIGHT="41"
+                         WIDTH="314"
+                         VPOS="382"
+                         HPOS="27">
+                  <String ID="string_r1l12"
+                          HEIGHT="41"
+                          WIDTH="314"
+                          VPOS="382"
+                          HPOS="27"
+                          CONTENT="She died in fact in 1198 aged 44. "/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="41,434 66,435 92,435 117,435 143,435 168,435 194,434 219,434 245,433 270,433 296,433 321,433 347,434 373,434"
+                         HEIGHT="53"
+                         WIDTH="342"
+                         VPOS="397"
+                         HPOS="36">
+                  <String ID="string_r1l13"
+                          HEIGHT="53"
+                          WIDTH="342"
+                          VPOS="397"
+                          HPOS="36"
+                          CONTENT="See Villani for the myth about her. "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1668199034266_339"
+                       HEIGHT="215"
+                       WIDTH="589"
+                       VPOS="465"
+                       HPOS="15">
+               <Shape>
+                  <Polygon POINTS="604,680 15,680 15,465 604,465"/>
+               </Shape>
+               <TextLine ID="r1l14"
+                         BASELINE="29,493 56,494 84,495 112,495 139,496 167,496 195,497 222,498 250,498 278,498 306,499 333,500 361,500 389,501 416,501 444,502 472,502 499,503 527,504 555,505 583,505"
+                         HEIGHT="41"
+                         WIDTH="564"
+                         VPOS="476"
+                         HPOS="24">
+                  <String ID="string_r1l14"
+                          HEIGHT="41"
+                          WIDTH="564"
+                          VPOS="476"
+                          HPOS="24"
+                          CONTENT="The impress Constantia II, the wife of stupor mundi, she died at Catania "/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="25,520 52,520 80,521 107,522 135,523 162,524 190,524 217,525 245,526 272,526 300,527 328,528 355,528 383,529 410,530 438,531 465,532 493,533 520,534 548,535 576,537"
+                         HEIGHT="52"
+                         WIDTH="561"
+                         VPOS="501"
+                         HPOS="20">
+                  <String ID="string_r1l15"
+                          HEIGHT="52"
+                          WIDTH="561"
+                          VPOS="501"
+                          HPOS="20"
+                          CONTENT="in 1222, is also buried here, with her was interred a lot of jewels, rings, "/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="28,548 55,548 83,549 111,550 138,551 166,552 194,552 221,553 249,554 277,555 305,556 332,556 360,557 388,558 415,559 443,559 471,560 498,561 526,562 554,563 582,564"
+                         HEIGHT="46"
+                         WIDTH="565"
+                         VPOS="531"
+                         HPOS="23">
+                  <String ID="string_r1l16"
+                          HEIGHT="46"
+                          WIDTH="565"
+                          VPOS="531"
+                          HPOS="23"
+                          CONTENT="collars, diadem etc. There, when her tomb was opened in the past century "/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="29,575 56,576 83,578 110,579 138,580 165,581 192,581 220,582 247,583 274,584 302,584 329,585 356,586 383,586 411,587 438,587 465,588 493,589 520,589 547,590 575,590"
+                         HEIGHT="41"
+                         WIDTH="556"
+                         VPOS="564"
+                         HPOS="24">
+                  <String ID="string_r1l17"
+                          HEIGHT="41"
+                          WIDTH="556"
+                          VPOS="564"
+                          HPOS="24"
+                          CONTENT="were found in a box other feet together with a lamina with an "/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="29,606 56,607 83,607 111,608 138,608 165,609 193,610 220,610 247,611 275,612 302,612 329,613 357,614 384,614 411,616 439,616 466,617 493,618 521,619 548,620 576,621"
+                         HEIGHT="52"
+                         WIDTH="557"
+                         VPOS="588"
+                         HPOS="24">
+                  <String ID="string_r1l18"
+                          HEIGHT="52"
+                          WIDTH="557"
+                          VPOS="588"
+                          HPOS="24"
+                          CONTENT="inscription in rude Latin, but quite legible. She wore garments of "/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="19,634 46,635 74,636 101,637 129,637 157,638 184,639 212,640 239,640 267,641 295,642 322,642 350,643 377,644 405,645 433,646 460,648 488,649 515,650 543,652 571,654"
+                         HEIGHT="60"
+                         WIDTH="563"
+                         VPOS="613"
+                         HPOS="14">
+                  <String ID="string_r1l19"
+                          HEIGHT="60"
+                          WIDTH="563"
+                          VPOS="613"
+                          HPOS="14"
+                          CONTENT="Saracenic art. I saw some of these remains in the sacristy of "/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="22,664 47,664 73,664 98,665 124,666 149,667 175,668"
+                         HEIGHT="42"
+                         WIDTH="164"
+                         VPOS="639"
+                         HPOS="17">
+                  <String ID="string_r1l20"
+                          HEIGHT="42"
+                          WIDTH="164"
+                          VPOS="639"
+                          HPOS="17"
+                          CONTENT="the Duomo in 1892."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

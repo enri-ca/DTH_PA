@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-11-02T19:11:27.506+01:00</Created>
+        <LastChange>2022-11-11T21:27:31.268+01:00</LastChange>
+        <TranskribusMetadata docId="1175485" pageId="49268759" pageNr="1" tsid="103249977" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=UVYUTHQLLIOPRNMAXBBXJZOW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GCIOGSEPDEZPKYHNGNDDXZGQ" imageId="40252147"/>
+    </Metadata>
+    <Page imageFilename="0001_sup1351_007_Sicilia.JPG" imageWidth="3129" imageHeight="2502" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864732618" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1667759445209_306"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <ImageRegion id="Image_1668198443979_270" custom="readingOrder {index:0;}">
+            <Coords points="54,69 3047,69 3047,2371 54,2371"/>
+        </ImageRegion>
+        <TextRegion type="caption" id="region_1667759445209_306" custom="readingOrder {index:1;} structure {type:caption;}">
+            <Coords points="3044,2457 37,2457 37,2370 3044,2370"/>
+            <TextLine id="line_1667759538519_323" custom="readingOrder {index:0;} structure {type:header;} objectName {offset:0; length:17;ref:#OA_107660;}">
+                <Coords points="1159,2434 1989,2444 1989,2399 1159,2399"/>
+                <TextEquiv>
+                    <Unicode>SARCOFAGO ETRUSCO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1667759532302_320" custom="readingOrder {index:1;} structure {type:signature-mark;} objectName {offset:0; length:6;ref:#negIncorpora_229;} organization {offset:9; length:13;ref:#PA_museum; type:museum;}">
+                <Coords points="143,2382 655,2386 656,2430 142,2430"/>
+                <TextEquiv>
+                    <Unicode>N. 229 - Museo Palermo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1667759626723_336" custom="readingOrder {index:2;} structure {type:credit;} organization {offset:0; length:21;ref:#Incorpora; type:photographer;} place {offset:14; length:7;ref:#Palermo;}">
+                <Coords points="2487,2403 2962,2403 2962,2461 2487,2461"/>
+                <TextEquiv>
+                    <Unicode>G. Incorpora, Palermo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SARCOFAGO ETRUSCO&#13;
+N. 229 - Museo Palermo&#13;
+G. Incorpora, Palermo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

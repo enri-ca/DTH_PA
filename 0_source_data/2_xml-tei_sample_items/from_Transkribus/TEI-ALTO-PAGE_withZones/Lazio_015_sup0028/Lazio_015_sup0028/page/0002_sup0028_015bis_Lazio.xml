@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-06T22:03:13.985+01:00</Created>
+        <LastChange>2022-11-13T12:55:31.773+01:00</LastChange>
+        <TranskribusMetadata docId="1215960" pageId="49380050" pageNr="2" tsid="103288538" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=WSCBRYFQOZZFVOSERYVLIAUU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YKIIYPBYAEHCVGSAIPGTCRMU" imageId="40332285"/>
+    </Metadata>
+    <Page imageFilename="0002_sup0028_015bis_Lazio.JPG" imageWidth="3585" imageHeight="1473" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864725817" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="312,227 312,942 3198,942 3198,227"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} organization {offset:0; length:15;ref:#Corneto_Museum; type:museum;} place {offset:0; length:7;ref:#Tarquinia;}">
+                <Coords points="1101,353 1138,354 1175,356 1212,357 1249,359 1286,360 1323,362 1361,362 1398,362 1435,363 1472,363 1509,363 1546,363 1583,363 1621,363 1658,363 1695,363 1732,362 1769,362 1806,360 1844,360 1844,234 1806,234 1769,236 1732,236 1695,237 1658,237 1621,237 1583,237 1546,237 1509,237 1472,237 1435,237 1398,236 1361,236 1323,236 1286,234 1249,233 1212,231 1175,230 1138,228 1101,227"/>
+                <Baseline points="1101,311 1138,312 1175,314 1212,315 1249,317 1286,318 1323,320 1361,320 1398,320 1435,321 1472,321 1509,321 1546,321 1583,321 1621,321 1658,321 1695,321 1732,320 1769,320 1806,318 1844,318"/>
+                <TextEquiv>
+                    <Unicode>Corneto. Museum. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} rs {offset:0; length:11;ref:#OA_106911; type:object;} date {offset:21; length:4;year:0; day:0; month:0; when:1876;}">
+                <Coords points="338,579 481,581 624,584 767,585 910,585 1053,587 1196,588 1339,588 1482,588 1625,588 1768,590 1911,590 2054,590 2197,590 2340,591 2483,591 2626,591 2769,593 2912,594 3055,596 3198,597 3198,471 3055,470 2912,468 2769,467 2626,465 2483,465 2340,465 2197,464 2054,464 1911,464 1768,464 1625,462 1482,462 1339,462 1196,462 1053,461 910,459 767,459 624,458 481,455 338,453"/>
+                <Baseline points="338,537 481,539 624,542 767,543 910,543 1053,545 1196,546 1339,546 1482,546 1625,546 1768,548 1911,548 2054,548 2197,548 2340,549 2483,549 2626,549 2769,551 2912,552 3055,554 3198,555"/>
+                <TextEquiv>
+                    <Unicode>Sarcophagus found in 1876. Relief with encaustic paintings showing </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="312,749 430,752 549,754 667,755 786,757 905,757 1023,757 1142,757 1261,757 1379,757 1498,755 1617,755 1735,754 1854,753 1973,752 2091,752 2210,752 2329,752 2447,752 2566,754 2685,755 2685,631 2566,630 2447,628 2329,628 2210,628 2091,628 1973,628 1854,629 1735,630 1617,631 1498,631 1379,633 1261,633 1142,633 1023,633 905,633 786,633 667,631 549,630 430,628 312,625"/>
+                <Baseline points="312,708 430,711 549,713 667,714 786,716 905,716 1023,716 1142,716 1261,716 1379,716 1498,714 1617,714 1735,713 1854,712 1973,711 2091,711 2210,711 2329,711 2447,711 2566,713 2685,714"/>
+                <TextEquiv>
+                    <Unicode>Achilles slaughtering prisoners to the shade of Petroclus. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="350,918 446,921 542,923 638,926 734,927 830,930 926,930 1023,932 1119,933 1215,933 1311,935 1407,935 1503,936 1599,936 1696,936 1792,938 1888,938 1984,939 2080,939 2176,941 2273,942 2273,816 2176,815 2080,813 1984,813 1888,812 1792,812 1696,810 1599,810 1503,810 1407,809 1311,809 1215,807 1119,807 1023,806 926,804 830,804 734,801 638,800 542,797 446,795 350,792"/>
+                <Baseline points="350,876 446,879 542,881 638,884 734,885 830,888 926,888 1023,890 1119,891 1215,891 1311,893 1407,893 1503,894 1599,894 1696,894 1792,896 1888,896 1984,897 2080,897 2176,899 2273,900"/>
+                <TextEquiv>
+                    <Unicode>The reclining figure is called the priest of Giove. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Corneto. Museum. &#13;
+Sarcophagus found in 1876. Relief with encaustic paintings showing &#13;
+Achilles slaughtering prisoners to the shade of Petroclus. &#13;
+The reclining figure is called the priest of Giove. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

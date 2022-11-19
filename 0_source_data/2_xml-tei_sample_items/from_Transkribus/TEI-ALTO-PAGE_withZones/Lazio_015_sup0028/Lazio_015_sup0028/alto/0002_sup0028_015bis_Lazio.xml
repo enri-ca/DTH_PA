@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:05.89+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1473" WIDTH="3585">
+         <TopMargin HEIGHT="0" WIDTH="3585" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1473" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1473" WIDTH="0" VPOS="0" HPOS="3585"/>
+         <BottomMargin HEIGHT="0" WIDTH="3585" VPOS="1473" HPOS="0"/>
+         <PrintSpace HEIGHT="1473" WIDTH="3585" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="715" WIDTH="2886" VPOS="227" HPOS="312">
+               <Shape>
+                  <Polygon POINTS="312,227 312,942 3198,942 3198,227"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1101,311 1138,312 1175,314 1212,315 1249,317 1286,318 1323,320 1361,320 1398,320 1435,321 1472,321 1509,321 1546,321 1583,321 1621,321 1658,321 1695,321 1732,320 1769,320 1806,318 1844,318"
+                         HEIGHT="136"
+                         WIDTH="743"
+                         VPOS="227"
+                         HPOS="1101">
+                  <String ID="string_r1l1"
+                          HEIGHT="136"
+                          WIDTH="743"
+                          VPOS="227"
+                          HPOS="1101"
+                          CONTENT="Corneto. Museum. "/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="338,537 481,539 624,542 767,543 910,543 1053,545 1196,546 1339,546 1482,546 1625,546 1768,548 1911,548 2054,548 2197,548 2340,549 2483,549 2626,549 2769,551 2912,552 3055,554 3198,555"
+                         HEIGHT="144"
+                         WIDTH="2860"
+                         VPOS="453"
+                         HPOS="338">
+                  <String ID="string_r1l2"
+                          HEIGHT="144"
+                          WIDTH="2860"
+                          VPOS="453"
+                          HPOS="338"
+                          CONTENT="Sarcophagus found in 1876. Relief with encaustic paintings showing "/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="312,708 430,711 549,713 667,714 786,716 905,716 1023,716 1142,716 1261,716 1379,716 1498,714 1617,714 1735,713 1854,712 1973,711 2091,711 2210,711 2329,711 2447,711 2566,713 2685,714"
+                         HEIGHT="132"
+                         WIDTH="2373"
+                         VPOS="625"
+                         HPOS="312">
+                  <String ID="string_r1l3"
+                          HEIGHT="132"
+                          WIDTH="2373"
+                          VPOS="625"
+                          HPOS="312"
+                          CONTENT="Achilles slaughtering prisoners to the shade of Petroclus. "/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="350,876 446,879 542,881 638,884 734,885 830,888 926,888 1023,890 1119,891 1215,891 1311,893 1407,893 1503,894 1599,894 1696,894 1792,896 1888,896 1984,897 2080,897 2176,899 2273,900"
+                         HEIGHT="150"
+                         WIDTH="1923"
+                         VPOS="792"
+                         HPOS="350">
+                  <String ID="string_r1l4"
+                          HEIGHT="150"
+                          WIDTH="1923"
+                          VPOS="792"
+                          HPOS="350"
+                          CONTENT="The reclining figure is called the priest of Giove. "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

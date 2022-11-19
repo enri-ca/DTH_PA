@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1175469</docId>
+    <title>Sicilia_024_sup1368</title>
+    <uploadTimestamp>1664561439789</uploadTimestamp>
+    <scriptType>HANDWRITTEN</scriptType>
+    <uploader>enrica.zani@studio.unibo.it</uploader>
+    <uploaderId>117782</uploaderId>
+    <nrOfPages>2</nrOfPages>
+    <pageId>47896163</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=SIKYPUKYWOVJOTAPLSFZBAMG</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=SIKYPUKYWOVJOTAPLSFZBAMG</thumbUrl>
+    <externalId>http://catalogo.fondazionezeri.unibo.it/entry/photo/180276/</externalId>
+    <authority>NA</authority>
+    <desc>024_Sicilia</desc>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1175469</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>159068</colId>
+            <colName>PA_visited_places</colName>
+            <description>created by enrica.zani@studio.unibo.it</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>169853</colId>
+            <colName>PA_overall</colName>
+            <description>created by enrica.zani@studio.unibo.it</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

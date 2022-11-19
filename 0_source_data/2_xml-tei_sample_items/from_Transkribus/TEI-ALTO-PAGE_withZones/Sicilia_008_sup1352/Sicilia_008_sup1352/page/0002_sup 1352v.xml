@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=B2022 English Model M4(htr_id=31338)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-10-29T18:48:23.769+02:00</Created>
+        <LastChange>2022-11-13T12:56:32.976+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1209199" pageId="49170100" pageNr="2" tsid="103288557" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=AGPBRSCPUKQSDWLNMPOVZHNH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DWXHHUBSDDNBXPRCVWWYYYYJ" imageId="40210747"/>
+    </Metadata>
+    <Page imageFilename="0002_sup 1352v.jpg" imageWidth="2613" imageHeight="1389" type="content">
+        <PrintSpace>
+            <Coords points="27,64 2569,64 2569,1297 27,1297"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864730130" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+                <RegionRefIndexed index="1" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="129,58 2305,64 2303,431 129,439"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;} rs {offset:0; length:9;ref:#OA_107660; type:object;} abbrev {offset:10; length:6;expansion:scarcophagus;}">
+                <Coords points="133,204 1021,163 1311,226 1498,159 1806,177 1851,79 928,71 524,130 369,67 131,123"/>
+                <Baseline points="149,179 233,176 317,173 402,170 486,167 571,164 655,161 740,159 824,156 909,154 993,152 1077,150 1162,149 1246,147 1331,146 1415,145 1500,144 1584,144 1669,143 1753,144 2138,146"/>
+                <TextEquiv>
+                    <Unicode>All these sarch. and turns are of alabaster and </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:1;} place {offset:10; length:6;ref:#Chiusi;} organization {offset:22; length:15;ref:#PA_gov; type:collector;} place {offset:30; length:7;ref:#Palermo;}">
+                <Coords points="125,322 1301,293 1387,361 1584,294 1851,314 1850,245 1580,181 1370,252 1078,200 934,254 748,196 557,251 124,228"/>
+                <Baseline points="141,299 225,297 310,296 395,294 480,293 564,291 649,290 734,288 819,287 903,285 988,285 1073,284 1158,284 1242,284 1327,284 1412,284 1497,284 1581,285 1666,287 1751,290 2196,295"/>
+                <TextEquiv>
+                    <Unicode>come from Chiusi. The town of Palermo bought </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:2;} organization {offset:4; length:20;ref:#Casuccini_coll; type:collection;} date {offset:28; length:4;when:1866;}">
+                <Coords points="116,461 1566,443 1590,346 1176,386 1063,314 388,384 200,328 115,376"/>
+                <Baseline points="131,431 203,428 275,425 347,422 419,420 491,419 563,417 636,416 708,416 780,414 852,414 924,414 996,414 1068,414 1141,416 1213,416 1285,417 1357,417 1429,419 1501,419 1574,420"/>
+                <TextEquiv>
+                    <Unicode>the Casuccini collection in 1866. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>All these sarch. and turns are of alabaster and &#13;
+come from Chiusi. The town of Palermo bought &#13;
+the Casuccini collection in 1866. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="53,450 2590,454 2567,1347 42,1343"/>
+            <TextLine id="l" custom="readingOrder {index:0;} abbrev {offset:22; length:5;expansion:sarchophagus;}">
+                <Coords points="67,568 265,640 525,551 657,611 1219,560 1392,638 2434,558 2399,460 67,480"/>
+                <Baseline points="83,559 2418,555"/>
+                <TextEquiv>
+                    <Unicode>The relief of the big sarc. represents the farewell of a married pair. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_89" custom="readingOrder {index:1;}">
+                <Coords points="49,700 2535,715 2456,595 49,603"/>
+                <Baseline points="65,684 2520,689"/>
+                <TextEquiv>
+                    <Unicode>He is Lavth Aphuna, she Aphunei who reclines covered with jewelry </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_93" custom="readingOrder {index:2;} abbrev {offset:18; length:5;expansion:sarchophagus;}">
+                <Coords points="57,819 2520,838 2521,738 57,744"/>
+                <Baseline points="71,801 2504,810"/>
+                <TextEquiv>
+                    <Unicode>on the lid of the sarc. Awreiged female demon leads her off to the </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_97" custom="readingOrder {index:3;}">
+                <Coords points="41,926 2436,940 2580,922 2581,828 41,863"/>
+                <Baseline points="56,910 2566,918"/>
+                <TextEquiv>
+                    <Unicode>shades below, while her daughter Thanch (Tanaquit) tries to console </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_101" custom="readingOrder {index:4;}">
+                <Coords points="42,1058 1570,1028 1815,1111 1900,1039 2232,1069 2233,966 42,967"/>
+                <Baseline points="56,1022 2216,1033"/>
+                <TextEquiv>
+                    <Unicode>her old father. Others of the family are standing about. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_105" custom="readingOrder {index:5;} unclear {offset:35; length:6;reason:illegile;}">
+                <Coords points="38,1140 2526,1192 2493,1082 39,1043"/>
+                <Baseline points="54,1135 2510,1162"/>
+                <TextEquiv>
+                    <Unicode>On the extreme left a fate, called Culice is coming out of the portal </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_109" custom="readingOrder {index:6;} bibl {offset:14; length:23;source:#Dennis;}">
+                <Coords points="41,1312 255,1250 374,1285 679,1243 1156,1317 1419,1281 1464,1183 42,1190"/>
+                <Baseline points="58,1256 1448,1262"/>
+                <TextEquiv>
+                    <Unicode>of Death. See Dennis Vol II. page 316.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>The relief of the big sarc. represents the farewell of a married pair. &#13;
+He is Lavth Aphuna, she Aphunei who reclines covered with jewelry &#13;
+on the lid of the sarc. Awreiged female demon leads her off to the &#13;
+shades below, while her daughter Thanch (Tanaquit) tries to console &#13;
+her old father. Others of the family are standing about. &#13;
+On the extreme left a fate, called Culice is coming out of the portal &#13;
+of Death. See Dennis Vol II. page 316.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

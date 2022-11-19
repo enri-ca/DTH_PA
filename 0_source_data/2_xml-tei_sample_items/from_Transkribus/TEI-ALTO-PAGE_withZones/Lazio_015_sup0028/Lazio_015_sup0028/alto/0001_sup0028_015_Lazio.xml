@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:05.661+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2622" WIDTH="3327">
+         <TopMargin HEIGHT="0" WIDTH="3327" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2622" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2622" WIDTH="0" VPOS="0" HPOS="3327"/>
+         <BottomMargin HEIGHT="0" WIDTH="3327" VPOS="2622" HPOS="0"/>
+         <PrintSpace HEIGHT="2622" WIDTH="3327" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="178" WIDTH="2394" VPOS="1198" HPOS="559">
+               <Shape>
+                  <Polygon POINTS="559,1202 559,1376 2953,1372 2953,1198"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1032,1320 589,1324 1147,1322 1204,1322 1262,1322 1320,1320 1377,1319 1435,1317 1492,1316 1550,1313 1608,1310 1665,1307 1723,1305 1780,1302 1838,1301 1896,1299 1953,1298 2011,1298 2068,1298 2126,1299 2928,1281"
+                         HEIGHT="174"
+                         WIDTH="1152"
+                         VPOS="1198"
+                         HPOS="1032">
+                  <String ID="string_r1l1"
+                          HEIGHT="174"
+                          WIDTH="1152"
+                          VPOS="1198"
+                          HPOS="1032"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="line_1668202001562_717"
+                         BASELINE=""
+                         HEIGHT="4"
+                         WIDTH="311"
+                         VPOS="1339"
+                         HPOS="2611">
+                  <String ID="string_line_1668202001562_717"
+                          HEIGHT="4"
+                          WIDTH="311"
+                          VPOS="1339"
+                          HPOS="2611"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="Image_1668201901996_680"
+                          HEIGHT="2311"
+                          WIDTH="3067"
+                          VPOS="161"
+                          HPOS="127"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

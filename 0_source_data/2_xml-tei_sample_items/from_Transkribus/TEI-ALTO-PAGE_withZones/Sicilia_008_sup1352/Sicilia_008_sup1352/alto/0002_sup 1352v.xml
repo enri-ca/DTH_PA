@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:10.189+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1389" WIDTH="2613">
+         <TopMargin HEIGHT="64" WIDTH="2613" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1233" WIDTH="27" VPOS="64" HPOS="0"/>
+         <RightMargin HEIGHT="1233" WIDTH="44" VPOS="64" HPOS="2569"/>
+         <BottomMargin HEIGHT="92" WIDTH="2613" VPOS="1297" HPOS="0"/>
+         <PrintSpace HEIGHT="1233" WIDTH="2542" VPOS="64" HPOS="27">
+            <TextBlock ID="r_2_1" HEIGHT="381" WIDTH="2176" VPOS="58" HPOS="129">
+               <Shape>
+                  <Polygon POINTS="129,58 2305,64 2303,431 129,439"/>
+               </Shape>
+               <TextLine ID="r_2_1l1"
+                         BASELINE="149,179 233,176 317,173 402,170 486,167 571,164 655,161 740,159 824,156 909,154 993,152 1077,150 1162,149 1246,147 1331,146 1415,145 1500,144 1584,144 1669,143 1753,144 2138,146"
+                         HEIGHT="159"
+                         WIDTH="1720"
+                         VPOS="67"
+                         HPOS="131">
+                  <String ID="string_r_2_1l1"
+                          HEIGHT="159"
+                          WIDTH="1720"
+                          VPOS="67"
+                          HPOS="131"
+                          CONTENT="All these sarch. and turns are of alabaster and "/>
+               </TextLine>
+               <TextLine ID="r_3_1l1"
+                         BASELINE="141,299 225,297 310,296 395,294 480,293 564,291 649,290 734,288 819,287 903,285 988,285 1073,284 1158,284 1242,284 1327,284 1412,284 1497,284 1581,285 1666,287 1751,290 2196,295"
+                         HEIGHT="180"
+                         WIDTH="1727"
+                         VPOS="181"
+                         HPOS="124">
+                  <String ID="string_r_3_1l1"
+                          HEIGHT="180"
+                          WIDTH="1727"
+                          VPOS="181"
+                          HPOS="124"
+                          CONTENT="come from Chiusi. The town of Palermo bought "/>
+               </TextLine>
+               <TextLine ID="r_3_1l2"
+                         BASELINE="131,431 203,428 275,425 347,422 419,420 491,419 563,417 636,416 708,416 780,414 852,414 924,414 996,414 1068,414 1141,416 1213,416 1285,417 1357,417 1429,419 1501,419 1574,420"
+                         HEIGHT="147"
+                         WIDTH="1475"
+                         VPOS="314"
+                         HPOS="115">
+                  <String ID="string_r_3_1l2"
+                          HEIGHT="147"
+                          WIDTH="1475"
+                          VPOS="314"
+                          HPOS="115"
+                          CONTENT="the Casuccini collection in 1866. "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_3_1" HEIGHT="897" WIDTH="2548" VPOS="450" HPOS="42">
+               <Shape>
+                  <Polygon POINTS="53,450 2590,454 2567,1347 42,1343"/>
+               </Shape>
+               <TextLine ID="l"
+                         BASELINE="83,559 2418,555"
+                         HEIGHT="180"
+                         WIDTH="2367"
+                         VPOS="460"
+                         HPOS="67">
+                  <String ID="string_l"
+                          HEIGHT="180"
+                          WIDTH="2367"
+                          VPOS="460"
+                          HPOS="67"
+                          CONTENT="The relief of the big sarc. represents the farewell of a married pair. "/>
+               </TextLine>
+               <TextLine ID="l_89"
+                         BASELINE="65,684 2520,689"
+                         HEIGHT="120"
+                         WIDTH="2486"
+                         VPOS="595"
+                         HPOS="49">
+                  <String ID="string_l_89"
+                          HEIGHT="120"
+                          WIDTH="2486"
+                          VPOS="595"
+                          HPOS="49"
+                          CONTENT="He is Lavth Aphuna, she Aphunei who reclines covered with jewelry "/>
+               </TextLine>
+               <TextLine ID="l_93"
+                         BASELINE="71,801 2504,810"
+                         HEIGHT="100"
+                         WIDTH="2464"
+                         VPOS="738"
+                         HPOS="57">
+                  <String ID="string_l_93"
+                          HEIGHT="100"
+                          WIDTH="2464"
+                          VPOS="738"
+                          HPOS="57"
+                          CONTENT="on the lid of the sarc. Awreiged female demon leads her off to the "/>
+               </TextLine>
+               <TextLine ID="l_97"
+                         BASELINE="56,910 2566,918"
+                         HEIGHT="112"
+                         WIDTH="2540"
+                         VPOS="828"
+                         HPOS="41">
+                  <String ID="string_l_97"
+                          HEIGHT="112"
+                          WIDTH="2540"
+                          VPOS="828"
+                          HPOS="41"
+                          CONTENT="shades below, while her daughter Thanch (Tanaquit) tries to console "/>
+               </TextLine>
+               <TextLine ID="l_101"
+                         BASELINE="56,1022 2216,1033"
+                         HEIGHT="145"
+                         WIDTH="2191"
+                         VPOS="966"
+                         HPOS="42">
+                  <String ID="string_l_101"
+                          HEIGHT="145"
+                          WIDTH="2191"
+                          VPOS="966"
+                          HPOS="42"
+                          CONTENT="her old father. Others of the family are standing about. "/>
+               </TextLine>
+               <TextLine ID="l_105"
+                         BASELINE="54,1135 2510,1162"
+                         HEIGHT="149"
+                         WIDTH="2488"
+                         VPOS="1043"
+                         HPOS="38">
+                  <String ID="string_l_105"
+                          HEIGHT="149"
+                          WIDTH="2488"
+                          VPOS="1043"
+                          HPOS="38"
+                          CONTENT="On the extreme left a fate, called Culice is coming out of the portal "/>
+               </TextLine>
+               <TextLine ID="l_109"
+                         BASELINE="58,1256 1448,1262"
+                         HEIGHT="134"
+                         WIDTH="1423"
+                         VPOS="1183"
+                         HPOS="41">
+                  <String ID="string_l_109"
+                          HEIGHT="134"
+                          WIDTH="1423"
+                          VPOS="1183"
+                          HPOS="41"
+                          CONTENT="of Death. See Dennis Vol II. page 316."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

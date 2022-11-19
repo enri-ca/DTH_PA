@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:12.231+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="166" WIDTH="698">
+         <TopMargin HEIGHT="0" WIDTH="698" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="166" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="166" WIDTH="0" VPOS="0" HPOS="698"/>
+         <BottomMargin HEIGHT="0" WIDTH="698" VPOS="166" HPOS="0"/>
+         <PrintSpace HEIGHT="166" WIDTH="698" VPOS="0" HPOS="0">
+            <TextBlock ID="r_35" HEIGHT="136" WIDTH="657" VPOS="10" HPOS="34">
+               <Shape>
+                  <Polygon POINTS="34,22 691,10 691,146 38,145"/>
+               </Shape>
+               <TextLine ID="l_91"
+                         BASELINE="34,48 512,34 519,37"
+                         HEIGHT="43"
+                         WIDTH="498"
+                         VPOS="5"
+                         HPOS="33">
+                  <String ID="string_l_91"
+                          HEIGHT="43"
+                          WIDTH="498"
+                          VPOS="5"
+                          HPOS="33"
+                          CONTENT="Court of Cardinal Vitelleschi's palace at Corneto. "/>
+               </TextLine>
+               <TextLine ID="l_96"
+                         BASELINE="32,79 677,59 683,68"
+                         HEIGHT="53"
+                         WIDTH="677"
+                         VPOS="26"
+                         HPOS="31">
+                  <String ID="string_l_96"
+                          HEIGHT="53"
+                          WIDTH="677"
+                          VPOS="26"
+                          HPOS="31"
+                          CONTENT="It is now an inn and a tenement for the person classes in the town. "/>
+               </TextLine>
+               <TextLine ID="l_31"
+                         BASELINE="37,112 676,90"
+                         HEIGHT="52"
+                         WIDTH="640"
+                         VPOS="60"
+                         HPOS="36">
+                  <String ID="string_l_31"
+                          HEIGHT="52"
+                          WIDTH="640"
+                          VPOS="60"
+                          HPOS="36"
+                          CONTENT="When I was first there in 1861, it was occupied by French officiers, "/>
+               </TextLine>
+               <TextLine ID="l_40"
+                         BASELINE="42,142 323,127"
+                         HEIGHT="45"
+                         WIDTH="283"
+                         VPOS="97"
+                         HPOS="40">
+                  <String ID="string_l_40"
+                          HEIGHT="45"
+                          WIDTH="283"
+                          VPOS="97"
+                          HPOS="40"
+                          CONTENT="who had their mess in it."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

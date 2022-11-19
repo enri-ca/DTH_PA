@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:09.985+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3120" WIDTH="2451">
+         <TopMargin HEIGHT="52" WIDTH="2451" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3039" WIDTH="38" VPOS="52" HPOS="0"/>
+         <RightMargin HEIGHT="3039" WIDTH="7" VPOS="52" HPOS="2444"/>
+         <BottomMargin HEIGHT="29" WIDTH="2451" VPOS="3091" HPOS="0"/>
+         <PrintSpace HEIGHT="3039" WIDTH="2406" VPOS="52" HPOS="38">
+            <TextBlock ID="r_13" HEIGHT="58" WIDTH="2349" VPOS="3045" HPOS="76">
+               <Shape>
+                  <Polygon POINTS="2425,3103 76,3103 76,3045 2425,3045"/>
+               </Shape>
+               <TextLine ID="line_1667767471372_1882"
+                         BASELINE=""
+                         HEIGHT="28"
+                         WIDTH="82"
+                         VPOS="3048"
+                         HPOS="317">
+                  <String ID="string_line_1667767471372_1882"
+                          HEIGHT="28"
+                          WIDTH="82"
+                          VPOS="3048"
+                          HPOS="317"
+                          CONTENT="9072"/>
+               </TextLine>
+               <TextLine ID="l_27"
+                         BASELINE="445,3074 838,3074"
+                         HEIGHT="31"
+                         WIDTH="523"
+                         VPOS="3043"
+                         HPOS="315">
+                  <String ID="string_l_27"
+                          HEIGHT="31"
+                          WIDTH="523"
+                          VPOS="3043"
+                          HPOS="315"
+                          CONTENT="PALERMO Sarcofago "/>
+               </TextLine>
+               <TextLine ID="l_31"
+                         BASELINE="2067,3076 2423,3073"
+                         HEIGHT="33"
+                         WIDTH="357"
+                         VPOS="3043"
+                         HPOS="2066">
+                  <String ID="string_l_31"
+                          HEIGHT="33"
+                          WIDTH="357"
+                          VPOS="3043"
+                          HPOS="2066"
+                          CONTENT=" G. Sommer - Napoli"/>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="Image_1667767154358_1794"
+                          HEIGHT="3039"
+                          WIDTH="2406"
+                          VPOS="52"
+                          HPOS="38"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

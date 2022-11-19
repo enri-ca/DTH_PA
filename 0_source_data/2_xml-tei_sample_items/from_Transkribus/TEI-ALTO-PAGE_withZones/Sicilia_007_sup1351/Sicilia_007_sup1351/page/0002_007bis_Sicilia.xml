@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-09-30T21:03:14.802+02:00</Created>
+        <LastChange>2022-11-11T21:24:49.412+01:00</LastChange>
+        <TranskribusMetadata docId="1175485" pageId="47896941" pageNr="2" tsid="103249941" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=FSZSINXSAQAMXZDKLBURGGRN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UQMCQKQNUYYJUFGQVSUVPFIX" imageId="39116883"/>
+    </Metadata>
+    <Page imageFilename="0002_007bis_Sicilia.jpg" imageWidth="600" imageHeight="165">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864732787" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="17,17 589,18 589,86 588,157 18,159"/>
+            <TextLine id="l_32" custom="readingOrder {index:0;} rs {offset:0; length:33;ref:#OA_107660; type:object;}">
+                <Coords points="35,50 543,51 543,51 543,21 543,21 35,20"/>
+                <Baseline points="35,50 543,51 543,51"/>
+                <TextEquiv>
+                    <Unicode>This grand headless Etruscan lady came with the other gear </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:1;} organization {offset:9; length:20;ref:#Casuccini_coll; type:collection;} place {offset:33; length:6;ref:#Chiusi;} rs {offset:46; length:1;ref:#PA_creator; type:person;}">
+                <Coords points="25,85 577,84 577,54 25,55"/>
+                <Baseline points="25,85 577,84"/>
+                <TextEquiv>
+                    <Unicode>from the Casuccini collection of Chiusi where I saw </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:2;} rs {offset:0; length:3;ref:#OA_107660; type:object;} date {offset:7; length:4;when:1866;} rs {offset:13; length:3;ref:#OA_107660; type:object;}">
+                <Coords points="25,118 527,118 527,118 527,88 527,88 25,88"/>
+                <Baseline points="25,118 527,118 527,118"/>
+                <TextEquiv>
+                    <Unicode>her in 1866. She is of white marble. The figures below, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:3;}">
+                <Coords points="25,151 527,151 527,121 25,121"/>
+                <Baseline points="25,151 527,151"/>
+                <TextEquiv>
+                    <Unicode>painted and with painted inscriptions, are of alabaster. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
