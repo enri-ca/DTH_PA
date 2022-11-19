@@ -17,5 +17,5 @@ The project is completed by:<br>
 - an <b>Encoding Guide (0_PA_encoding_model.pdf)</b> 
 - the <b>project presentation (2_PA_presentation)</b>.<br>
 
-All the images and the data are published for <b>illustrating and didactical purposes only</b>. <br>
+All the images and the data are published for <b>illustrative and didactical purposes only</b>. <br>
 Please refer to <a href="mailto:abis.arti-av@unibo.it" object="Supino images request">Biblioteca delle Arti. Sezione di Arti visive "I. B. Supino"</a> for any request of use.
