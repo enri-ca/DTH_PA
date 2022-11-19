@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0"
            xmlns:dbo="http://dbpedia.org/ontology/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
            xmlns:foaf="http://xmlns.com/foaf/0.1/"
            xmlns:geonames="https://www.geonames.org/"
            xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,36 +18,26 @@
             <title>Fototeca Supino</title>
             <principal>Zani, Enrica</principal>
          </titleStmt>
-         <extent>14 recto-verso photographs</extent>
          <publicationStmt>
-            <distributor>Github</distributor>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported License</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">Project distributed under a Creative Commons Attribution-ShareAlike 3.0 License. All the images and the data are published for illustrative and didactical purposes only. For any request of use, please refer to: Biblioteca delle Arti. Sezione di Arti visive "I. B. Supino" (images) and Fondazione "Federico Zeri" (OA and F records).</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl>Fototeca Supino</bibl>
-            
+            <xi:include href="03_SourceDesc_nor.xml"/>
          </sourceDesc>
       </fileDesc>
-      
-      <!--profileDesc>
-                <xi:include href="hands.xml"/>
-                <handDesc hands="2">
-                    <handNote xml:id="h_2">
-                        <p>A second and probably later hand adds information with a different medium and mark. Writing remains probably the same<p>
-                    </handNote>
-                </handDesc>
-                </profileDesc-->
+      <xi:include href="02_ProfileDesc_nor.xml"/>
       <encodingDesc>
          <projectDesc>
             <p>A sample of 14 photographs over the more than 3000 of the Partizione Antica, has been used to try to face an high challenging
                       material to encode as works of art photographs annotated on their verso by an unknown art historian.</p>
          </projectDesc>
       </encodingDesc>
+      <xi:include href="04_xenoData.xml"/>
    </teiHeader>
-   <TEI>
+   <TEI xml:id="Francia_077_sup2225_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -62,9 +53,9 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Francia_077_sup2225_tx">
          <body>
-            <pb xml:id="sup2225_077_Francia.JPG" n="1"/>
+            <pb xml:id="sup2225_077_Francia" n="1"/>
             <p>
                <lb facs="#facs_1_l_86" n="N001"/>
                <orgName ref="#Giraudon" type="photographer">A. GIRAUDON</orgName>
@@ -76,7 +67,7 @@
 				<lb facs="#facs_1_l_74" n="N003"/>
                <orgName ref="#Giraudon" type="photographer">A. G. phot.</orgName>
             </p>
-            <pb xml:id="sup2225_077bis_Francia.JPG" n="2"/>
+            <pb xml:id="sup2225_077bis_Francia" n="2"/>
             <p>
                <lb facs="#facs_2_r_1_1l1" n="N001"/>
                <orgName ref="#Louvre" type="museum">Musée du Louvre</orgName>.
@@ -93,7 +84,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="GBretagna_043_sup3003_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -109,9 +100,9 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="GBretagna_043_sup3003_tx">
          <body>
-            <pb xml:id="sup3003_043_GrBretagna.JPG" n="sup3003_r"/>
+            <pb xml:id="sup3003_043_GrBretagna" n="sup3003_r"/>
             <p>
                <lb facs="#facs_1_r1l1" n="N001"/>
                <objectName ref="#OA_108716">HERMES</objectName>
@@ -123,19 +114,18 @@
                <lb facs="#facs_1_line_1668200611797_585" n="N001"/>
                <objectName ref="#negUNK_267">267</objectName>
             </p>
-            <pb xml:id="sup3003_043bis_GrBretagna.JPG" n="sup3003_v"/>
+            <pb xml:id="sup3003_043bis_GrBretagna" n="sup3003_v"/>
             <p>
                <lb facs="#facs_2_r1l1" n="N001"/>
                <orgName ref="#Br_Museum" type="museum">British Museum</orgName>. 
 				<lb facs="#facs_2_r1l2" n="N002"/>
                <rs ref="#OA_108716" type="object">This head</rs> came from <orgName ref="#Aberdeen_coll" type="collection">Lord Aberdeen's collection</orgName> and 
 				<lb facs="#facs_2_r1l3" n="N003"/>was formerly called that of a young Hercules. 
-				<lb facs="#facs_2_r1l4" n="N004"/>In <date month="0" year="0" when="1886" day="0">1886</date>
+				<lb facs="#facs_2_r1l4" n="N004"/>In <date when="1886">1886</date>
                <persName ref="#Wolters">Wolters</persName> discovered that it was Praxitelean. 
 				<lb facs="#facs_2_r1l5" n="N005"/>
-               <persName ref="#Sellers">Miss Sellers</persName> put it by the side of the head of <objectName ref="#Hermes_Olympia">the Hermes </objectName>
-               <lb facs="#facs_2_r1l6" n="N006"/>
-               <objectName ref="#Hermes_Olympia">of Olympia</objectName> and found them amazingly similar. 
+               <persName ref="#Sellers">Miss Sellers</persName> put it by the side of the head of <objectName ref="#Hermes_Olympia">the Hermes 
+				<lb facs="#facs_2_r1l6" n="N006"/>of Olympia</objectName> and found them amazingly similar. 
 				<lb facs="#facs_2_r1l8" n="N007"/>The head is of finest Parian marble and has holes 
 				<lb facs="#facs_2_r1l9" n="N008"/>in the hair for a wreath. <persName ref="#Lechat">Lechat</persName> says that <rs ref="#OA_108716" type="object">it</rs>
                <lb facs="#facs_2_r1l10" n="N009"/>is brother to the <rs ref="#Sphinx_AK_Museum" type="object">
@@ -145,7 +135,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Grecia1_106_sup2470_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -161,10 +151,10 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Grecia1_106_sup2470_tx">
          <body>
-            <pb xml:id="sup2470_106_Grecia 1.JPG" n="sup2470_r"/>
-            <pb xml:id="sup2470_106bis_Grecia 1.JPG" n="sup2470_v"/>
+            <pb xml:id="sup2470_106_Grecia1" n="sup2470_r"/>
+            <pb xml:id="sup2470_106bis_Grecia1" n="sup2470_v"/>
             <p>
                <lb facs="#facs_2_r1l1" n="N001"/>
                <objectName ref="#OA_108395">This is the fine tower</objectName> built in the 13<hi rend="superscript:true;">th</hi>century by the Frank Dukes
@@ -202,7 +192,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Grecia2_012_sup2553_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -218,16 +208,16 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Grecia2_012_sup2553_tx">
          <body>
-            <pb xml:id="sup2553_012_Grecia2.JPG" n="1"/>
+            <pb xml:id="sup2553_012_Grecia2" n="1"/>
             <p>
                <lb facs="#facs_1_r_2_1l1" n="N001"/>
                <objectName ref="#OA_108368">Victory returns to her temple and takes off her sandals</objectName>. 
 				<lb facs="#facs_1_r_2_1l2" n="N002"/>
                <placeName ref="#Athens">Acropolis of Athens</placeName>. 
 			</p>
-            <pb xml:id="sup2553_012bis_Grecia2.JPG" n="2"/>
+            <pb xml:id="sup2553_012bis_Grecia2" n="2"/>
             <p>
                <lb facs="#facs_2_r_1_1l1" n="N001"/>
                <orgName ref="#AK_Museum" type="museum">Museum of Akropolis</orgName>. 
@@ -250,7 +240,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Grecia2_040_sup2581_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -266,10 +256,10 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Grecia2_040_sup2581_tx">
          <body>
-            <pb xml:id="sup2581_040_Grecia 2.JPG" n="1"/>
-            <pb xml:id="sup2581_040bis_Grecia 2.JPG" n="2"/>
+            <pb xml:id="sup2581_040_Grecia2" n="1"/>
+            <pb xml:id="sup2581_040bis_Grecia2" n="2"/>
             <p>
                <lb facs="#facs_2_r1l1" n="N001"/>
                <placeName ref="#Olympia">Olympia</placeName>.
@@ -289,7 +279,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Grecia3_051_sup2832_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -305,9 +295,9 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Grecia3_051_sup2832_tx">
          <body>
-            <pb xml:id="sup2832_051_Grecia3.JPG" n="1"/>
+            <pb xml:id="sup2832_051_Grecia3" n="1"/>
             <p>
                <lb facs="#facs_1_line_1667941394445_570" n="N001"/>52
 			</p>
@@ -320,7 +310,7 @@
             <p>
                <lb facs="#facs_1_line_1667941203450_485" n="N001"/>26
 			</p>
-            <pb xml:id="sup2832_051bis_Grecia3.JPG" n="2"/>
+            <pb xml:id="sup2832_051bis_Grecia3" n="2"/>
             <p>
                <lb facs="#facs_2_r1l1" n="N001"/>
                <orgName ref="#National_Museum_Athens" type="museum">National Museum Athens.</orgName>
@@ -335,7 +325,7 @@
                   <expan>diameter</expan>
                   <abbr>diam</abbr>
                </choice>.
-				<lb facs="#facs_2_r1l6" n="N006"/>The painting on it is <date month="0" year="0" day="0" notBefore="1889">now</date> almost effaced but once represented a <unclear>bearded</unclear>
+				<lb facs="#facs_2_r1l6" n="N006"/>The painting on it is <date notBefore="1889">now</date> almost effaced but once represented a <unclear>bearded</unclear>
                <lb facs="#facs_2_r1l7" n="N007"/>man with <cit>
                   <ref>an inscription saying</ref>: <quote>to the memory of Ainios, a wise and </quote>
                </cit>
@@ -347,7 +337,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Grecia3_092_sup2783_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -363,9 +353,9 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Grecia3_092_sup2783_tx">
          <body>
-            <pb xml:id="sup2783_011_Grecia3.JPG" n="1"/>
+            <pb xml:id="sup2783_011_Grecia3" n="1"/>
             <p>
                <lb facs="#facs_1_l_19" n="N001"/>
                <objectName ref="#negUNK_067">67</objectName>
@@ -373,7 +363,7 @@
             <p>
                <lb facs="#facs_1_l" n="N001"/>128 
 			</p>
-            <pb xml:id="sup2783_011bis_Grecia3.JPG" n="2"/>
+            <pb xml:id="sup2783_011bis_Grecia3" n="2"/>
             <p>
                <lb facs="#facs_2_r_1_1l1" n="N001"/>N°. 247. h. C
 			</p>
@@ -391,7 +381,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Lazio_015_sup0028_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -407,27 +397,27 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Lazio_015_sup0028_tx">
          <body>
-            <pb xml:id="sup0028_015_Lazio.JPG" n="1"/>
+            <pb xml:id="sup0028_015_Lazio" n="1"/>
             <p>
                <lb facs="#facs_1_r1l1" n="N001"/>
                <lb facs="#facs_1_line_1668202001562_717" n="N002"/>
             </p>
-            <pb xml:id="sup0028_015bis_Lazio.JPG" n="2"/>
+            <pb xml:id="sup0028_015bis_Lazio" n="2"/>
             <p>
                <lb facs="#facs_2_r1l1" n="N001"/>
                <orgName ref="#Corneto_Museum" type="museum">
                   <placeName ref="#Tarquinia">Corneto</placeName>. Museum</orgName>. 
 				<lb facs="#facs_2_r1l2" n="N002"/>
-               <rs ref="#OA_106911" type="object">Sarcophagus</rs> found in <date month="0" year="0" when="1876" day="0">1876</date>. Relief with encaustic paintings showing 
+               <rs ref="#OA_106911" type="object">Sarcophagus</rs> found in <date when="1876">1876</date>. Relief with encaustic paintings showing 
 				<lb facs="#facs_2_r1l3" n="N003"/>Achilles slaughtering prisoners to the shade of Petroclus. 
 				<lb facs="#facs_2_r1l4" n="N004"/>The reclining figure is called the priest of Giove. 
 			</p>
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Lazio_062_sup0218_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -443,21 +433,21 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Lazio_062_sup0218_tx">
          <body>
-            <pb xml:id="sup0218_062_Lazio.jpg" n="1"/>
-            <pb xml:id="062bis_Lazio.jpg" n="2"/>
+            <pb xml:id="sup0218_062_Lazio" n="1"/>
+            <pb xml:id="062bis_Lazio" n="2"/>
             <p>
                <lb facs="#facs_2_l_91" n="N001"/>Court of Cardinal <objectName ref="#OA_106976">Vitelleschi's palace</objectName> at <placeName ref="#Taquinia">Corneto</placeName>. 
 				<lb facs="#facs_2_l_96" n="N002"/>
-               <rs ref="#OA_106976" type="object">It</rs> is <date month="0" year="0" day="0" notBefore="1861">now</date> an inn and a tenement for the person classes in <rs ref="#Tarquinia" type="place">the town</rs>. 
+               <rs ref="#OA_106976" type="object">It</rs> is <date notBefore="1861">now</date> an inn and a tenement for the person classes in <rs ref="#Tarquinia" type="place">the town</rs>. 
 				<lb facs="#facs_2_l_31" n="N003"/>When <rs ref="#PA_creator" type="person">I</rs> was first <rs ref="#Tarquinia" type="place">there</rs> in <date when="1861">1861</date>, <rs ref="#OA_106976" type="object">it</rs> was occupied by French officiers, 
 				<lb facs="#facs_2_l_40" n="N004"/>who had their mess in <rs ref="#OA_106976" type="object">it</rs>.
 			</p>
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Sicilia_007_sup1351_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -473,9 +463,9 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Sicilia_007_sup1351_tx">
          <body>
-            <pb xml:id="sup1351_007_Sicilia.JPG" n="1"/>
+            <pb xml:id="sup1351_007_Sicilia" n="1"/>
             <p>
                <lb facs="#facs_1_line_1667759538519_323" n="N001"/>
                <objectName ref="#OA_107660">SARCOFAGO ETRUSCO</objectName>
@@ -485,7 +475,7 @@
                <orgName ref="#Incorpora" type="photographer">G. Incorpora, <placeName ref="#Palermo">Palermo</placeName>
                </orgName>
             </p>
-            <pb xml:id="007bis_Sicilia.jpg" n="2"/>
+            <pb xml:id="007bis_Sicilia" n="2"/>
             <p>
                <lb facs="#facs_2_l_32" n="N001"/>
                <rs ref="#OA_107660" type="object">This grand headless Etruscan lady</rs> came with the other gear 
@@ -497,7 +487,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Palermo_008_sup1352_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -513,9 +503,9 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Palermo_008_sup1352_tx">
          <body>
-            <pb xml:id="sup 1352_g.jpg" n="1"/>
+            <pb xml:id="sup1352_g" n="1"/>
             <p>
                <lb facs="#facs_1_line_1667767471372_1882" n="N001"/>
                <objectName ref="#negSommier_9072">9072</objectName>
@@ -526,7 +516,7 @@
                <orgName ref="#Sommer" type="photographer">G. Sommer - <placeName ref="#Napoli">Napoli</placeName>
                </orgName>
             </p>
-            <pb xml:id="sup 1352v.jpg" n="2"/>
+            <pb xml:id="sup1352v" n="2"/>
             <p>
                <lb facs="#facs_2_r_2_1l1" n="N001"/>
                <rs ref="#OA_107660" type="object">All these</rs>
@@ -556,7 +546,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Sicilia_024_sup1368_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -572,9 +562,9 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Sicilia_024_sup1368_tx">
          <body>
-            <pb xml:id="sup1368_024_Sicilia.JPG" n="1"/>
+            <pb xml:id="sup1368_024_Sicilia" n="1"/>
             <p>
                <lb facs="#facs_1_l" n="N001"/>
                <objectName ref="#negIncorpora_067">67</objectName>. - <placeName ref="#Palermo">PALERMO</placeName>
@@ -584,7 +574,7 @@
                <orgName ref="#Incorpora" type="photographer">G. INCORPORA, <placeName ref="#Palermo">PALERMO</placeName>
                </orgName>
             </p>
-            <pb xml:id="024bis_Sicilia.jpg" n="2"/>
+            <pb xml:id="024bis_Sicilia" n="2"/>
             <p>
                <lb facs="#facs_2_r1l1" n="N001"/>
                <rs ref="#OA_107699" type="object">The sarcophagus</rs> is of solid porphyry; the six supporting columns 
@@ -599,29 +589,13 @@
 				<lb facs="#facs_2_r1l5" n="N005"/>single headed eagle. 
 				<lb facs="#facs_2_line_1668199366974_463" n="N006"/>
                <cit>
-                  <ref>An old, but contemporary inscription said:</ref>
-               </cit>
-            </p>
-            <p>
-               <lb facs="#facs_2_r1l7" n="N001"/>
-               <cit>
-                  <quote>Caesaris Henrici latet hic Constantia corpus </quote>
-               </cit>
-               <lb facs="#facs_2_r1l8" n="N002"/>
-               <quote>
-                  <cit>undeno lustro hac platea rugosa sacerdos </cit>
-               </quote>
-               <lb facs="#facs_2_r1l9" n="N003"/>
-               <quote>
-                  <cit>Facta dedis parta Fredericum Augusta secundum </cit>
-               </quote>
-               <lb facs="#facs_2_r1l10" n="N004"/>
-               <quote>
-                  <cit>To meritis sacratam tenes sic ossa Panhormus, </cit>
-               </quote>
-               <lb facs="#facs_2_r1l11" n="N005"/>
-               <cit>
-                  <quote>Vix. Au LX1. Ubiis MCCIII. M.2.</quote>
+                  <ref>An old, but contemporary inscription said: </ref>
+                  <quote>
+                     <lb facs="#facs_2_r1l7" n="N001"/>Caesaris Henrici latet hic Constantia corpus 
+				<lb facs="#facs_2_r1l8" n="N002"/>undeno lustro hac platea rugosa sacerdos 
+				<lb facs="#facs_2_r1l9" n="N003"/>Facta dedis parta Fredericum Augusta secundum 
+				<lb facs="#facs_2_r1l10" n="N004"/>To meritis sacratam tenes sic ossa Panhormus, 
+				<lb facs="#facs_2_r1l11" n="N005"/>Vix. Au LX1. Ubiis MCCIII. M.2. </quote>
                </cit>
                <lb facs="#facs_2_r1l12" n="N006"/>She died in fact in 1198 aged 44. 
 				<lb facs="#facs_2_r1l13" n="N007"/>See <bibl source="#Villani">Villani</bibl> for the myth about her. 
@@ -638,7 +612,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Toscana2_084_sup1965_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -654,9 +628,9 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Toscana2_084_sup1965_tx">
          <body>
-            <pb xml:id="sup 1965_g.jpg" n="1"/>
+            <pb xml:id="sup1965_g" n="1"/>
             <p>
                <lb facs="#facs_1_l_19" n="N001"/>
                <orgName ref="#Paganori" type="photographer">V. PAGANORI</orgName>
@@ -667,7 +641,7 @@
                <lb facs="#facs_1_l_31" n="N001"/>
                <objectName ref="#negPaganori_599">599</objectName>. 
 			</p>
-            <pb xml:id="sup 1965v.jpg" n="2"/>
+            <pb xml:id="sup1965v" n="2"/>
             <p>
                <lb facs="#facs_2_r_1_1l1" n="N001"/>
                <objectName ref="#OA_107455">This painted terra cotta Etruscan lady, Larthia Seianti S...</objectName> (of the family 
@@ -685,7 +659,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+   <TEI xml:id="Umbria_037_sup0661_ph">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -701,10 +675,10 @@
             </sourceDesc>
          </fileDesc>
       </teiHeader>
-      <text>
+      <text xml:id="Umbria_037_sup0661_tx">
          <body>
-            <pb xml:id="sup661_037_Umbria.JPG" n="1"/>
-            <pb xml:id="sup661_037bis_Umbria.JPG" n="2"/>
+            <pb xml:id="sup661_037_Umbria" n="1"/>
+            <pb xml:id="sup661_037bis_Umbria" n="2"/>
             <p>
                <lb facs="#facs_2_r_1_1l1" n="N001"/>
                <placeName ref="#Assisi">Assisi</placeName>. 

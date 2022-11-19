@@ -53,6 +53,6 @@ let $photo_entry := collection("../2_xml-tei_sample_items/normalized_?select=*.x
 for $TEI in $photo_entry/tei:TEI
 let $title := $TEI/teiHeader/fileDesc/titleStmt/title[@type='main']
 let $body := $TEI/child::text/child::body
-return <text xml:id="{$title}">{$body}</text>
+return <text xml:id="{$title}_tx">{$body}</text>
 }
 </TEI>

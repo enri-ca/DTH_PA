@@ -2,6 +2,7 @@
 <profileDesc>
    <particDesc>
       <listPerson>
+         <head>Persons</head>
          <person xml:id="Kavvadias">
             <persName>Kavvadias</persName>
          </person>
@@ -30,7 +31,6 @@
       <listOrg>
          <head>Museums</head>
          <org xml:id="AK_Museum">
-            <orgName>Akropolis Museum</orgName>
             <orgName>Museum of Akropolis</orgName>
          </org>
          <org xml:id="AN_FI_Museum">
@@ -47,97 +47,105 @@
             <orgName>Kircherian</orgName>
          </org>
          <org xml:id="Louvre">
-            <orgName>Louvre</orgName>
             <orgName>Musée du Louvre</orgName>
+         </org>
+         <org xml:id="NA_Museum">
+            <orgName>Central Museum</orgName>
          </org>
          <org xml:id="National_Museum_Athens">
             <orgName>National Museum Athens.</orgName>
-            <orgName>Central Museum</orgName>           
          </org>
          <org xml:id="PA_museum">
             <orgName>Museo Palermo</orgName>
          </org>
-         <head>Collecions</head>
+         <head>Collections</head>
          <org xml:id="Aberdeen_coll">
-            <orgName>Collection of The Earl of Aberdeen</orgName>
             <orgName>Lord Aberdeen's collection</orgName>
          </org>
          <org xml:id="Casuccini_coll">
             <orgName>Casuccini collection</orgName>
          </org>
-         <head>Photographer</head>
+         <head>Photographers</head>
          <org xml:id="Giraudon">
-            <orgName>A. GIRAUDON</orgName>
-            <orgName>A. G. phot.</orgName>
+            <orgName>A. Giraudon phot.</orgName>
          </org>
          <org xml:id="Incorpora">
-            <orgName>G. Incorpora, Palermo</orgName>
-            <orgName>G. INCORPORA, PALERMO</orgName>
-         </org>
-         <org xml:id="Paganori">
-            <orgName>V. PAGANORI</orgName>
-         </org>
-         <org xml:id="Sommer">
-            <orgName>G. Sommer - Napoli
+            <orgName>G. Incorpora, Palermo
                </orgName>
          </org>
-         <head>Other</head>
+         <org xml:id="Paganori">
+            <orgName>V. Paganori, Firenze</orgName>
+         </org>
+         <org xml:id="Sommer">
+            <orgName>G. Sommer Napoli
+               </orgName>
+         </org>
+         <head>Collectors</head>
          <org xml:id="PA_gov">
-            <orgName>town of Palermo</orgName>
+            <orgName>town of Palermo
+               </orgName>
          </org>
          <org xml:id="UND_FI_Gov">
-            <orgName>the Government</orgName>
+            <orgName>the Government (Firenze ?)</orgName>
          </org>
       </listOrg>
       <listObject>
-         <object xml:id="">
-            <objectName>Sphinx</objectName>
-         </object>
-         <object xml:id="Hermes_Olympia">
-            <objectName>the Hermes of Olympia</objectName>
-         </object>
-         <object xml:id="NikeApteros_temple">
-            <objectName>temple of Nike Apteros</objectName>
-         </object>
-         <object xml:id="OA_106976">
-            <objectName>Vitelleschi's palace</objectName>
-         </object>
-         <object xml:id="OA_107455">
-            <objectName>This painted terra cotta Etruscan lady, Larthia Seianti S...</objectName>
-         </object>
-         <object xml:id="OA_107660">
-            <objectName>SARCOFAGO ETRUSCO</objectName>
-         </object>
-         <object xml:id="OA_107699">
-            <objectName>TOMBA DI COSTANZA </objectName>
-         </object>
-         <object xml:id="OA_108368">
-            <objectName>Victory returns to her temple and takes off her sandals</objectName>
-         </object>
-         <object xml:id="OA_108395">
-            <objectName>This is the fine tower</objectName>
-         </object>
-         <object xml:id="OA_108400">
-            <objectName>The Hermes of Praxiteles</objectName>
-         </object>
+         <head>Works of art</head>
+         
          <object xml:id="OA_108561">
             <objectName>Fighting warrior</objectName>
          </object>
-         <object xml:id="OA_108716">
-            <objectName>HERMES</objectName>
-         </object>
          <object xml:id="OA_108820">
             <objectName>Frise provenant du Parthénon. dètail</objectName>
+         </object>
+         
+         <object xml:id="OA_108716">
+            <objectName>Hermes</objectName>
+         </object>
+         <object xml:id="OA_108400">
+            <objectName>Hermes of Praxiteles</objectName>
+         </object>
+         
+         <object xml:id="Hermes_Olympia">
+            <objectName>Hermes of Olympia</objectName>
          </object>
          <object xml:id="OA_81897">
             <objectName>Monument of Hecuba de Lusignan</objectName>
          </object>
          <object xml:id="PlateI">
-            <objectName>N.° II. Continuation of Plate I.</objectName>
+            <objectName>Plate I.</objectName>
          </object>
          <object xml:id="PlateI">
             <objectName>Plate III</objectName>
          </object>
+         <object xml:id="OA_107660">
+            <objectName>Sarcofago Etrusco</objectName>
+         </object>
+         
+         <object xml:id="Sphinx">
+            <objectName>Sphinx</objectName>
+         </object>
+         <object xml:id="NikeApteros_temple">
+            <objectName>temple of Nike Apteros</objectName>
+         </object>
+         <object xml:id="OA_108395">
+            <objectName>This is the fine tower</objectName>
+         </object>
+         <object xml:id="OA_107455">
+            <objectName>This painted terra cotta Etruscan lady, Larthia Seianti S...</objectName>
+         </object>
+         <object xml:id="OA_107699">
+            <objectName>Tomba di Costanza </objectName>
+         </object>
+         <object xml:id="OA_108368">
+            <objectName>Victory returns to her temple and takes off her sandals</objectName>
+         </object>
+         
+         <object xml:id="OA_106976">
+            <objectName>Vitelleschi's palace</objectName>
+         </object>
+         
+         <head>Photograph negatives</head>
          <object xml:id="negGiraudon_1452">
             <objectName>1452</objectName>
          </object>
@@ -163,12 +171,12 @@
    </particDesc>
    <settingDesc>
       <listPlace>
+         <head>Places</head>
          <place xml:id="Assisi">
             <placeName>Assisi</placeName>
          </place>
          <place xml:id="Athens">
-            <placeName>Athens</placeName>
-            <placeName>Acropolis of Athens</placeName>
+             <placeName>Athens</placeName>
          </place>
          <place xml:id="Chiusi">
             <placeName>Chiusi</placeName>
@@ -184,7 +192,6 @@
          </place>
          <place xml:id="Palermo">
             <placeName>Palermo</placeName>
-            <placeName>Duomo</placeName>
          </place>
          <place xml:id="Rome">
             <placeName>Rome</placeName>
