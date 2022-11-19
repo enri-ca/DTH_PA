@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Umbria_037_sup0661</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2022' lry='2709' corresp='0001_sup661_037_Umbria.JPG'>
+			<graphic url='0001_sup661_037_Umbria.JPG' width='2022px' height='2709px'/>
+			<zone points='0,0 2022,0 2022,2709 0,2709' rendition='Image' xml:id='facs_1_Image_1667765637086_1560'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2786' lry='1174' corresp='0002_sup661_037bis_Umbria.JPG'>
+			<graphic url='0002_sup661_037bis_Umbria.JPG' width='2786px' height='1174px'/>
+			<zone points='5,22 2761,19 2761,1106 5,1109' rendition='printspace'/>
+			<zone points='-10,17 2749,36 2762,668 7,671' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_3_1'>
+				<zone points='704,146 729,148 754,149 779,149 804,149 829,149 854,148 879,148 904,148 929,146 954,146 979,147 1005,148 1005,0 979,0 954,0 929,0 904,0 879,0 854,0 829,0 804,0 779,0 754,0 729,0 704,0' rendition='Line' subtype='heading' xml:id='facs_2_r_1_1l1'/>
+				<zone points='14,398 112,393 211,389 310,385 409,382 507,377 606,374 705,370 804,367 902,365 1001,362 1100,361 1199,361 1297,359 1396,361 1495,361 1594,364 1692,367 1791,370 1890,375 1989,380 1989,230 1890,225 1791,220 1692,217 1594,214 1495,211 1396,211 1297,209 1199,211 1100,211 1001,212 902,215 804,217 705,220 606,224 507,227 409,232 310,235 211,239 112,243 14,248' rendition='Line' subtype='heading' xml:id='facs_2_r_2_1l1'/>
+				<zone points='42,477 141,471 241,466 340,462 440,459 540,455 639,452 739,449 838,447 938,445 1038,444 1137,442 1237,442 1336,442 1436,442 1536,444 1635,445 1735,448 1834,450 1934,454 2034,457 2034,381 1934,378 1834,374 1735,372 1635,369 1536,368 1436,366 1336,366 1237,366 1137,366 1038,368 938,369 838,371 739,373 639,376 540,379 440,383 340,386 241,390 141,395 42,401' rendition='Line' xml:id='facs_2_r_3_1l1'/>
+				<zone points='39,578 135,573 231,570 328,567 424,565 521,562 617,560 714,557 810,555 907,552 1003,551 1099,551 1196,549 1292,549 1389,549 1485,549 1582,550 1678,551 1775,554 1871,555 1968,558 1968,494 1871,491 1775,490 1678,487 1582,486 1485,485 1389,485 1292,485 1196,485 1099,487 1003,487 907,488 810,491 714,493 617,496 521,498 424,501 328,503 231,506 135,509 39,514' rendition='Line' xml:id='facs_2_r_3_1l2'/>
+				<zone points='42,665 110,665 178,663 246,662 314,661 382,660 450,659 518,657 586,656 654,654 722,653 790,652 858,650 926,650 994,648 1062,647 1130,645 1198,644 1266,643 1334,642 1403,641 1403,577 1334,578 1266,579 1198,580 1130,581 1062,583 994,584 926,586 858,586 790,588 722,589 654,590 586,592 518,593 450,595 382,596 314,597 246,598 178,599 110,601 42,601' rendition='Line' xml:id='facs_2_r_3_1l3'/>
+			</zone>
+			<zone points='2757,1139 8,1139 8,675 2757,675' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_region_1667414553428_357'>
+				<zone points='137,735 245,735 354,734 463,732 572,732 681,731 789,731 898,729 1007,728 1116,728 1225,728 1333,726 1442,726 1551,726 1660,726 1769,726 1877,726 1986,728 2095,729 2204,729 2474,733 2475,703 2204,699 2095,699 1986,698 1877,696 1769,696 1660,696 1551,696 1442,696 1333,696 1225,698 1116,698 1007,698 898,699 789,701 681,701 572,702 463,702 354,704 245,705 137,705' rendition='Line' xml:id='facs_2_r_3_1l4'/>
+				<zone points='35,848 148,846 262,846 376,845 490,845 604,843 718,843 831,843 945,843 1059,843 1173,843 1287,843 1401,843 1515,843 1628,843 1742,843 1856,843 1970,843 2084,843 2198,843 2717,855 2718,825 2198,813 2084,813 1970,813 1856,813 1742,813 1628,813 1515,813 1401,813 1287,813 1173,813 1059,813 945,813 831,813 718,813 604,813 490,815 376,815 262,816 148,816 34,818' rendition='Line' xml:id='facs_2_r_3_1l5'/>
+				<zone points='42,960 156,960 270,962 384,960 498,960 612,960 726,960 840,960 954,960 1068,960 1182,960 1296,960 1410,960 1524,960 1638,962 1752,963 1866,965 1980,966 2094,969 2208,972 2657,992 2659,962 2209,942 2095,939 1981,936 1866,935 1752,933 1638,932 1524,930 1410,930 1296,930 1182,930 1068,930 954,930 840,930 726,930 612,930 498,930 384,930 270,932 156,930 42,930' rendition='Line' xml:id='facs_2_r_3_1l6'/>
+				<zone points='60,1113 138,1113 217,1113 296,1113 375,1113 454,1114 533,1114 612,1114 691,1116 770,1116 849,1116 927,1117 1006,1117 1085,1117 1164,1117 1243,1117 1322,1119 1401,1119 1480,1119 1559,1117 1638,1117 1638,1041 1559,1041 1480,1043 1401,1043 1322,1043 1243,1041 1164,1041 1085,1041 1006,1041 927,1041 849,1040 770,1040 691,1040 612,1038 533,1038 454,1038 375,1037 296,1037 217,1037 138,1037 60,1037' rendition='Line' xml:id='facs_2_r_3_1l7'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup661_037_Umbria.JPG' n='1'/>
+			<pb facs='#facs_2' xml:id='0002_sup661_037bis_Umbria.JPG' n='2'/>
+			<p facs='#facs_2_r_3_1'>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/><placeName ref='#Assisi'>Assisi</placeName>. 
+				<lb facs='#facs_2_r_2_1l1' n='N002'/><objectName ref='#OA_81897'>Monument of Hecuba de Lusignan</objectName>, Queen of Cyprus. 
+				<lb facs='#facs_2_r_3_1l1' n='N003'/>Said to have been made by Fuccio Fiorentino about 1240. 
+				<lb facs='#facs_2_r_3_1l2' n='N004'/><persName ref='#Perkins'>Mr. Perkins</persName> thinks that the tomb was made probably 
+				<lb facs='#facs_2_r_3_1l3' n='N005'/>by Lapo, one of Nicolò Pisanos scholars. 
+			</p>
+			<p facs='#facs_2_region_1667414553428_357'>
+				<lb facs='#facs_2_r_3_1l4' n='N001'/>It is thought <date when='1898'>now (1898)</date> that the tomb is that of Maria, princess of 
+				<lb facs='#facs_2_r_3_1l5' n='N002'/>Antioch, daughter of John of Brieune, king of Jerusalem. He died at Constantinople 
+				<lb facs='#facs_2_r_3_1l6' n='N003'/>in 1237 and in 1268 she made over her right to his Kingdom to Carl of <unclear>Ansor</unclear>. 
+				<lb facs='#facs_2_r_3_1l7' n='N004'/>The arms on the tomb are those of Jerusalem. 
+			</p>
+		</body>
+	</text>
+</TEI>

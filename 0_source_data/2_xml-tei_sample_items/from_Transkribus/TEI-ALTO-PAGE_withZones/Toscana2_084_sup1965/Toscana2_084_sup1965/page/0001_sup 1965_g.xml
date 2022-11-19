@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-10-29T18:48:12.718+02:00</Created>
+        <LastChange>2022-11-11T22:34:05.864+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1209226" pageId="49170289" pageNr="1" tsid="103250468" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=NOCYYXKYYMLBDEBJMLYBZAYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HYKNEIZMPNOKZTKTWAGGJZZO" imageId="40210932"/>
+    </Metadata>
+    <Page imageFilename="0001_sup 1965_g.jpg" imageWidth="3056" imageHeight="2236" type="front-cover">
+        <PrintSpace>
+            <Coords points="0,0 3056,0 3056,2236 0,2236"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864729219" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_35"/>
+                <RegionRefIndexed index="2" regionRef="r_41"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 3056,0 3056,2236 0,2236"/>
+        </GraphicRegion>
+        <TextRegion type="caption" id="r_35" custom="readingOrder {index:1;} structure {type:caption;}">
+            <Coords points="543,2203 71,2203 71,1967 543,1967"/>
+            <TextLine id="l_19" custom="readingOrder {index:0;} structure {type:credit;} organization {offset:0; length:11;ref:#Paganori; type:photographer;}">
+                <Coords points="101,2027 425,2037 426,2007 102,1997"/>
+                <Baseline points="101,2027 425,2037"/>
+                <TextEquiv>
+                    <Unicode>V. PAGANORI </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:1;} structure {type:credit;}">
+                <Coords points="159,2105 358,2108 358,2078 159,2075"/>
+                <Baseline points="159,2105 358,2108"/>
+                <TextEquiv>
+                    <Unicode>FIRENZE </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:2;} structure {type:credit;}">
+                <Coords points="84,2169 432,2179 433,2149 85,2139"/>
+                <Baseline points="84,2169 432,2179"/>
+                <TextEquiv>
+                    <Unicode>VIA DELLA SCALA 1 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>V. PAGANORI &#13;
+FIRENZE &#13;
+VIA DELLA SCALA 1 </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="signature-mark" id="r_41" custom="readingOrder {index:2;} structure {type:signature-mark;}">
+            <Coords points="2887,1956 2692,1956 2692,1859 2887,1859"/>
+            <TextLine id="l_31" custom="readingOrder {index:0;} objectName {offset:0; length:3;ref:#negPaganori_599;}">
+                <Coords points="2715,1902 2806,1899 2805,1869 2714,1872"/>
+                <Baseline points="2715,1902 2806,1899"/>
+                <TextEquiv>
+                    <Unicode>599. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

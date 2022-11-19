@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-10-30T11:02:33.549+01:00</Created>
+        <LastChange>2022-11-11T23:14:58.309+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1209539" pageId="49174465" pageNr="2" tsid="103250751" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=MPXOHODNWCAFSKMHUYSEWSDE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZKFPEEDMWYUMQCBAYIBYOJGY" imageId="40214750"/>
+    </Metadata>
+    <Page imageFilename="0002_sup661_037bis_Umbria.JPG" imageWidth="2786" imageHeight="1174" type="content">
+        <PrintSpace>
+            <Coords points="5,22 2761,19 2761,1106 5,1109"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864728558" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1667414553428_357"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="-10,17 2749,36 2762,668 7,671"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;} structure {type:heading;} place {offset:0; length:6;ref:#Assisi;}">
+                <Coords points="704,146 729,148 754,149 779,149 804,149 829,149 854,148 879,148 904,148 929,146 954,146 979,147 1005,148 1005,0 979,0 954,0 929,0 904,0 879,0 854,0 829,0 804,0 779,0 754,0 729,0 704,0"/>
+                <Baseline points="704,96 729,98 754,99 779,99 804,99 829,99 854,98 879,98 904,98 929,96 954,96 979,97 1005,98"/>
+                <TextEquiv>
+                    <Unicode>Assisi. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:1;} structure {type:heading;} objectName {offset:0; length:30;ref:#OA_81897;}">
+                <Coords points="14,398 112,393 211,389 310,385 409,382 507,377 606,374 705,370 804,367 902,365 1001,362 1100,361 1199,361 1297,359 1396,361 1495,361 1594,364 1692,367 1791,370 1890,375 1989,380 1989,230 1890,225 1791,220 1692,217 1594,214 1495,211 1396,211 1297,209 1199,211 1100,211 1001,212 902,215 804,217 705,220 606,224 507,227 409,232 310,235 211,239 112,243 14,248"/>
+                <Baseline points="14,348 112,343 211,339 310,335 409,332 507,327 606,324 705,320 804,317 902,315 1001,312 1100,311 1199,311 1297,309 1396,311 1495,311 1594,314 1692,317 1791,320 1890,325 1989,330"/>
+                <TextEquiv>
+                    <Unicode>Monument of Hecuba de Lusignan, Queen of Cyprus. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:2;}">
+                <Coords points="42,477 141,471 241,466 340,462 440,459 540,455 639,452 739,449 838,447 938,445 1038,444 1137,442 1237,442 1336,442 1436,442 1536,444 1635,445 1735,448 1834,450 1934,454 2034,457 2034,381 1934,378 1834,374 1735,372 1635,369 1536,368 1436,366 1336,366 1237,366 1137,366 1038,368 938,369 838,371 739,373 639,376 540,379 440,383 340,386 241,390 141,395 42,401"/>
+                <Baseline points="42,452 141,446 241,441 340,437 440,434 540,430 639,427 739,424 838,422 938,420 1038,419 1137,417 1237,417 1336,417 1436,417 1536,419 1635,420 1735,423 1834,425 1934,429 2034,432"/>
+                <TextEquiv>
+                    <Unicode>Said to have been made by Fuccio Fiorentino about 1240. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:3;} person {offset:0; length:11;ref:#Perkins;}">
+                <Coords points="39,578 135,573 231,570 328,567 424,565 521,562 617,560 714,557 810,555 907,552 1003,551 1099,551 1196,549 1292,549 1389,549 1485,549 1582,550 1678,551 1775,554 1871,555 1968,558 1968,494 1871,491 1775,490 1678,487 1582,486 1485,485 1389,485 1292,485 1196,485 1099,487 1003,487 907,488 810,491 714,493 617,496 521,498 424,501 328,503 231,506 135,509 39,514"/>
+                <Baseline points="39,557 135,552 231,549 328,546 424,544 521,541 617,539 714,536 810,534 907,531 1003,530 1099,530 1196,528 1292,528 1389,528 1485,528 1582,529 1678,530 1775,533 1871,534 1968,537"/>
+                <TextEquiv>
+                    <Unicode>Mr. Perkins thinks that the tomb was made probably </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:4;}">
+                <Coords points="42,665 110,665 178,663 246,662 314,661 382,660 450,659 518,657 586,656 654,654 722,653 790,652 858,650 926,650 994,648 1062,647 1130,645 1198,644 1266,643 1334,642 1403,641 1403,577 1334,578 1266,579 1198,580 1130,581 1062,583 994,584 926,586 858,586 790,588 722,589 654,590 586,592 518,593 450,595 382,596 314,597 246,598 178,599 110,601 42,601"/>
+                <Baseline points="42,644 110,644 178,642 246,641 314,640 382,639 450,638 518,636 586,635 654,633 722,632 790,631 858,629 926,629 994,627 1062,626 1130,624 1198,623 1266,622 1334,621 1403,620"/>
+                <TextEquiv>
+                    <Unicode>by Lapo, one of Nicolò Pisanos scholars. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Assisi. &#13;
+Monument of Hecuba de Lusignan, Queen of Cyprus. &#13;
+Said to have been made by Fuccio Fiorentino about 1240. &#13;
+Mr. Perkins thinks that the tomb was made probably &#13;
+by Lapo, one of Nicolò Pisanos scholars. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1667414553428_357" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="2757,1139 8,1139 8,675 2757,675"/>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:0;} date {offset:14; length:10;when:1898;}">
+                <Coords points="137,735 245,735 354,734 463,732 572,732 681,731 789,731 898,729 1007,728 1116,728 1225,728 1333,726 1442,726 1551,726 1660,726 1769,726 1877,726 1986,728 2095,729 2204,729 2474,733 2475,703 2204,699 2095,699 1986,698 1877,696 1769,696 1660,696 1551,696 1442,696 1333,696 1225,698 1116,698 1007,698 898,699 789,701 681,701 572,702 463,702 354,704 245,705 137,705"/>
+                <Baseline points="137,735 245,735 354,734 463,732 572,732 681,731 789,731 898,729 1007,728 1116,728 1225,728 1333,726 1442,726 1551,726 1660,726 1769,726 1877,726 1986,728 2095,729 2204,729 2474,733"/>
+                <TextEquiv>
+                    <Unicode>It is thought now (1898) that the tomb is that of Maria, princess of </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:1;}">
+                <Coords points="35,848 148,846 262,846 376,845 490,845 604,843 718,843 831,843 945,843 1059,843 1173,843 1287,843 1401,843 1515,843 1628,843 1742,843 1856,843 1970,843 2084,843 2198,843 2717,855 2718,825 2198,813 2084,813 1970,813 1856,813 1742,813 1628,813 1515,813 1401,813 1287,813 1173,813 1059,813 945,813 831,813 718,813 604,813 490,815 376,815 262,816 148,816 34,818"/>
+                <Baseline points="35,848 148,846 262,846 376,845 490,845 604,843 718,843 831,843 945,843 1059,843 1173,843 1287,843 1401,843 1515,843 1628,843 1742,843 1856,843 1970,843 2084,843 2198,843 2717,855"/>
+                <TextEquiv>
+                    <Unicode>Antioch, daughter of John of Brieune, king of Jerusalem. He died at Constantinople </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:2;} unclear {offset:70; length:5;reason:illegible;}">
+                <Coords points="42,960 156,960 270,962 384,960 498,960 612,960 726,960 840,960 954,960 1068,960 1182,960 1296,960 1410,960 1524,960 1638,962 1752,963 1866,965 1980,966 2094,969 2208,972 2657,992 2659,962 2209,942 2095,939 1981,936 1866,935 1752,933 1638,932 1524,930 1410,930 1296,930 1182,930 1068,930 954,930 840,930 726,930 612,930 498,930 384,930 270,932 156,930 42,930"/>
+                <Baseline points="42,960 156,960 270,962 384,960 498,960 612,960 726,960 840,960 954,960 1068,960 1182,960 1296,960 1410,960 1524,960 1638,962 1752,963 1866,965 1980,966 2094,969 2208,972 2657,992"/>
+                <TextEquiv>
+                    <Unicode>in 1237 and in 1268 she made over her right to his Kingdom to Carl of Ansor. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:3;}">
+                <Coords points="60,1113 138,1113 217,1113 296,1113 375,1113 454,1114 533,1114 612,1114 691,1116 770,1116 849,1116 927,1117 1006,1117 1085,1117 1164,1117 1243,1117 1322,1119 1401,1119 1480,1119 1559,1117 1638,1117 1638,1041 1559,1041 1480,1043 1401,1043 1322,1043 1243,1041 1164,1041 1085,1041 1006,1041 927,1041 849,1040 770,1040 691,1040 612,1038 533,1038 454,1038 375,1037 296,1037 217,1037 138,1037 60,1037"/>
+                <Baseline points="60,1088 138,1088 217,1088 296,1088 375,1088 454,1089 533,1089 612,1089 691,1091 770,1091 849,1091 927,1092 1006,1092 1085,1092 1164,1092 1243,1092 1322,1094 1401,1094 1480,1094 1559,1092 1638,1092"/>
+                <TextEquiv>
+                    <Unicode>The arms on the tomb are those of Jerusalem. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>It is thought now (1898) that the tomb is that of Maria, princess of &#13;
+Antioch, daughter of John of Brieune, king of Jerusalem. He died at Constantinople &#13;
+in 1237 and in 1268 she made over her right to his Kingdom to Carl of Ansor. &#13;
+The arms on the tomb are those of Jerusalem. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

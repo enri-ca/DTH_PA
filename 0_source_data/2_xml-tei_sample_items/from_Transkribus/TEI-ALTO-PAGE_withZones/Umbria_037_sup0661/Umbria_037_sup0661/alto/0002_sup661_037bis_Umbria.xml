@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:08.633+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1174" WIDTH="2786">
+         <TopMargin HEIGHT="19" WIDTH="2786" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1090" WIDTH="5" VPOS="19" HPOS="0"/>
+         <RightMargin HEIGHT="1090" WIDTH="25" VPOS="19" HPOS="2761"/>
+         <BottomMargin HEIGHT="65" WIDTH="2786" VPOS="1109" HPOS="0"/>
+         <PrintSpace HEIGHT="1090" WIDTH="2756" VPOS="19" HPOS="5">
+            <TextBlock ID="r_3_1" HEIGHT="654" WIDTH="2762" VPOS="17" HPOS="0">
+               <Shape>
+                  <Polygon POINTS="-10,17 2749,36 2762,668 7,671"/>
+               </Shape>
+               <TextLine ID="r_1_1l1"
+                         BASELINE="704,96 729,98 754,99 779,99 804,99 829,99 854,98 879,98 904,98 929,96 954,96 979,97 1005,98"
+                         HEIGHT="149"
+                         WIDTH="301"
+                         VPOS="0"
+                         HPOS="704">
+                  <String ID="string_r_1_1l1"
+                          HEIGHT="149"
+                          WIDTH="301"
+                          VPOS="0"
+                          HPOS="704"
+                          CONTENT="Assisi. "/>
+               </TextLine>
+               <TextLine ID="r_2_1l1"
+                         BASELINE="14,348 112,343 211,339 310,335 409,332 507,327 606,324 705,320 804,317 902,315 1001,312 1100,311 1199,311 1297,309 1396,311 1495,311 1594,314 1692,317 1791,320 1890,325 1989,330"
+                         HEIGHT="189"
+                         WIDTH="1975"
+                         VPOS="209"
+                         HPOS="14">
+                  <String ID="string_r_2_1l1"
+                          HEIGHT="189"
+                          WIDTH="1975"
+                          VPOS="209"
+                          HPOS="14"
+                          CONTENT="Monument of Hecuba de Lusignan, Queen of Cyprus. "/>
+               </TextLine>
+               <TextLine ID="r_3_1l1"
+                         BASELINE="42,452 141,446 241,441 340,437 440,434 540,430 639,427 739,424 838,422 938,420 1038,419 1137,417 1237,417 1336,417 1436,417 1536,419 1635,420 1735,423 1834,425 1934,429 2034,432"
+                         HEIGHT="111"
+                         WIDTH="1992"
+                         VPOS="366"
+                         HPOS="42">
+                  <String ID="string_r_3_1l1"
+                          HEIGHT="111"
+                          WIDTH="1992"
+                          VPOS="366"
+                          HPOS="42"
+                          CONTENT="Said to have been made by Fuccio Fiorentino about 1240. "/>
+               </TextLine>
+               <TextLine ID="r_3_1l2"
+                         BASELINE="39,557 135,552 231,549 328,546 424,544 521,541 617,539 714,536 810,534 907,531 1003,530 1099,530 1196,528 1292,528 1389,528 1485,528 1582,529 1678,530 1775,533 1871,534 1968,537"
+                         HEIGHT="93"
+                         WIDTH="1929"
+                         VPOS="485"
+                         HPOS="39">
+                  <String ID="string_r_3_1l2"
+                          HEIGHT="93"
+                          WIDTH="1929"
+                          VPOS="485"
+                          HPOS="39"
+                          CONTENT="Mr. Perkins thinks that the tomb was made probably "/>
+               </TextLine>
+               <TextLine ID="r_3_1l3"
+                         BASELINE="42,644 110,644 178,642 246,641 314,640 382,639 450,638 518,636 586,635 654,633 722,632 790,631 858,629 926,629 994,627 1062,626 1130,624 1198,623 1266,622 1334,621 1403,620"
+                         HEIGHT="88"
+                         WIDTH="1361"
+                         VPOS="577"
+                         HPOS="42">
+                  <String ID="string_r_3_1l3"
+                          HEIGHT="88"
+                          WIDTH="1361"
+                          VPOS="577"
+                          HPOS="42"
+                          CONTENT="by Lapo, one of Nicolò Pisanos scholars. "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1667414553428_357"
+                       HEIGHT="464"
+                       WIDTH="2749"
+                       VPOS="675"
+                       HPOS="8">
+               <Shape>
+                  <Polygon POINTS="2757,1139 8,1139 8,675 2757,675"/>
+               </Shape>
+               <TextLine ID="r_3_1l4"
+                         BASELINE="137,735 245,735 354,734 463,732 572,732 681,731 789,731 898,729 1007,728 1116,728 1225,728 1333,726 1442,726 1551,726 1660,726 1769,726 1877,726 1986,728 2095,729 2204,729 2474,733"
+                         HEIGHT="39"
+                         WIDTH="2338"
+                         VPOS="696"
+                         HPOS="137">
+                  <String ID="string_r_3_1l4"
+                          HEIGHT="39"
+                          WIDTH="2338"
+                          VPOS="696"
+                          HPOS="137"
+                          CONTENT="It is thought now (1898) that the tomb is that of Maria, princess of "/>
+               </TextLine>
+               <TextLine ID="r_3_1l5"
+                         BASELINE="35,848 148,846 262,846 376,845 490,845 604,843 718,843 831,843 945,843 1059,843 1173,843 1287,843 1401,843 1515,843 1628,843 1742,843 1856,843 1970,843 2084,843 2198,843 2717,855"
+                         HEIGHT="42"
+                         WIDTH="2684"
+                         VPOS="813"
+                         HPOS="34">
+                  <String ID="string_r_3_1l5"
+                          HEIGHT="42"
+                          WIDTH="2684"
+                          VPOS="813"
+                          HPOS="34"
+                          CONTENT="Antioch, daughter of John of Brieune, king of Jerusalem. He died at Constantinople "/>
+               </TextLine>
+               <TextLine ID="r_3_1l6"
+                         BASELINE="42,960 156,960 270,962 384,960 498,960 612,960 726,960 840,960 954,960 1068,960 1182,960 1296,960 1410,960 1524,960 1638,962 1752,963 1866,965 1980,966 2094,969 2208,972 2657,992"
+                         HEIGHT="62"
+                         WIDTH="2617"
+                         VPOS="930"
+                         HPOS="42">
+                  <String ID="string_r_3_1l6"
+                          HEIGHT="62"
+                          WIDTH="2617"
+                          VPOS="930"
+                          HPOS="42"
+                          CONTENT="in 1237 and in 1268 she made over her right to his Kingdom to Carl of Ansor. "/>
+               </TextLine>
+               <TextLine ID="r_3_1l7"
+                         BASELINE="60,1088 138,1088 217,1088 296,1088 375,1088 454,1089 533,1089 612,1089 691,1091 770,1091 849,1091 927,1092 1006,1092 1085,1092 1164,1092 1243,1092 1322,1094 1401,1094 1480,1094 1559,1092 1638,1092"
+                         HEIGHT="82"
+                         WIDTH="1578"
+                         VPOS="1037"
+                         HPOS="60">
+                  <String ID="string_r_3_1l7"
+                          HEIGHT="82"
+                          WIDTH="1578"
+                          VPOS="1037"
+                          HPOS="60"
+                          CONTENT="The arms on the tomb are those of Jerusalem. "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

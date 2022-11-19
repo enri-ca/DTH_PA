@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:09.496+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1353" WIDTH="2727">
+         <TopMargin HEIGHT="0" WIDTH="2727" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1353" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1353" WIDTH="0" VPOS="0" HPOS="2727"/>
+         <BottomMargin HEIGHT="0" WIDTH="2727" VPOS="1353" HPOS="0"/>
+         <PrintSpace HEIGHT="1353" WIDTH="2727" VPOS="0" HPOS="0">
+            <TextBlock ID="r_2_1" HEIGHT="1057" WIDTH="2332" VPOS="183" HPOS="216">
+               <Shape>
+                  <Polygon POINTS="216,183 2548,183 2548,1240 216,1240"/>
+               </Shape>
+               <TextLine ID="r_1_1l1"
+                         BASELINE="246,234 354,234 462,233 571,232 679,231 788,230 896,230 1005,228 1113,227 1222,226 1330,225 1438,224 1547,224 1655,222 1764,222 1872,222 1981,221 2089,221 2198,221 2306,221 2415,222"
+                         HEIGHT="174"
+                         WIDTH="2199"
+                         VPOS="105"
+                         HPOS="231">
+                  <String ID="string_r_1_1l1"
+                          HEIGHT="174"
+                          WIDTH="2199"
+                          VPOS="105"
+                          HPOS="231"
+                          CONTENT="This painted terra cotta Etruscan lady, Larthia Seianti S... (of the family "/>
+               </TextLine>
+               <TextLine ID="r_2_1l1"
+                         BASELINE="234,353 345,351 457,350 568,348 680,346 792,344 903,342 1015,341 1126,341 1238,339 1350,338 1461,338 1573,336 1684,336 1796,335 1908,335 2019,335 2131,336 2242,336 2354,336 2466,338"
+                         HEIGHT="147"
+                         WIDTH="2261"
+                         VPOS="266"
+                         HPOS="218">
+                  <String ID="string_r_2_1l1"
+                          HEIGHT="147"
+                          WIDTH="2261"
+                          VPOS="266"
+                          HPOS="218"
+                          CONTENT="of Sejanus) was discovered at Chiusi in 1877, brought to Rome and placed "/>
+               </TextLine>
+               <TextLine ID="r_2_1l2"
+                         BASELINE="234,461 346,461 458,459 570,459 682,458 795,456 907,456 1019,455 1131,453 1243,453 1356,452 1468,452 1580,452 1692,452 1804,452 1917,452 2029,452 2141,453 2253,455 2365,456 2478,458"
+                         HEIGHT="127"
+                         WIDTH="2272"
+                         VPOS="364"
+                         HPOS="220">
+                  <String ID="string_r_2_1l2"
+                          HEIGHT="127"
+                          WIDTH="2272"
+                          VPOS="364"
+                          HPOS="220"
+                          CONTENT="in the Kircherian in 1878 and then removed to the Museum at Florence, "/>
+               </TextLine>
+               <TextLine ID="r_2_1l3"
+                         BASELINE="236,561 349,560 463,558 577,558 691,557 805,555 919,555 1033,554 1147,554 1261,554 1375,552 1488,552 1602,552 1716,552 1830,552 1944,554 2058,554 2172,554 2286,555 2400,555 2514,557"
+                         HEIGHT="122"
+                         WIDTH="2306"
+                         VPOS="495"
+                         HPOS="223">
+                  <String ID="string_r_2_1l3"
+                          HEIGHT="122"
+                          WIDTH="2306"
+                          VPOS="495"
+                          HPOS="223"
+                          CONTENT="where she now is. She wears a quantity of jewelry: a fillet of flowers with "/>
+               </TextLine>
+               <TextLine ID="r_2_1l4"
+                         BASELINE="234,680 347,678 460,677 573,677 686,675 799,675 912,674 1025,674 1138,674 1251,672 1365,672 1478,672 1591,671 1704,671 1817,671 1930,669 2043,669 2156,669 2269,668 2382,666 2496,665"
+                         HEIGHT="107"
+                         WIDTH="2293"
+                         VPOS="597"
+                         HPOS="219">
+                  <String ID="string_r_2_1l4"
+                          HEIGHT="107"
+                          WIDTH="2293"
+                          VPOS="597"
+                          HPOS="219"
+                          CONTENT="rubies and emeralds; a girdle studded with rubies; an emerald clasp to her "/>
+               </TextLine>
+               <TextLine ID="r_2_1l5"
+                         BASELINE="233,801 339,800 446,800 552,798 659,798 765,798 872,798 978,798 1085,798 1191,798 1298,798 1405,798 1511,798 1618,798 1724,800 1831,800 1937,800 2044,798 2150,798 2257,798 2364,797"
+                         HEIGHT="121"
+                         WIDTH="2160"
+                         VPOS="730"
+                         HPOS="219">
+                  <String ID="string_r_2_1l5"
+                          HEIGHT="121"
+                          WIDTH="2160"
+                          VPOS="730"
+                          HPOS="219"
+                          CONTENT="golden sandals; earrings; a necklace; a brooch with a Medusa's head; "/>
+               </TextLine>
+               <TextLine ID="r_2_1l6"
+                         BASELINE="225,912 340,912 455,912 570,912 685,912 800,912 915,912 1030,912 1145,914 1260,914 1375,914 1490,914 1605,914 1720,914 1835,914 1950,914 2065,915 2180,914 2295,914 2410,914 2525,914"
+                         HEIGHT="126"
+                         WIDTH="2327"
+                         VPOS="832"
+                         HPOS="212">
+                  <String ID="string_r_2_1l6"
+                          HEIGHT="126"
+                          WIDTH="2327"
+                          VPOS="832"
+                          HPOS="212"
+                          CONTENT="a bracelet and an amulet; and rings in plenty on her left hand in which "/>
+               </TextLine>
+               <TextLine ID="r_2_1l7"
+                         BASELINE="224,1013 303,1013 383,1013 463,1013 543,1013 623,1013 703,1013 782,1014 862,1014 942,1016 1022,1017 1102,1017 1182,1019 1262,1021 1341,1022 1421,1025 1501,1026 1581,1029 1661,1032 1741,1035 1821,1037"
+                         HEIGHT="136"
+                         WIDTH="1626"
+                         VPOS="918"
+                         HPOS="209">
+                  <String ID="string_r_2_1l7"
+                          HEIGHT="136"
+                          WIDTH="1626"
+                          VPOS="918"
+                          HPOS="209"
+                          CONTENT="she holds a mirror set in a framework of gold. "/>
+               </TextLine>
+               <TextLine ID="r_2_1l8"
+                         BASELINE="224,1103 307,1101 390,1100 473,1098 556,1097 639,1097 722,1095 805,1095 888,1095 971,1095 1054,1095 1137,1095 1220,1095 1303,1097 1386,1097 1469,1098 1552,1098 1635,1100 1718,1101 1801,1103 1884,1104"
+                         HEIGHT="120"
+                         WIDTH="1691"
+                         VPOS="1041"
+                         HPOS="209">
+                  <String ID="string_r_2_1l8"
+                          HEIGHT="120"
+                          WIDTH="1691"
+                          VPOS="1041"
+                          HPOS="209"
+                          CONTENT="The date of this monument is said to be 217 B.C. "/>
+               </TextLine>
+               <TextLine ID="r_2_1l9"
+                         BASELINE="228,1196 298,1194 368,1193 438,1191 508,1190 579,1190 649,1188 719,1188 789,1187 859,1187 930,1187 1000,1187 1070,1185 1140,1185 1210,1185 1281,1187 1351,1187 1421,1187 1491,1187 1561,1187 1632,1188"
+                         HEIGHT="145"
+                         WIDTH="1433"
+                         VPOS="1111"
+                         HPOS="213">
+                  <String ID="string_r_2_1l9"
+                          HEIGHT="145"
+                          WIDTH="1433"
+                          VPOS="1111"
+                          HPOS="213"
+                          CONTENT="It cost the Government 10,000 fes. only."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

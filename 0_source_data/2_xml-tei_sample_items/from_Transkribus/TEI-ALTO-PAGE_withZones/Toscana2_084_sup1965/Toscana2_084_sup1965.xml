@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Toscana2_084_sup1965</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3056' lry='2236' corresp='0001_sup 1965_g.jpg'>
+			<graphic url='0001_sup 1965_g.jpg' width='3056px' height='2236px'/>
+			<zone points='0,0 3056,0 3056,2236 0,2236' rendition='printspace'/>
+			<zone points='0,0 3056,0 3056,2236 0,2236' rendition='Graphic' xml:id='facs_1_r_1'/>
+			<zone points='543,2203 71,2203 71,1967 543,1967' rendition='TextRegion' subtype='caption' xml:id='facs_1_r_35'>
+				<zone points='101,2027 425,2037 426,2007 102,1997' rendition='Line' subtype='credit' xml:id='facs_1_l_19'/>
+				<zone points='159,2105 358,2108 358,2078 159,2075' rendition='Line' subtype='credit' xml:id='facs_1_l_23'/>
+				<zone points='84,2169 432,2179 433,2149 85,2139' rendition='Line' subtype='credit' xml:id='facs_1_l_27'/>
+			</zone>
+			<zone points='2887,1956 2692,1956 2692,1859 2887,1859' rendition='TextRegion' subtype='signature-mark' xml:id='facs_1_r_41'>
+				<zone points='2715,1902 2806,1899 2805,1869 2714,1872' rendition='Line' xml:id='facs_1_l_31'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2727' lry='1353' corresp='0002_sup 1965v.jpg'>
+			<graphic url='0002_sup 1965v.jpg' width='2727px' height='1353px'/>
+			<zone points='216,183 2548,183 2548,1240 216,1240' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_2_1'>
+				<zone points='232,254 2430,279 2429,167 1804,105 231,188' rendition='Line' xml:id='facs_2_r_1_1l1'/>
+				<zone points='219,413 1116,342 2350,373 2479,355 2479,266 218,306' rendition='Line' xml:id='facs_2_r_2_1l1'/>
+				<zone points='220,488 2245,491 2492,427 2253,364 220,428' rendition='Line' xml:id='facs_2_r_2_1l2'/>
+				<zone points='223,569 1980,559 2098,617 2529,570 2529,495 223,523' rendition='Line' xml:id='facs_2_r_2_1l3'/>
+				<zone points='219,704 2512,688 2411,597 219,634' rendition='Line' xml:id='facs_2_r_2_1l4'/>
+				<zone points='219,837 2353,851 2379,730 219,756' rendition='Line' xml:id='facs_2_r_2_1l5'/>
+				<zone points='212,958 2539,938 2501,832 796,890 212,834' rendition='Line' xml:id='facs_2_r_2_1l6'/>
+				<zone points='209,1042 1834,1054 1835,965 1718,946 1306,997 1183,918 1079,985 935,937 866,985 210,958' rendition='Line' xml:id='facs_2_r_2_1l7'/>
+				<zone points='209,1113 516,1154 657,1105 1457,1103 1658,1161 1900,1116 1839,1041 209,1050' rendition='Line' xml:id='facs_2_r_2_1l8'/>
+				<zone points='213,1213 481,1197 633,1245 696,1199 970,1223 1116,1182 1427,1256 1646,1220 1645,1148 1573,1111 1441,1161 1369,1115 958,1166 779,1124 383,1166 288,1123 213,1167' rendition='Line' xml:id='facs_2_r_2_1l9'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup 1965_g.jpg' n='1'/>
+			<p facs='#facs_1_r_35'>
+				<lb facs='#facs_1_l_19' n='N001'/><orgName ref='#Paganori' type='photographer'>V. PAGANORI</orgName> 
+				<lb facs='#facs_1_l_23' n='N002'/>FIRENZE 
+				<lb facs='#facs_1_l_27' n='N003'/>VIA DELLA SCALA 1 
+			</p>
+			<p facs='#facs_1_r_41'>
+				<lb facs='#facs_1_l_31' n='N001'/><objectName ref='#negPaganori_599'>599</objectName>. 
+			</p>
+			<pb facs='#facs_2' xml:id='0002_sup 1965v.jpg' n='2'/>
+			<p facs='#facs_2_r_2_1'>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/><objectName ref='#OA_107455'>This painted terra cotta Etruscan lady, Larthia Seianti S...</objectName> (of the family 
+				<lb facs='#facs_2_r_2_1l1' n='N002'/>of Sejanus) was discovered at <placeName ref='#Chiusi'>Chiusi</placeName> in <date when='1877'>1877</date>, brought to <placeName ref='#Rome'>Rome</placeName> and placed 
+				<lb facs='#facs_2_r_2_1l2' n='N003'/>in the <orgName ref='#Kircherian_Museum' type='museum'>Kircherian</orgName> in <date when='1878'>1878</date> and then removed to the <orgName ref='#AN_FI_Museum' type='museum'>Museum at Florence</orgName>, 
+				<lb facs='#facs_2_r_2_1l3' n='N004'/>where <rs ref='#OA_107455' type='object'>she</rs> now is. <rs ref='#OA_107455' type='object'>She</rs> wears a quantity of jewelry: a fillet of flowers with 
+				<lb facs='#facs_2_r_2_1l4' n='N005'/>rubies and emeralds; a girdle studded with rubies; an emerald clasp to her 
+				<lb facs='#facs_2_r_2_1l5' n='N006'/>golden sandals; earrings; a necklace; a brooch with a Medusa&apos;s head; 
+				<lb facs='#facs_2_r_2_1l6' n='N007'/>a bracelet and an amulet; and rings in plenty on her left hand in which 
+				<lb facs='#facs_2_r_2_1l7' n='N008'/>she holds a mirror set in a framework of gold. 
+				<lb facs='#facs_2_r_2_1l8' n='N009'/>The date of <rs ref='#OA_107455' type='object'>this monument</rs> is said to be 217 B.C. 
+				<lb facs='#facs_2_r_2_1l9' n='N010'/><rs ref='#OA_107455' type='object'>It</rs> cost <orgName ref='#UND_FI_Gov' type='collector'>the Government</orgName> 10,000 fes. only.
+			</p>
+		</body>
+	</text>
+</TEI>

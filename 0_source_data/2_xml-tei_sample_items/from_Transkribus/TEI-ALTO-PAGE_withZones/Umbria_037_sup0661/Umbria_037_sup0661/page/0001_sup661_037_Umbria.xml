@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-10-30T11:02:33.372+01:00</Created>
+        <LastChange>2022-11-11T23:13:36.560+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1209539" pageId="49174464" pageNr="1" tsid="103250745" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=JAWIBOSIOPGXZKRTFDBIVKCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TSWSSBVCMRACOTDXXENZHFJP" imageId="40214749"/>
+    </Metadata>
+    <Page imageFilename="0001_sup661_037_Umbria.JPG" imageWidth="2022" imageHeight="2709" type="front-cover">
+        <ImageRegion id="Image_1667765637086_1560" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2022,0 2022,2709 0,2709"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

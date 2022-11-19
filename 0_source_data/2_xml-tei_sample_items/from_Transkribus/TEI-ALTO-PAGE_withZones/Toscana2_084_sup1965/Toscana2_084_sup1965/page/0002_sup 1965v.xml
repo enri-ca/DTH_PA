@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=B2022 English Model M4(htr_id=31338)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-10-29T18:48:12.927+02:00</Created>
+        <LastChange>2022-11-11T22:36:01.509+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1209226" pageId="49170290" pageNr="2" tsid="103250488" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=SYBSATOZOBFUECIPWZDOQZVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LJMADYPINIVBFURKNBJZGLJR" imageId="40210933"/>
+    </Metadata>
+    <Page imageFilename="0002_sup 1965v.jpg" imageWidth="2727" imageHeight="1353" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864729432" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="216,183 2548,183 2548,1240 216,1240"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;} objectName {offset:0; length:60;ref:#OA_107455;}">
+                <Coords points="232,254 2430,279 2429,167 1804,105 231,188"/>
+                <Baseline points="246,234 354,234 462,233 571,232 679,231 788,230 896,230 1005,228 1113,227 1222,226 1330,225 1438,224 1547,224 1655,222 1764,222 1872,222 1981,221 2089,221 2198,221 2306,221 2415,222"/>
+                <TextEquiv>
+                    <Unicode>This painted terra cotta Etruscan lady, Larthia Seianti S... (of the family </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:1;} place {offset:30; length:6;ref:#Chiusi;} date {offset:40; length:4;when:1877;} place {offset:57; length:4;ref:#Rome;}">
+                <Coords points="219,413 1116,342 2350,373 2479,355 2479,266 218,306"/>
+                <Baseline points="234,353 345,351 457,350 568,348 680,346 792,344 903,342 1015,341 1126,341 1238,339 1350,338 1461,338 1573,336 1684,336 1796,335 1908,335 2019,335 2131,336 2242,336 2354,336 2466,338"/>
+                <TextEquiv>
+                    <Unicode>of Sejanus) was discovered at Chiusi in 1877, brought to Rome and placed </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:2;} organization {offset:7; length:10;ref:#Kircherian_Museum; type:museum;} date {offset:21; length:4;when:1878;} organization {offset:50; length:18;ref:#AN_FI_Museum; type:museum;}">
+                <Coords points="220,488 2245,491 2492,427 2253,364 220,428"/>
+                <Baseline points="234,461 346,461 458,459 570,459 682,458 795,456 907,456 1019,455 1131,453 1243,453 1356,452 1468,452 1580,452 1692,452 1804,452 1917,452 2029,452 2141,453 2253,455 2365,456 2478,458"/>
+                <TextEquiv>
+                    <Unicode>in the Kircherian in 1878 and then removed to the Museum at Florence, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:3;} rs {offset:6; length:3;ref:#OA_107455; type:object;} rs {offset:18; length:3;ref:#OA_107455; type:object;}">
+                <Coords points="223,569 1980,559 2098,617 2529,570 2529,495 223,523"/>
+                <Baseline points="236,561 349,560 463,558 577,558 691,557 805,555 919,555 1033,554 1147,554 1261,554 1375,552 1488,552 1602,552 1716,552 1830,552 1944,554 2058,554 2172,554 2286,555 2400,555 2514,557"/>
+                <TextEquiv>
+                    <Unicode>where she now is. She wears a quantity of jewelry: a fillet of flowers with </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:4;}">
+                <Coords points="219,704 2512,688 2411,597 219,634"/>
+                <Baseline points="234,680 347,678 460,677 573,677 686,675 799,675 912,674 1025,674 1138,674 1251,672 1365,672 1478,672 1591,671 1704,671 1817,671 1930,669 2043,669 2156,669 2269,668 2382,666 2496,665"/>
+                <TextEquiv>
+                    <Unicode>rubies and emeralds; a girdle studded with rubies; an emerald clasp to her </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:5;}">
+                <Coords points="219,837 2353,851 2379,730 219,756"/>
+                <Baseline points="233,801 339,800 446,800 552,798 659,798 765,798 872,798 978,798 1085,798 1191,798 1298,798 1405,798 1511,798 1618,798 1724,800 1831,800 1937,800 2044,798 2150,798 2257,798 2364,797"/>
+                <TextEquiv>
+                    <Unicode>golden sandals; earrings; a necklace; a brooch with a Medusa's head; </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:6;}">
+                <Coords points="212,958 2539,938 2501,832 796,890 212,834"/>
+                <Baseline points="225,912 340,912 455,912 570,912 685,912 800,912 915,912 1030,912 1145,914 1260,914 1375,914 1490,914 1605,914 1720,914 1835,914 1950,914 2065,915 2180,914 2295,914 2410,914 2525,914"/>
+                <TextEquiv>
+                    <Unicode>a bracelet and an amulet; and rings in plenty on her left hand in which </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:7;}">
+                <Coords points="209,1042 1834,1054 1835,965 1718,946 1306,997 1183,918 1079,985 935,937 866,985 210,958"/>
+                <Baseline points="224,1013 303,1013 383,1013 463,1013 543,1013 623,1013 703,1013 782,1014 862,1014 942,1016 1022,1017 1102,1017 1182,1019 1262,1021 1341,1022 1421,1025 1501,1026 1581,1029 1661,1032 1741,1035 1821,1037"/>
+                <TextEquiv>
+                    <Unicode>she holds a mirror set in a framework of gold. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:8;} rs {offset:12; length:13;ref:#OA_107455; type:object;}">
+                <Coords points="209,1113 516,1154 657,1105 1457,1103 1658,1161 1900,1116 1839,1041 209,1050"/>
+                <Baseline points="224,1103 307,1101 390,1100 473,1098 556,1097 639,1097 722,1095 805,1095 888,1095 971,1095 1054,1095 1137,1095 1220,1095 1303,1097 1386,1097 1469,1098 1552,1098 1635,1100 1718,1101 1801,1103 1884,1104"/>
+                <TextEquiv>
+                    <Unicode>The date of this monument is said to be 217 B.C. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:9;} rs {offset:0; length:2;ref:#OA_107455; type:object;} organization {offset:8; length:14;ref:#UND_FI_Gov; type:collector;}">
+                <Coords points="213,1213 481,1197 633,1245 696,1199 970,1223 1116,1182 1427,1256 1646,1220 1645,1148 1573,1111 1441,1161 1369,1115 958,1166 779,1124 383,1166 288,1123 213,1167"/>
+                <Baseline points="228,1196 298,1194 368,1193 438,1191 508,1190 579,1190 649,1188 719,1188 789,1187 859,1187 930,1187 1000,1187 1070,1185 1140,1185 1210,1185 1281,1187 1351,1187 1421,1187 1491,1187 1561,1187 1632,1188"/>
+                <TextEquiv>
+                    <Unicode>It cost the Government 10,000 fes. only.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>This painted terra cotta Etruscan lady, Larthia Seianti S... (of the family &#13;
+of Sejanus) was discovered at Chiusi in 1877, brought to Rome and placed &#13;
+in the Kircherian in 1878 and then removed to the Museum at Florence, &#13;
+where she now is. She wears a quantity of jewelry: a fillet of flowers with &#13;
+rubies and emeralds; a girdle studded with rubies; an emerald clasp to her &#13;
+golden sandals; earrings; a necklace; a brooch with a Medusa's head; &#13;
+a bracelet and an amulet; and rings in plenty on her left hand in which &#13;
+she holds a mirror set in a framework of gold. &#13;
+The date of this monument is said to be 217 B.C. &#13;
+It cost the Government 10,000 fes. only.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

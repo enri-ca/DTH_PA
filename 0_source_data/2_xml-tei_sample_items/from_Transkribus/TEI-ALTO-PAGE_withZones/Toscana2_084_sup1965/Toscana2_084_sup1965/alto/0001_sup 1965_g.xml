@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:09.278+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2236" WIDTH="3056">
+         <TopMargin HEIGHT="0" WIDTH="3056" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2236" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2236" WIDTH="0" VPOS="0" HPOS="3056"/>
+         <BottomMargin HEIGHT="0" WIDTH="3056" VPOS="2236" HPOS="0"/>
+         <PrintSpace HEIGHT="2236" WIDTH="3056" VPOS="0" HPOS="0">
+            <TextBlock ID="r_35" HEIGHT="236" WIDTH="472" VPOS="1967" HPOS="71">
+               <Shape>
+                  <Polygon POINTS="543,2203 71,2203 71,1967 543,1967"/>
+               </Shape>
+               <TextLine ID="l_19"
+                         BASELINE="101,2027 425,2037"
+                         HEIGHT="40"
+                         WIDTH="325"
+                         VPOS="1997"
+                         HPOS="101">
+                  <String ID="string_l_19"
+                          HEIGHT="40"
+                          WIDTH="325"
+                          VPOS="1997"
+                          HPOS="101"
+                          CONTENT="V. PAGANORI "/>
+               </TextLine>
+               <TextLine ID="l_23"
+                         BASELINE="159,2105 358,2108"
+                         HEIGHT="33"
+                         WIDTH="199"
+                         VPOS="2075"
+                         HPOS="159">
+                  <String ID="string_l_23"
+                          HEIGHT="33"
+                          WIDTH="199"
+                          VPOS="2075"
+                          HPOS="159"
+                          CONTENT="FIRENZE "/>
+               </TextLine>
+               <TextLine ID="l_27"
+                         BASELINE="84,2169 432,2179"
+                         HEIGHT="40"
+                         WIDTH="349"
+                         VPOS="2139"
+                         HPOS="84">
+                  <String ID="string_l_27"
+                          HEIGHT="40"
+                          WIDTH="349"
+                          VPOS="2139"
+                          HPOS="84"
+                          CONTENT="VIA DELLA SCALA 1 "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_41" HEIGHT="97" WIDTH="195" VPOS="1859" HPOS="2692">
+               <Shape>
+                  <Polygon POINTS="2887,1956 2692,1956 2692,1859 2887,1859"/>
+               </Shape>
+               <TextLine ID="l_31"
+                         BASELINE="2715,1902 2806,1899"
+                         HEIGHT="33"
+                         WIDTH="92"
+                         VPOS="1869"
+                         HPOS="2714">
+                  <String ID="string_l_31"
+                          HEIGHT="33"
+                          WIDTH="92"
+                          VPOS="1869"
+                          HPOS="2714"
+                          CONTENT="599. "/>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="r_1" HEIGHT="2236" WIDTH="3056" VPOS="0" HPOS="0"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
