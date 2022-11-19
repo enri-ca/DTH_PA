@@ -40,7 +40,18 @@ declare namespace tei='http://www.tei-c.org/ns/1.0';
 
 {
 let $photo_entry := collection("../2_xml-tei_sample_items/normalized_?select=*.xml")
-return $photo_entry
+for $TEI in $photo_entry/tei:TEI
+let $title := $TEI/teiHeader/fileDesc/titleStmt/title[@type='main']
+let $TEI_header := $TEI/child::teiHeader
+let $body := $TEI/child::text/child::body
+
+return 
+<TEI xml:id="{$title}_ph">
+{$TEI_header}
+<text xml:id="{$title}_tx">
+{$body}
+</text>
+</TEI>
 }
 
 </teiCorpus>
