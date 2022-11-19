@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Sicilia_008_sup1352</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup 1352_g.jpg' n='1'/>
+			<p>
+				<lb facs='#facs_1_line_1667767471372_1882' n='N001'/><objectName ref='#negSommier_9072'>9072</objectName>
+				<lb facs='#facs_1_l_27' n='N002'/><placeName ref='#Palermo'>PALERMO</placeName> <objectName ref='#OA_107660'>Sarcofago</objectName> 
+				<lb facs='#facs_1_l_31' n='N003'/> <orgName ref='#Sommer' type='photographer'>G. Sommer - <placeName ref='#Napoli'>Napoli</placeName></orgName>
+			</p>
+			<pb xml:id='sup 1352v.jpg' n='2'/>
+			<p>
+				<lb facs='#facs_2_r_2_1l1' n='N001'/><rs ref='#OA_107660' type='object'>All these</rs> <choice><expan>scarcophagus</expan><abbr>sarch.</abbr></choice> and turns are of alabaster and 
+				<lb facs='#facs_2_r_3_1l1' n='N002'/>come from <placeName ref='#Chiusi'>Chiusi</placeName>. The <orgName ref='#PA_gov' type='collector'>town of <placeName ref='#Palermo'>Palermo</placeName></orgName> bought 
+				<lb facs='#facs_2_r_3_1l2' n='N003'/>the <orgName ref='#Casuccini_coll' type='collection'>Casuccini collection</orgName> in <date when='1866'>1866</date>. 
+			</p>
+			<p>
+				<lb facs='#facs_2_l' n='N001'/>The relief of the big <choice><expan>sarchophagus</expan><abbr>sarc.</abbr></choice> represents the farewell of a married pair. 
+				<lb facs='#facs_2_l_89' n='N002'/>He is Lavth Aphuna, she Aphunei who reclines covered with jewelry 
+				<lb facs='#facs_2_l_93' n='N003'/>on the lid of the <choice><expan>sarchophagus</expan><abbr>sarc.</abbr></choice> Awreiged female demon leads her off to the 
+				<lb facs='#facs_2_l_97' n='N004'/>shades below, while her daughter Thanch (Tanaquit) tries to console 
+				<lb facs='#facs_2_l_101' n='N005'/>her old father. Others of the family are standing about. 
+				<lb facs='#facs_2_l_105' n='N006'/>On the extreme left a fate, called <unclear>Culice</unclear> is coming out of the portal 
+				<lb facs='#facs_2_l_109' n='N007'/>of Death. See <bibl source='#Dennis'>Dennis Vol II. page 316</bibl>.
+			</p>
+		</body>
+	</text>
+</TEI>

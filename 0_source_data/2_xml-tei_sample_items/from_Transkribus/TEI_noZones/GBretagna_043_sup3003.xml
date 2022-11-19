@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>GBretagna_043_sup3003</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup3003_043_GrBretagna.JPG' n='1'/>
+			<p>
+				<lb facs='#facs_1_r1l1' n='N001'/><objectName ref='#OA_108716'>HERMES</objectName>
+				<lb facs='#facs_1_r1l2' n='N002'/>Formerly in the <orgName ref='#Aberdeen_coll' type='collection'>Collection of</orgName>
+				<lb facs='#facs_1_r1l3' n='N003'/><orgName ref='#Aberdeen_coll' type='collection'>The Earl of Aberdeen</orgName>
+			</p>
+			<p>
+				<lb facs='#facs_1_line_1668200611797_585' n='N001'/><objectName ref='#negUNK_267'>267</objectName>
+			</p>
+			<pb xml:id='sup3003_043bis_GrBretagna.JPG' n='2'/>
+			<p>
+				<lb facs='#facs_2_r1l1' n='N001'/><orgName ref='#Br_Museum' type='museum'>British Museum</orgName>. 
+				<lb facs='#facs_2_r1l2' n='N002'/><rs ref='#OA_108716' type='object'>This head</rs> came from <orgName ref='#Aberdeen_coll' type='collection'>Lord Aberdeen&apos;s collection</orgName> and 
+				<lb facs='#facs_2_r1l3' n='N003'/>was formerly called that of a young Hercules. 
+				<lb facs='#facs_2_r1l4' n='N004'/>In <date month='0' year='0' when='1886' day='0'>1886</date> <persName ref='#Wolters'>Wolters</persName> discovered that it was Praxitelean. 
+				<lb facs='#facs_2_r1l5' n='N005'/><persName ref='#Sellers'>Miss Sellers</persName> put it by the side of the head of <objectName ref='#Hermes_Olympia'>the Hermes </objectName>
+				<lb facs='#facs_2_r1l6' n='N006'/><objectName ref='#Hermes_Olympia'>of Olympia</objectName> and found them amazingly similar. 
+				<lb facs='#facs_2_r1l8' n='N007'/>The head is of finest Parian marble and has holes 
+				<lb facs='#facs_2_r1l9' n='N008'/>in the hair for a wreath. <persName ref='#Lechat'>Lechat</persName> says that <rs ref='#OA_108716' type='object'>it</rs>
+				<lb facs='#facs_2_r1l10' n='N009'/>is brother to the <objectName ref='#Sphinx_AK_Museum'>Sphinx</objectName> of the <orgName ref='#AK_Museum' type='museum'>Akropolis Museum</orgName>
+			</p>
+		</body>
+	</text>
+</TEI>

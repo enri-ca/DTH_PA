@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Grecia2_012_sup2553</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup2553_012_Grecia2.JPG' n='1'/>
+			<p>
+				<lb facs='#facs_1_r_2_1l1' n='N001'/><objectName ref='#OA_108368'>Victory returns to her temple and takes off her sandals</objectName>. 
+				<lb facs='#facs_1_r_2_1l2' n='N002'/><placeName ref='#Athens'>Acropolis of Athens</placeName>. 
+			</p>
+			<pb xml:id='sup2553_012bis_Grecia2.JPG' n='2'/>
+			<p>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/><orgName ref='#AK_Museum' type='museum'>Museum of Akropolis</orgName>. 
+				<lb facs='#facs_2_r_1_1l2' n='N002'/>From balustrade of <objectName ref='#NikeApteros_temple'>temple of Nike Apteros</objectName>. 
+				<lb facs='#facs_2_r_1_1l3' n='N003'/><persName ref='#Kavvadias'>Kavvadias</persName> has <date when='1898'>just found -1898-</date> the date of the temple; it is of 450 B.C. and 
+				<lb facs='#facs_2_r_1_1l4' n='N004'/>built by Kallikrates. <bibl source='#GazBArts'><choice><expan>Gazette</expan><abbr>Gaz.</abbr></choice> des <choice><expan>Beaux</expan><abbr>B.</abbr></choice> Arts</bibl>. 
+			</p>
+			<p>
+				<lb facs='#facs_2_r_1_1l5' n='N001'/><bibl source='#Fr_Wolt'>Fr. + Wolt. No. 761 - 804</bibl>. 
+			</p>
+		</body>
+	</text>
+</TEI>

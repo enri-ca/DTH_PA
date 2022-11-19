@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Toscana2_084_sup1965</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id='sup 1965_g.jpg' n='1'/>
+			<p>
+				<lb facs='#facs_1_l_19' n='N001'/><orgName ref='#Paganori' type='photographer'>V. PAGANORI</orgName> 
+				<lb facs='#facs_1_l_23' n='N002'/>FIRENZE 
+				<lb facs='#facs_1_l_27' n='N003'/>VIA DELLA SCALA 1 
+			</p>
+			<p>
+				<lb facs='#facs_1_l_31' n='N001'/><objectName ref='#negPaganori_599'>599</objectName>. 
+			</p>
+			<pb xml:id='sup 1965v.jpg' n='2'/>
+			<p>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/><objectName ref='#OA_107455'>This painted terra cotta Etruscan lady, Larthia Seianti S...</objectName> (of the family 
+				<lb facs='#facs_2_r_2_1l1' n='N002'/>of Sejanus) was discovered at <placeName ref='#Chiusi'>Chiusi</placeName> in <date when='1877'>1877</date>, brought to <placeName ref='#Rome'>Rome</placeName> and placed 
+				<lb facs='#facs_2_r_2_1l2' n='N003'/>in the <orgName ref='#Kircherian_Museum' type='museum'>Kircherian</orgName> in <date when='1878'>1878</date> and then removed to the <orgName ref='#AN_FI_Museum' type='museum'>Museum at Florence</orgName>, 
+				<lb facs='#facs_2_r_2_1l3' n='N004'/>where <rs ref='#OA_107455' type='object'>she</rs> now is. <rs ref='#OA_107455' type='object'>She</rs> wears a quantity of jewelry: a fillet of flowers with 
+				<lb facs='#facs_2_r_2_1l4' n='N005'/>rubies and emeralds; a girdle studded with rubies; an emerald clasp to her 
+				<lb facs='#facs_2_r_2_1l5' n='N006'/>golden sandals; earrings; a necklace; a brooch with a Medusa&apos;s head; 
+				<lb facs='#facs_2_r_2_1l6' n='N007'/>a bracelet and an amulet; and rings in plenty on her left hand in which 
+				<lb facs='#facs_2_r_2_1l7' n='N008'/>she holds a mirror set in a framework of gold. 
+				<lb facs='#facs_2_r_2_1l8' n='N009'/>The date of <rs ref='#OA_107455' type='object'>this monument</rs> is said to be 217 B.C. 
+				<lb facs='#facs_2_r_2_1l9' n='N010'/><rs ref='#OA_107455' type='object'>It</rs> cost <orgName ref='#UND_FI_Gov' type='collector'>the Government</orgName> 10,000 fes. only.
+			</p>
+		</body>
+	</text>
+</TEI>
