@@ -29,9 +29,9 @@
 				<lb facs='#facs_2_r_1_1l1' n='N001'/><orgName ref='#Louvre' type='museum'>Musée du Louvre</orgName>.
 			</p>
 			<p>
-				<lb facs='#facs_2_r_3_1l1' n='N001'/><objectName ref='#PlateI'>N.° II. Continuation of Plate I.</objectName>
+				<lb facs='#facs_2_r_3_1l1' n='N001'/><rs ref='#OA_106557' type='object'>N.° II</rs>. Continuation of <objectName ref='#PlateI'>Plate I</objectName>.
 				<lb facs='#facs_2_r_3_1l2' n='N002'/>An officer <hi rend='superscript:true;'>51.</hi> or priest has received a kanoun, or dish from 
-				<lb facs='#facs_2_r_3_1l3' n='N003'/>two Kanephori who appear in <objectName ref='#PlateI'>Plate III</objectName>. The dish has disappeared.
+				<lb facs='#facs_2_r_3_1l3' n='N003'/>two Kanephori who appear in <objectName ref='#PlateIII'>Plate III</objectName>. The dish has disappeared.
 				<lb facs='#facs_2_r_3_1l4' n='N004'/>or he may be giving them some order. He probably held a herald&apos;s staff 
 				<lb facs='#facs_2_r_3_1l5' n='N005'/>in his right hand.
 				<lb facs='#facs_2_r_3_1l6' n='N006'/>The numeration is that of the <unclear>prieze</unclear> in the <orgName ref='#Br_museum' type='museum'>British Museum</orgName>.

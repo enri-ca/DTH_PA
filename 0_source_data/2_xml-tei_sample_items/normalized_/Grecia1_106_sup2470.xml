@@ -15,8 +15,8 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb xml:id='sup2470_106_Grecia 1.JPG' n='sup2470_r'/>
-			<pb xml:id='sup2470_106bis_Grecia 1.JPG' n='sup2470_v'/>
+			<pb xml:id='sup2470_106_Grecia 1.JPG' n='1'/>
+			<pb xml:id='sup2470_106bis_Grecia 1.JPG' n='2'/>
 			<p>
 				<lb facs='#facs_2_r1l1' n='N001'/><objectName ref='#OA_108395'>This is the fine tower</objectName> built in the 13<hi rend='superscript:true;'>th</hi>century by the Frank Dukes
 				<lb facs='#facs_2_r1l2' n='N002'/>of Athens on the southern wing of the Propylea. <rs ref='#PA_creator' type='person'>I</rs> saw <rs ref='#OA_108395' type='object'>it</rs> in <date when='1865'>1865</date>.

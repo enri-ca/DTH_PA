@@ -31,13 +31,13 @@
 			<pb xml:id='sup2832_051bis_Grecia3.JPG' n='2'/>
 			<p>
 				<lb facs='#facs_2_r1l1' n='N001'/><orgName ref='#National_Museum_Athens' type='museum'>National Museum Athens.</orgName> 
-				<lb facs='#facs_2_r1l2' n='N002'/><ref>28</ref>. Archaic Sphinx from Spata in Attica of Pentelic marble. 
-				<lb facs='#facs_2_r1l3' n='N003'/><ref>76</ref>. Archaic Sphinx found at the Peiraios in 1880. Parian marble. 
-				<lb facs='#facs_2_r1l4' n='N004'/><ref>52</ref>. Archaic head of beautiful art. Pentelic marble.
-				<lb facs='#facs_2_r1l5' n='N005'/><ref>93</ref>. Disk of Parian marble found at the Peiraios in 1889. 11 inches in <choice><expan>diameter</expan><abbr>diam</abbr></choice>.
-				<lb facs='#facs_2_r1l6' n='N006'/>The painting on it is <date month='0' year='0' day='0' notBefore='1889'>now</date> almost effaced but once represented a <unclear>bearded</unclear> 
-				<lb facs='#facs_2_r1l7' n='N007'/>man with <cit><ref>an inscription saying</ref>: <quote>to the memory of Ainios, a wise and </quote></cit>
-				<lb facs='#facs_2_r1l8' n='N008'/><cit><quote>good doctor</quote></cit>.
+				<lb facs='#facs_2_r1l2' n='N002'/><ref>28</ref>. <objectName ref='#Sphinx_Spata'>Archaic Sphinx from Spata</objectName> in Attica of Pentelic marble. 
+				<lb facs='#facs_2_r1l3' n='N003'/><ref>76</ref>. <objectName ref='#Sphinx_Peiaios'>Archaic Sphinx</objectName> found at the Peiraios in 1880. Parian marble. 
+				<lb facs='#facs_2_r1l4' n='N004'/><ref>52</ref>. <objectName ref='#Head'>Archaic head</objectName> of beautiful art. Pentelic marble.
+				<lb facs='#facs_2_r1l5' n='N005'/><ref>93</ref>. <objectName ref='#Disk_Peiraios'>Disk</objectName> of Parian marble found at the Peiraios in 1889. 11 inches in <choice><expan>diameter</expan><abbr>diam</abbr></choice>.
+				<lb facs='#facs_2_r1l6' n='N006'/>The painting on it is <date notBefore='1889'>now</date> almost effaced but once represented a <unclear>bearded</unclear> 
+				<lb facs='#facs_2_r1l7' n='N007'/>man with <cit><ref>an inscription saying: </ref><q>to the memory of Ainios, a wise and
+				<lb facs='#facs_2_r1l8' n='N008'/>good doctor</q></cit>.
 			</p>
 		</body>
 	</text>
