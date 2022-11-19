@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Grecia2_012_sup2553</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2598' lry='4002' corresp='0001_sup2553_012_Grecia2.JPG'>
+			<graphic url='0001_sup2553_012_Grecia2.JPG' width='2598px' height='4002px'/>
+			<zone points='317,261 2350,241 2369,3493 340,3485' rendition='Image' xml:id='facs_1_Image_1667765115354_1518'/>
+			<zone points='622,3648 2379,3658 2382,3828 622,3828' rendition='TextRegion' subtype='caption' xml:id='facs_1_r_2_1'>
+				<zone points='630,3725 685,3723 741,3722 797,3720 853,3719 908,3718 964,3717 1020,3716 1076,3716 1131,3716 1187,3716 1243,3716 1299,3716 1354,3716 1410,3716 1466,3716 1522,3716 1577,3716 1633,3716 1689,3716 2265,3724 2265,3694 1689,3686 1633,3686 1577,3686 1522,3686 1466,3686 1410,3686 1354,3686 1299,3686 1243,3686 1187,3686 1131,3686 1076,3686 1020,3686 963,3687 907,3688 852,3689 796,3690 740,3692 684,3693 629,3695' rendition='Line' subtype='header' xml:id='facs_1_r_2_1l1'/>
+				<zone points='1182,3812 1209,3813 1237,3813 1264,3814 1292,3815 1320,3815 1347,3815 1375,3816 1402,3816 1430,3816 1458,3818 1485,3818 1513,3818 1540,3818 1568,3818 1596,3819 1623,3819 1651,3819 1678,3819 1706,3819 1778,3832 1784,3802 1709,3789 1678,3789 1651,3789 1623,3789 1597,3789 1569,3788 1540,3788 1513,3788 1485,3788 1459,3788 1431,3786 1402,3786 1376,3786 1348,3785 1320,3785 1293,3785 1265,3784 1238,3783 1210,3783 1183,3782' rendition='Line' subtype='header' xml:id='facs_1_r_2_1l2'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2673' lry='822' corresp='0002_sup2553_012bis_Grecia2.JPG'>
+			<graphic url='0002_sup2553_012bis_Grecia2.JPG' width='2673px' height='822px'/>
+			<zone points='139,13 2574,25 2574,704 139,692' rendition='printspace'/>
+			<zone points='139,13 2562,33 2579,548 156,522' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_1_1'>
+				<zone points='252,131 288,131 325,129 362,129 398,129 435,129 472,129 508,129 545,129 582,129 619,129 655,130 692,131 729,132 765,132 802,134 839,135 875,137 912,138 949,139 986,141 986,51 949,49 912,48 875,47 839,45 802,44 765,42 729,42 692,41 655,40 619,39 582,39 545,39 508,39 472,39 435,39 398,39 362,39 325,39 288,41 252,41' rendition='Line' subtype='heading' xml:id='facs_2_r_1_1l1'/>
+				<zone points='249,248 327,251 405,254 484,257 562,259 641,260 719,261 798,263 876,264 955,266 1033,266 1111,267 1190,267 1268,269 1347,269 1425,270 1504,272 1582,273 1661,276 1739,278 1855,298 1860,268 1742,248 1662,246 1583,243 1505,242 1426,240 1347,239 1268,239 1190,237 1111,237 1033,236 955,236 877,234 799,233 720,231 641,230 563,229 485,227 406,224 328,221 250,218' rendition='Line' xml:id='facs_2_r_1_1l2'/>
+				<zone points='164,381 247,383 330,384 414,386 497,387 581,389 664,390 748,392 831,395 915,396 998,398 1081,399 1165,402 1248,404 1332,405 1415,407 1499,410 1582,411 1666,414 1749,417 2531,452 2533,422 1750,387 1667,384 1583,381 1500,380 1416,377 1333,375 1249,374 1166,372 1082,369 999,368 916,366 832,365 749,362 665,360 582,359 498,357 415,356 331,354 248,353 165,351' rendition='Line' xml:id='facs_2_r_1_1l3'/>
+				<zone points='150,502 221,506 293,511 364,514 436,517 507,519 579,521 650,523 722,524 793,526 865,527 936,529 1008,530 1079,532 1151,533 1222,536 1294,538 1365,541 1437,544 1509,548 1509,469 1437,465 1365,462 1294,459 1222,457 1151,454 1079,453 1008,451 936,450 865,448 793,447 722,445 650,444 579,442 507,440 436,438 364,435 293,432 221,427 150,423' rendition='Line' xml:id='facs_2_r_1_1l4'/>
+			</zone>
+			<zone points='1225,663 157,673 142,522 1210,512' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_108'>
+				<zone points='156,631 199,631 242,630 285,631 328,631 371,633 414,633 457,634 500,636 543,638 587,640 630,642 673,644 716,645 759,647 802,648 845,649 888,649 931,649 975,649 975,564 931,564 888,564 845,564 802,563 759,562 716,560 673,559 630,557 587,555 543,553 500,551 457,549 414,548 371,548 328,546 285,546 242,545 199,546 156,546' rendition='Line' xml:id='facs_2_r_1_1l5'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup2553_012_Grecia2.JPG' n='1'/>
+			<p facs='#facs_1_r_2_1'>
+				<lb facs='#facs_1_r_2_1l1' n='N001'/><objectName ref='#OA_108368'>Victory returns to her temple and takes off her sandals</objectName>. 
+				<lb facs='#facs_1_r_2_1l2' n='N002'/><placeName ref='#Athens'>Acropolis of Athens</placeName>. 
+			</p>
+			<pb facs='#facs_2' xml:id='0002_sup2553_012bis_Grecia2.JPG' n='2'/>
+			<p facs='#facs_2_r_1_1'>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/><orgName ref='#AK_Museum' type='museum'>Museum of Akropolis</orgName>. 
+				<lb facs='#facs_2_r_1_1l2' n='N002'/>From balustrade of <objectName ref='#NikeApteros_temple'>temple of Nike Apteros</objectName>. 
+				<lb facs='#facs_2_r_1_1l3' n='N003'/><persName ref='#Kavvadias'>Kavvadias</persName> has <date when='1898'>just found -1898-</date> the date of the temple; it is of 450 B.C. and 
+				<lb facs='#facs_2_r_1_1l4' n='N004'/>built by Kallikrates. <bibl source='#GazBArts'><choice><expan>Gazette</expan><abbr>Gaz.</abbr></choice> des <choice><expan>Beaux</expan><abbr>B.</abbr></choice> Arts</bibl>. 
+			</p>
+			<p facs='#facs_2_r_108'>
+				<lb facs='#facs_2_r_1_1l5' n='N001'/><bibl source='#Fr_Wolt'>Fr. + Wolt. No. 761 - 804</bibl>. 
+			</p>
+		</body>
+	</text>
+</TEI>

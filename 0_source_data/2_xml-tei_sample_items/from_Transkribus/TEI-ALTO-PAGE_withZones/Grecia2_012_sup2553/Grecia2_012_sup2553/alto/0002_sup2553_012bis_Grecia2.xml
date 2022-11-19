@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:08.011+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="822" WIDTH="2673">
+         <TopMargin HEIGHT="13" WIDTH="2673" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="691" WIDTH="139" VPOS="13" HPOS="0"/>
+         <RightMargin HEIGHT="691" WIDTH="99" VPOS="13" HPOS="2574"/>
+         <BottomMargin HEIGHT="118" WIDTH="2673" VPOS="704" HPOS="0"/>
+         <PrintSpace HEIGHT="691" WIDTH="2435" VPOS="13" HPOS="139">
+            <TextBlock ID="r_1_1" HEIGHT="535" WIDTH="2440" VPOS="13" HPOS="139">
+               <Shape>
+                  <Polygon POINTS="139,13 2562,33 2579,548 156,522"/>
+               </Shape>
+               <TextLine ID="r_1_1l1"
+                         BASELINE="252,101 288,101 325,99 362,99 398,99 435,99 472,99 508,99 545,99 582,99 619,99 655,100 692,101 729,102 765,102 802,104 839,105 875,107 912,108 949,109 986,111"
+                         HEIGHT="102"
+                         WIDTH="734"
+                         VPOS="39"
+                         HPOS="252">
+                  <String ID="string_r_1_1l1"
+                          HEIGHT="102"
+                          WIDTH="734"
+                          VPOS="39"
+                          HPOS="252"
+                          CONTENT="Museum of Akropolis. "/>
+               </TextLine>
+               <TextLine ID="r_1_1l2"
+                         BASELINE="249,248 327,251 405,254 484,257 562,259 641,260 719,261 798,263 876,264 955,266 1033,266 1111,267 1190,267 1268,269 1347,269 1425,270 1504,272 1582,273 1661,276 1739,278 1855,298"
+                         HEIGHT="80"
+                         WIDTH="1611"
+                         VPOS="218"
+                         HPOS="249">
+                  <String ID="string_r_1_1l2"
+                          HEIGHT="80"
+                          WIDTH="1611"
+                          VPOS="218"
+                          HPOS="249"
+                          CONTENT="From balustrade of temple of Nike Apteros. "/>
+               </TextLine>
+               <TextLine ID="r_1_1l3"
+                         BASELINE="164,381 247,383 330,384 414,386 497,387 581,389 664,390 748,392 831,395 915,396 998,398 1081,399 1165,402 1248,404 1332,405 1415,407 1499,410 1582,411 1666,414 1749,417 2531,452"
+                         HEIGHT="101"
+                         WIDTH="2369"
+                         VPOS="351"
+                         HPOS="164">
+                  <String ID="string_r_1_1l3"
+                          HEIGHT="101"
+                          WIDTH="2369"
+                          VPOS="351"
+                          HPOS="164"
+                          CONTENT="Kavvadias has just found -1898- the date of the temple; it is of 450 B.C. and "/>
+               </TextLine>
+               <TextLine ID="r_1_1l4"
+                         BASELINE="150,476 221,480 293,485 364,488 436,491 507,493 579,495 650,497 722,498 793,500 865,501 936,503 1008,504 1079,506 1151,507 1222,510 1294,512 1365,515 1437,518 1509,522"
+                         HEIGHT="125"
+                         WIDTH="1359"
+                         VPOS="423"
+                         HPOS="150">
+                  <String ID="string_r_1_1l4"
+                          HEIGHT="125"
+                          WIDTH="1359"
+                          VPOS="423"
+                          HPOS="150"
+                          CONTENT="built by Kallikrates. Gaz. des B. Arts. "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_108" HEIGHT="161" WIDTH="1083" VPOS="512" HPOS="142">
+               <Shape>
+                  <Polygon POINTS="1225,663 157,673 142,522 1210,512"/>
+               </Shape>
+               <TextLine ID="r_1_1l5"
+                         BASELINE="156,603 199,603 242,602 285,603 328,603 371,605 414,605 457,606 500,608 543,610 587,612 630,614 673,616 716,617 759,619 802,620 845,621 888,621 931,621 975,621"
+                         HEIGHT="104"
+                         WIDTH="819"
+                         VPOS="545"
+                         HPOS="156">
+                  <String ID="string_r_1_1l5"
+                          HEIGHT="104"
+                          WIDTH="819"
+                          VPOS="545"
+                          HPOS="156"
+                          CONTENT="Fr. + Wolt. No. 761 - 804. "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

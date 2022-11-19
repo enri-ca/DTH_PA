@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-06T22:03:59.930+01:00</Created>
+        <LastChange>2022-11-13T13:09:15.972+01:00</LastChange>
+        <TranskribusMetadata docId="1215962" pageId="49380054" pageNr="2" tsid="103288785" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=XERDFWICXHOXYHWXVTIRVOGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HNOMXXKXSKVLTPBLUQTYUFYQ" imageId="40332289"/>
+    </Metadata>
+    <Page imageFilename="0002_sup3003_043bis_GrBretagna.JPG" imageWidth="2322" imageHeight="1638" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864724097" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="33,85 33,1596 2273,1596 2273,85"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} structure {type:heading;} organization {offset:0; length:14;ref:#Br_Museum; type:museum;}">
+                <Coords points="78,180 108,180 138,179 169,179 199,178 230,177 260,177 291,176 321,176 352,176 382,176 412,176 443,176 473,176 504,177 534,179 565,180 595,181 626,183 656,186 687,189 687,98 656,95 626,92 595,90 565,89 534,88 504,86 473,85 443,85 412,85 382,85 352,85 321,85 291,85 260,86 230,86 199,87 169,88 138,88 108,89 78,89"/>
+                <Baseline points="78,150 108,150 138,149 169,149 199,148 230,147 260,147 291,146 321,146 352,146 382,146 412,146 443,146 473,146 504,147 534,149 565,150 595,151 626,153 656,156 687,159"/>
+                <TextEquiv>
+                    <Unicode>British Museum. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} rs {offset:0; length:9;ref:#OA_108716; type:object;} organization {offset:20; length:26;ref:#Aberdeen_coll; type:collection;}">
+                <Coords points="57,572 162,572 267,572 372,570 477,570 582,570 687,570 793,570 898,569 1003,569 1108,569 1213,569 1318,569 1423,569 1529,569 1634,569 1739,570 1844,570 1949,571 2054,572 2160,573 2160,482 2054,481 1949,480 1844,479 1739,479 1634,478 1529,478 1423,478 1318,478 1213,478 1108,478 1003,478 898,478 793,479 687,479 582,479 477,479 372,479 267,481 162,481 57,481"/>
+                <Baseline points="57,542 162,542 267,542 372,540 477,540 582,540 687,540 793,540 898,539 1003,539 1108,539 1213,539 1318,539 1423,539 1529,539 1634,539 1739,540 1844,540 1949,541 2054,542 2160,543"/>
+                <TextEquiv>
+                    <Unicode>This head came from Lord Aberdeen's collection and </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="59,719 148,722 237,723 327,723 416,725 506,725 595,725 684,723 774,723 863,722 953,722 1042,720 1131,719 1221,719 1310,717 1400,717 1489,717 1578,717 1668,719 1757,720 1847,722 1847,631 1757,629 1668,628 1578,626 1489,626 1400,626 1310,626 1221,628 1131,628 1042,629 953,631 863,631 774,632 684,632 595,634 506,634 416,634 327,632 237,632 148,631 59,628"/>
+                <Baseline points="59,689 148,692 237,693 327,693 416,695 506,695 595,695 684,693 774,693 863,692 953,692 1042,690 1131,689 1221,689 1310,687 1400,687 1489,687 1578,687 1668,689 1757,690 1847,692"/>
+                <TextEquiv>
+                    <Unicode>was formerly called that of a young Hercules. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} date {offset:3; length:4;year:0; day:0; month:0; when:1886;} person {offset:8; length:7;ref:#Wolters;}">
+                <Coords points="36,861 143,863 250,864 358,864 465,864 573,864 680,864 787,864 895,863 1002,861 1110,861 1217,860 1324,859 1432,858 1539,858 1647,858 1754,858 1861,858 1969,860 2076,861 2184,864 2184,773 2076,770 1969,769 1861,767 1754,767 1647,767 1539,767 1432,767 1324,768 1217,769 1110,770 1002,770 895,772 787,773 680,773 573,773 465,773 358,773 250,773 143,772 36,770"/>
+                <Baseline points="36,831 143,833 250,834 358,834 465,834 573,834 680,834 787,834 895,833 1002,831 1110,831 1217,830 1324,829 1432,828 1539,828 1647,828 1754,828 1861,828 1969,830 2076,831 2184,834"/>
+                <TextEquiv>
+                    <Unicode>In 1886 Wolters discovered that it was Praxitelean. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:0; length:12;ref:#Sellers;} objectName {offset:47; length:11; continued:true;ref:#Hermes_Olympia;}">
+                <Coords points="57,990 167,993 278,996 389,998 500,999 611,999 721,999 832,999 943,999 1054,998 1165,998 1275,996 1386,996 1497,998 1608,998 1719,999 1829,1001 1940,1005 2051,1009 2162,1014 2273,1022 2273,931 2162,923 2051,918 1940,914 1829,910 1719,908 1608,907 1497,907 1386,905 1275,905 1165,907 1054,907 943,908 832,908 721,908 611,908 500,908 389,907 278,905 167,902 57,899"/>
+                <Baseline points="57,960 167,963 278,966 389,968 500,969 611,969 721,969 832,969 943,969 1054,968 1165,968 1275,966 1386,966 1497,968 1608,968 1719,969 1829,971 1940,975 2051,979 2162,984 2273,992"/>
+                <TextEquiv>
+                    <Unicode>Miss Sellers put it by the side of the head of the Hermes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} objectName {offset:0; length:10; continued:true;ref:#Hermes_Olympia;}">
+                <Coords points="33,1136 133,1139 234,1142 334,1143 435,1145 536,1146 636,1146 737,1146 837,1146 938,1146 1039,1146 1139,1146 1240,1146 1340,1146 1441,1146 1542,1146 1642,1148 1743,1149 1843,1152 1944,1155 2045,1158 2045,1067 1944,1064 1843,1061 1743,1058 1642,1057 1542,1055 1441,1055 1340,1055 1240,1055 1139,1055 1039,1055 938,1055 837,1055 737,1055 636,1055 536,1055 435,1054 334,1052 234,1051 133,1048 33,1045"/>
+                <Baseline points="33,1106 133,1109 234,1112 334,1113 435,1115 536,1116 636,1116 737,1116 837,1116 938,1116 1039,1116 1139,1116 1240,1116 1340,1116 1441,1116 1542,1116 1642,1118 1743,1119 1843,1122 1944,1125 2045,1128"/>
+                <TextEquiv>
+                    <Unicode>of Olympia and found them amazingly similar. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="42,1283 147,1284 253,1286 359,1287 465,1289 571,1289 677,1290 783,1292 889,1292 995,1293 1101,1293 1206,1295 1312,1296 1418,1297 1524,1298 1630,1299 1736,1302 1842,1304 1948,1305 2054,1308 2160,1311 2160,1220 2054,1217 1948,1214 1842,1213 1736,1211 1630,1208 1524,1207 1418,1206 1312,1205 1206,1204 1101,1202 995,1202 889,1201 783,1201 677,1199 571,1198 465,1198 359,1196 253,1195 147,1193 42,1192"/>
+                <Baseline points="42,1253 147,1254 253,1256 359,1257 465,1259 571,1259 677,1260 783,1262 889,1262 995,1263 1101,1263 1206,1265 1312,1266 1418,1267 1524,1268 1630,1269 1736,1272 1842,1274 1948,1275 2054,1278 2160,1281"/>
+                <TextEquiv>
+                    <Unicode>The head is of finest Parian marble and has holes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} person {offset:26; length:6;ref:#Lechat;} rs {offset:43; length:2;ref:#OA_108716; type:object;}">
+                <Coords points="53,1418 159,1418 265,1416 372,1416 478,1416 584,1418 691,1418 797,1419 903,1419 1010,1421 1116,1422 1222,1424 1329,1425 1435,1427 1541,1428 1648,1431 1754,1433 1860,1436 1967,1439 2073,1440 2180,1443 2180,1352 2073,1349 1967,1348 1860,1345 1754,1342 1648,1340 1541,1337 1435,1336 1329,1334 1222,1333 1116,1331 1010,1330 903,1328 797,1328 691,1327 584,1327 478,1325 372,1325 265,1325 159,1327 53,1327"/>
+                <Baseline points="53,1388 159,1388 265,1386 372,1386 478,1386 584,1388 691,1388 797,1389 903,1389 1010,1391 1116,1392 1222,1394 1329,1395 1435,1397 1541,1398 1648,1401 1754,1403 1860,1406 1967,1409 2073,1410 2180,1413"/>
+                <TextEquiv>
+                    <Unicode>in the hair for a wreath. Lechat says that it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} objectName {offset:18; length:6;ref:#Sphinx_AK_Museum;} organization {offset:32; length:16;ref:#AK_Museum; type:museum;}">
+                <Coords points="56,1542 162,1548 268,1552 375,1556 481,1559 587,1562 694,1563 800,1565 906,1567 1013,1568 1119,1569 1225,1571 1332,1572 1438,1574 1544,1575 1651,1578 1757,1580 1863,1583 1970,1587 2076,1592 2183,1596 2183,1505 2076,1501 1970,1496 1863,1492 1757,1489 1651,1487 1544,1484 1438,1483 1332,1481 1225,1480 1119,1478 1013,1477 906,1476 800,1474 694,1472 587,1471 481,1468 375,1465 268,1461 162,1457 56,1451"/>
+                <Baseline points="56,1512 162,1518 268,1522 375,1526 481,1529 587,1532 694,1533 800,1535 906,1537 1013,1538 1119,1539 1225,1541 1332,1542 1438,1544 1544,1545 1651,1548 1757,1550 1863,1553 1970,1557 2076,1562 2183,1566"/>
+                <TextEquiv>
+                    <Unicode>is brother to the Sphinx of the Akropolis Museum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>British Museum. &#13;
+This head came from Lord Aberdeen's collection and &#13;
+was formerly called that of a young Hercules. &#13;
+In 1886 Wolters discovered that it was Praxitelean. &#13;
+Miss Sellers put it by the side of the head of the Hermes &#13;
+of Olympia and found them amazingly similar. &#13;
+The head is of finest Parian marble and has holes &#13;
+in the hair for a wreath. Lechat says that it&#13;
+is brother to the Sphinx of the Akropolis Museum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

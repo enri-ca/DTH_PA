@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Grecia3_011_sup2783</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2571' lry='3189' corresp='0001_sup2783_011_Grecia3.JPG'>
+			<graphic url='0001_sup2783_011_Grecia3.JPG' width='2571px' height='3189px'/>
+			<zone points='123,79 2482,34 2540,3114 183,3144' rendition='Image' xml:id='facs_1_Image_1667762602814_1400'/>
+			<zone points='423,2868 266,2870 266,2756 419,2758' rendition='TextRegion' subtype='signature-mark' xml:id='facs_1_r_10'>
+				<zone points='304,2844 368,2844 368,2814 304,2814' rendition='Line' xml:id='facs_1_l_19'/>
+			</zone>
+			<zone points='1109,3010 961,2974 956,2887 1107,2934' rendition='TextRegion' subtype='other' xml:id='facs_1_r_5'>
+				<zone points='981,2974 1055,2991 1063,2994 1073,2966 1063,2963 988,2945' rendition='Line' xml:id='facs_1_l'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2931' lry='936' corresp='0002_sup2783_011bis_Grecia3.JPG'>
+			<graphic url='0002_sup2783_011bis_Grecia3.JPG' width='2931px' height='936px'/>
+			<zone points='48,29 2830,29 2830,913 48,913' rendition='printspace'/>
+			<zone points='48,29 432,29 432,135 48,135' rendition='TextRegion' subtype='floating' xml:id='facs_2_r_1_1'>
+				<zone points='33,139 67,136 102,155 164,137 198,160 247,159 318,127 358,152 412,154 410,38 371,47 336,24 299,36 239,25 200,40 188,29 32,31' rendition='Line' xml:id='facs_2_r_1_1l1'/>
+			</zone>
+			<zone points='753,263 2173,256 2178,430 753,435' rendition='TextRegion' subtype='heading' xml:id='facs_2_r_4_1'>
+				<zone points='763,460 2140,424 2107,339 1732,288 1489,340 1299,262 1139,377 889,275 759,318' rendition='Line' xml:id='facs_2_r_4_1l1'/>
+			</zone>
+			<zone points='541,515 2859,507 2859,852 538,874' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_10_1'>
+				<zone points='563,703 846,622 1044,696 1313,603 2867,591 2700,480 2482,560 560,527' rendition='Line' xml:id='facs_2_r_10_1l1'/>
+				<zone points='552,772 1044,734 1143,818 1268,728 2288,717 2284,632 1871,613 1773,665 550,703' rendition='Line' xml:id='facs_2_r_10_1l2'/>
+				<zone points='568,900 803,866 1036,925 1261,853 1801,823 1851,858 2001,835 1997,716 1052,822 996,775 781,818 563,770' rendition='Line' xml:id='facs_2_r_10_1l3'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup2783_011_Grecia3.JPG' n='1'/>
+			<p facs='#facs_1_r_10'>
+				<lb facs='#facs_1_l_19' n='N001'/><objectName ref='#negUNK_067'>67</objectName> 
+			</p>
+			<p facs='#facs_1_r_5'>
+				<lb facs='#facs_1_l' n='N001'/>128 
+			</p>
+			<pb facs='#facs_2' xml:id='0002_sup2783_011bis_Grecia3.JPG' n='2'/>
+			<p facs='#facs_2_r_1_1'>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/>N°. 247. h. C
+			</p>
+			<p facs='#facs_2_r_4_1'>
+				<lb facs='#facs_2_r_4_1l1' n='N001'/><placeName ref='#Athens'>Athens</placeName>. <orgName ref='#National_Museum_Athens' type='museum'>Central Museum</orgName>
+			</p>
+			<p facs='#facs_2_r_10_1'>
+				<lb facs='#facs_2_r_10_1l1' n='N001'/><objectName ref='#OA_108561'>Fighting warrior</objectName> found at <placeName ref='#Delos'>Delos</placeName>. An inscription names an Ephelian, 
+				<lb facs='#facs_2_r_10_1l2' n='N002'/>Agalias, the son of Menophilos, as the sculptor.
+				<lb facs='#facs_2_r_10_1l3' n='N003'/><rs ref='#OA_108561' type='object'>The work</rs> belongs to the Neo-Attic school.
+			</p>
+		</body>
+	</text>
+</TEI>

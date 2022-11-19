@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.8:model_id=35909:lm=none:date=22_10_2022_01:22
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.8:model_id=35909:date=22_10_2022_01:22
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2022-10-22T01:21:44.729+02:00</Created>
+        <LastChange>2022-11-11T21:00:16.002+01:00</LastChange>
+        <TranskribusMetadata docId="1199335" pageId="48699841" pageNr="2" tsid="103249607" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=LRQRGZAAUWTZEHXVNECNTNSN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XTTVTVLPBNPQVXYTTEYIWVGZ" imageId="39869725"/>
+    </Metadata>
+    <Page imageFilename="0002_sup2581_040bis_Grecia 2.JPG" imageWidth="1758" imageHeight="1002" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864730768" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1667756440934_92"/>
+                <RegionRefIndexed index="1" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1667756440934_92" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1713,978 77,978 83,662 1719,662"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} structure {type:heading;} place {offset:0; length:7;ref:#Olympia;}">
+                <Coords points="611,173 637,173 663,173 689,175 715,176 741,178 767,180 793,182 819,183 845,185 871,186 897,187 923,187 949,186 976,184 976,97 949,99 923,100 897,100 871,99 845,98 819,96 793,95 767,93 741,91 715,89 689,88 663,86 637,86 611,86"/>
+                <Baseline points="611,144 637,144 663,144 689,146 715,147 741,149 767,151 793,153 819,154 845,156 871,157 897,158 923,158 949,157 976,155"/>
+                <TextEquiv>
+                    <Unicode>Olympia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} structure {type:heading;} objectName {offset:0; length:24;ref:#OA_108400;}">
+                <Coords points="77,482 131,482 186,483 241,483 296,483 351,483 406,483 461,482 516,482 571,482 626,482 680,482 735,482 790,483 845,484 900,486 955,488 1010,491 1065,495 1120,500 1175,505 1175,418 1120,413 1065,408 1010,404 955,401 900,399 845,397 790,396 735,395 680,395 626,395 571,395 516,395 461,395 406,396 351,396 296,396 241,396 186,396 131,395 77,395"/>
+                <Baseline points="77,453 131,453 186,454 241,454 296,454 351,454 406,454 461,453 516,453 571,453 626,453 680,453 735,453 790,454 845,455 900,457 955,459 1010,462 1065,466 1120,471 1175,476"/>
+                <TextEquiv>
+                    <Unicode>The Hermes of Praxiteles.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;} rs {offset:0; length:4;ref:#UND;} date {offset:18; length:4;when:1889;} rs {offset:36; length:3;ref:#OA_108400; type:object;}">
+                <Coords points="89,604 1722,635 1723,605 90,574"/>
+                <Baseline points="89,604 1722,635"/>
+                <TextEquiv>
+                    <Unicode>They have lately (1889) put legs on him.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>The Hermes of Praxiteles.&#13;
+Olympia.&#13;
+They have lately (1889) put legs on him.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="75,44 77,650 1722,650 1720,44"/>
+            <TextLine id="r1l6" custom="readingOrder {index:0;} rs {offset:0; length:2;ref:#OA_108400; type:object;} textStyle {offset:27; length:2;superscript:true;}">
+                <Coords points="117,751 189,752 262,753 335,754 408,756 480,758 553,761 626,764 699,767 771,770 844,773 917,776 990,779 1062,782 1135,785 1208,788 1281,791 1353,793 1426,794 1499,796 1572,797 1572,722 1499,721 1426,719 1353,718 1281,716 1208,713 1135,710 1062,707 990,704 917,701 844,698 771,695 699,692 626,689 553,686 480,683 408,681 335,679 262,678 189,677 117,676"/>
+                <Baseline points="117,726 189,727 262,728 335,729 408,731 480,733 553,736 626,739 699,742 771,745 844,748 917,751 990,754 1062,757 1135,760 1208,763 1281,766 1353,768 1426,769 1499,771 1572,772"/>
+                <TextEquiv>
+                    <Unicode>He was discovered on the 8.th of May 1877.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;} person {offset:0; length:1;ref:#PA_creator;} rs {offset:6; length:3;ref:#OA_108400; type:object;} date {offset:13; length:4;when:1887;} date {offset:22; length:4;when:1893;}">
+                <Coords points="89,845 134,849 180,853 226,856 271,859 317,861 363,864 408,865 454,867 500,869 546,870 591,872 637,873 683,874 728,875 774,877 820,878 865,880 911,882 957,884 1003,886 1003,811 957,809 911,807 865,805 820,803 774,802 728,800 683,799 637,798 591,797 546,795 500,794 454,792 408,790 363,789 317,786 271,784 226,781 180,778 134,774 89,770"/>
+                <Baseline points="89,820 134,824 180,828 226,831 271,834 317,836 363,839 408,840 454,842 500,844 546,845 591,847 637,848 683,849 728,850 774,852 820,853 865,855 911,857 957,859 1003,861"/>
+                <TextEquiv>
+                    <Unicode>I saw him in 1887 and 1893.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:2;} bibl {offset:0; length:18;source:#Fr_Wolt;}">
+                <Coords points="106,947 189,945 215,943 241,942 267,941 293,941 319,941 346,942 372,943 398,944 424,945 450,947 476,949 503,951 529,953 555,955 581,956 607,958 633,959 660,960 661,930 634,929 609,928 583,926 557,925 531,923 505,921 478,919 452,917 426,915 399,914 373,913 347,912 320,911 293,911 266,911 240,912 213,913 187,915 106,917"/>
+                <Baseline points="106,947 189,945 215,943 241,942 267,941 293,941 319,941 346,942 372,943 398,944 424,945 450,947 476,949 503,951 529,953 555,955 581,956 607,958 633,959 660,960"/>
+                <TextEquiv>
+                    <Unicode>Fr. + Wolt.N° 1212.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>He was discovered on the 8.th of May 1877.&#13;
+I saw him in 1887 and 1893.&#13;
+Fr. + Wolt.N° 1212.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

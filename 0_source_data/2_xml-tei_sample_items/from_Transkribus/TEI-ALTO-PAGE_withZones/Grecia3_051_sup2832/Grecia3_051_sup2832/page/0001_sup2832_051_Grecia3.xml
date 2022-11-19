@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-06T22:03:37.252+01:00</Created>
+        <LastChange>2022-11-11T22:21:24.429+01:00</LastChange>
+        <TranskribusMetadata docId="1215961" pageId="49380051" pageNr="1" tsid="103250411" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=HTCJHBCIXVTPQRPDVETGQJFB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JPXBEZIQQBAAHNOXCMGWBVAO" imageId="40332286"/>
+    </Metadata>
+    <Page imageFilename="0001_sup2832_051_Grecia3.JPG" imageWidth="3216" imageHeight="2487" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864724807" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1667941394355_567"/>
+                <RegionRefIndexed index="2" regionRef="region_1667941371870_552"/>
+                <RegionRefIndexed index="3" regionRef="region_1667941172598_465"/>
+                <RegionRefIndexed index="4" regionRef="region_1667941203407_482"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <ImageRegion id="Image_1668200977490_612" custom="readingOrder {index:0;}">
+            <Coords points="44,120 3146,99 3193,2383 58,2447"/>
+        </ImageRegion>
+        <TextRegion type="other" id="region_1667941394355_567" custom="readingOrder {index:1;} structure {type:other;}">
+            <Coords points="1384,410 1384,755 1847,755 1847,410"/>
+            <TextLine id="line_1667941394445_570" custom="readingOrder {index:0;}">
+                <Coords points="1596,671 1718,675 1720,612 1598,608"/>
+                <TextEquiv>
+                    <Unicode>52</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>52</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="other" id="region_1667941371870_552" custom="readingOrder {index:2;} structure {type:other;}">
+            <Coords points="1652,1821 1652,1884 1708,1884 1708,1821"/>
+            <TextLine id="line_1667941371962_555" custom="readingOrder {index:0;}">
+                <Coords points="1652,1884 1708,1884 1708,1821 1652,1821"/>
+                <TextEquiv>
+                    <Unicode>93</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>93</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="other" id="region_1667941172598_465" custom="readingOrder {index:3;} structure {type:other;}">
+            <Coords points="560,2297 560,2300 616,2300 616,2297"/>
+            <TextLine id="line_1667941172653_468" custom="readingOrder {index:0;}">
+                <Coords points="560,2300 616,2300 616,2297 560,2297"/>
+                <TextEquiv>
+                    <Unicode>28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>28</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="other" id="region_1667941203407_482" custom="readingOrder {index:4;} structure {type:other;}">
+            <Coords points="2736,2377 2736,2380 2786,2380 2786,2377"/>
+            <TextLine id="line_1667941203450_485" custom="readingOrder {index:0;}">
+                <Coords points="2736,2380 2786,2380 2786,2377 2736,2377"/>
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>26</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

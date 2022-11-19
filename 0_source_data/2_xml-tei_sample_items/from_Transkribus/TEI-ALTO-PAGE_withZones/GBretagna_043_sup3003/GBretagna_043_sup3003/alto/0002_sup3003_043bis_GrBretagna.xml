@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:04.259+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1638" WIDTH="2322">
+         <TopMargin HEIGHT="0" WIDTH="2322" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1638" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1638" WIDTH="0" VPOS="0" HPOS="2322"/>
+         <BottomMargin HEIGHT="0" WIDTH="2322" VPOS="1638" HPOS="0"/>
+         <PrintSpace HEIGHT="1638" WIDTH="2322" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1511" WIDTH="2240" VPOS="85" HPOS="33">
+               <Shape>
+                  <Polygon POINTS="33,85 33,1596 2273,1596 2273,85"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="78,150 108,150 138,149 169,149 199,148 230,147 260,147 291,146 321,146 352,146 382,146 412,146 443,146 473,146 504,147 534,149 565,150 595,151 626,153 656,156 687,159"
+                         HEIGHT="104"
+                         WIDTH="609"
+                         VPOS="85"
+                         HPOS="78">
+                  <String ID="string_r1l1"
+                          HEIGHT="104"
+                          WIDTH="609"
+                          VPOS="85"
+                          HPOS="78"
+                          CONTENT="British Museum. "/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="57,542 162,542 267,542 372,540 477,540 582,540 687,540 793,540 898,539 1003,539 1108,539 1213,539 1318,539 1423,539 1529,539 1634,539 1739,540 1844,540 1949,541 2054,542 2160,543"
+                         HEIGHT="95"
+                         WIDTH="2103"
+                         VPOS="478"
+                         HPOS="57">
+                  <String ID="string_r1l2"
+                          HEIGHT="95"
+                          WIDTH="2103"
+                          VPOS="478"
+                          HPOS="57"
+                          CONTENT="This head came from Lord Aberdeen's collection and "/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="59,689 148,692 237,693 327,693 416,695 506,695 595,695 684,693 774,693 863,692 953,692 1042,690 1131,689 1221,689 1310,687 1400,687 1489,687 1578,687 1668,689 1757,690 1847,692"
+                         HEIGHT="99"
+                         WIDTH="1788"
+                         VPOS="626"
+                         HPOS="59">
+                  <String ID="string_r1l3"
+                          HEIGHT="99"
+                          WIDTH="1788"
+                          VPOS="626"
+                          HPOS="59"
+                          CONTENT="was formerly called that of a young Hercules. "/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="36,831 143,833 250,834 358,834 465,834 573,834 680,834 787,834 895,833 1002,831 1110,831 1217,830 1324,829 1432,828 1539,828 1647,828 1754,828 1861,828 1969,830 2076,831 2184,834"
+                         HEIGHT="97"
+                         WIDTH="2148"
+                         VPOS="767"
+                         HPOS="36">
+                  <String ID="string_r1l4"
+                          HEIGHT="97"
+                          WIDTH="2148"
+                          VPOS="767"
+                          HPOS="36"
+                          CONTENT="In 1886 Wolters discovered that it was Praxitelean. "/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="57,960 167,963 278,966 389,968 500,969 611,969 721,969 832,969 943,969 1054,968 1165,968 1275,966 1386,966 1497,968 1608,968 1719,969 1829,971 1940,975 2051,979 2162,984 2273,992"
+                         HEIGHT="123"
+                         WIDTH="2216"
+                         VPOS="899"
+                         HPOS="57">
+                  <String ID="string_r1l5"
+                          HEIGHT="123"
+                          WIDTH="2216"
+                          VPOS="899"
+                          HPOS="57"
+                          CONTENT="Miss Sellers put it by the side of the head of the Hermes "/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="33,1106 133,1109 234,1112 334,1113 435,1115 536,1116 636,1116 737,1116 837,1116 938,1116 1039,1116 1139,1116 1240,1116 1340,1116 1441,1116 1542,1116 1642,1118 1743,1119 1843,1122 1944,1125 2045,1128"
+                         HEIGHT="113"
+                         WIDTH="2012"
+                         VPOS="1045"
+                         HPOS="33">
+                  <String ID="string_r1l6"
+                          HEIGHT="113"
+                          WIDTH="2012"
+                          VPOS="1045"
+                          HPOS="33"
+                          CONTENT="of Olympia and found them amazingly similar. "/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="42,1253 147,1254 253,1256 359,1257 465,1259 571,1259 677,1260 783,1262 889,1262 995,1263 1101,1263 1206,1265 1312,1266 1418,1267 1524,1268 1630,1269 1736,1272 1842,1274 1948,1275 2054,1278 2160,1281"
+                         HEIGHT="119"
+                         WIDTH="2118"
+                         VPOS="1192"
+                         HPOS="42">
+                  <String ID="string_r1l8"
+                          HEIGHT="119"
+                          WIDTH="2118"
+                          VPOS="1192"
+                          HPOS="42"
+                          CONTENT="The head is of finest Parian marble and has holes "/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="53,1388 159,1388 265,1386 372,1386 478,1386 584,1388 691,1388 797,1389 903,1389 1010,1391 1116,1392 1222,1394 1329,1395 1435,1397 1541,1398 1648,1401 1754,1403 1860,1406 1967,1409 2073,1410 2180,1413"
+                         HEIGHT="118"
+                         WIDTH="2127"
+                         VPOS="1325"
+                         HPOS="53">
+                  <String ID="string_r1l9"
+                          HEIGHT="118"
+                          WIDTH="2127"
+                          VPOS="1325"
+                          HPOS="53"
+                          CONTENT="in the hair for a wreath. Lechat says that it"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="56,1512 162,1518 268,1522 375,1526 481,1529 587,1532 694,1533 800,1535 906,1537 1013,1538 1119,1539 1225,1541 1332,1542 1438,1544 1544,1545 1651,1548 1757,1550 1863,1553 1970,1557 2076,1562 2183,1566"
+                         HEIGHT="145"
+                         WIDTH="2127"
+                         VPOS="1451"
+                         HPOS="56">
+                  <String ID="string_r1l10"
+                          HEIGHT="145"
+                          WIDTH="2127"
+                          VPOS="1451"
+                          HPOS="56"
+                          CONTENT="is brother to the Sphinx of the Akropolis Museum"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

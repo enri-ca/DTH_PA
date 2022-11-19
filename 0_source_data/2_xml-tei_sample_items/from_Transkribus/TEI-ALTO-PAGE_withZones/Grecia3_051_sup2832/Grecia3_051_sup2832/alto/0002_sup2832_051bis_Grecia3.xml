@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:05.15+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1407" WIDTH="2958">
+         <TopMargin HEIGHT="0" WIDTH="2958" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1407" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1407" WIDTH="0" VPOS="0" HPOS="2958"/>
+         <BottomMargin HEIGHT="0" WIDTH="2958" VPOS="1407" HPOS="0"/>
+         <PrintSpace HEIGHT="1407" WIDTH="2958" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1297" WIDTH="2836" VPOS="66" HPOS="62">
+               <Shape>
+                  <Polygon POINTS="62,66 62,1363 2898,1363 2898,66"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="101,122 150,122 199,123 249,125 298,125 348,126 397,126 446,126 496,128 545,128 595,128 644,128 693,129 743,129 792,130 842,132 891,134 940,135 990,137 1039,140 1089,141"
+                         HEIGHT="103"
+                         WIDTH="988"
+                         VPOS="66"
+                         HPOS="101">
+                  <String ID="string_r1l1"
+                          HEIGHT="103"
+                          WIDTH="988"
+                          VPOS="66"
+                          HPOS="101"
+                          CONTENT="National Museum Athens. "/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="63,555 185,560 308,563 431,566 553,569 676,572 799,573 921,575 1044,578 1167,579 1290,579 1412,581 1535,582 1658,583 1780,584 1903,585 2026,585 2148,587 2271,588 2394,590 2517,591"
+                         HEIGHT="120"
+                         WIDTH="2454"
+                         VPOS="499"
+                         HPOS="63">
+                  <String ID="string_r1l2"
+                          HEIGHT="120"
+                          WIDTH="2454"
+                          VPOS="499"
+                          HPOS="63"
+                          CONTENT="28. Archaic Sphinx from Spata in Attica of Pentelic marble. "/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="72,708 196,713 321,716 446,719 571,722 695,725 820,726 945,729 1070,731 1194,734 1319,737 1444,740 1569,743 1693,747 1818,751 1943,756 2068,762 2192,768 2317,777 2442,785 2567,795"
+                         HEIGHT="171"
+                         WIDTH="2495"
+                         VPOS="652"
+                         HPOS="72">
+                  <String ID="string_r1l3"
+                          HEIGHT="171"
+                          WIDTH="2495"
+                          VPOS="652"
+                          HPOS="72"
+                          CONTENT="76. Archaic Sphinx found at the Peiraios in 1880. Parian marble. "/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="83,869 189,870 296,870 402,872 509,872 616,873 722,875 829,876 936,876 1042,878 1149,879 1256,882 1362,883 1469,885 1576,887 1682,890 1789,892 1896,894 2002,897 2109,900 2216,903"
+                         HEIGHT="118"
+                         WIDTH="2133"
+                         VPOS="813"
+                         HPOS="83">
+                  <String ID="string_r1l4"
+                          HEIGHT="118"
+                          WIDTH="2133"
+                          VPOS="813"
+                          HPOS="83"
+                          CONTENT="52. Archaic head of beautiful art. Pentelic marble."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="75,992 214,995 353,998 493,999 632,1001 771,1002 911,1002 1050,1004 1189,1005 1329,1005 1468,1007 1607,1010 1747,1011 1886,1014 2025,1019 2165,1023 2304,1029 2443,1036 2583,1044 2722,1053 2862,1065"
+                         HEIGHT="157"
+                         WIDTH="2787"
+                         VPOS="936"
+                         HPOS="75">
+                  <String ID="string_r1l5"
+                          HEIGHT="157"
+                          WIDTH="2787"
+                          VPOS="936"
+                          HPOS="75"
+                          CONTENT="93. Disk of Parian marble found at the Peiraios in 1889. 11 inches in diam."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="68,1121 209,1119 351,1119 492,1119 634,1119 775,1119 917,1121 1058,1122 1200,1124 1341,1127 1483,1130 1624,1133 1766,1136 1907,1140 2049,1145 2190,1149 2332,1155 2473,1161 2615,1167 2756,1174 2898,1181"
+                         HEIGHT="137"
+                         WIDTH="2830"
+                         VPOS="1069"
+                         HPOS="68">
+                  <String ID="string_r1l6"
+                          HEIGHT="137"
+                          WIDTH="2830"
+                          VPOS="1069"
+                          HPOS="68"
+                          CONTENT="The painting on it is now almost effaced but once represented a bearded "/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="62,1221 200,1225 339,1228 478,1232 617,1235 756,1238 895,1241 1034,1244 1173,1247 1312,1250 1451,1253 1589,1257 1728,1260 1867,1265 2006,1268 2145,1272 2284,1277 2423,1282 2562,1287 2701,1293 2840,1299"
+                         HEIGHT="153"
+                         WIDTH="2778"
+                         VPOS="1171"
+                         HPOS="62">
+                  <String ID="string_r1l7"
+                          HEIGHT="153"
+                          WIDTH="2778"
+                          VPOS="1171"
+                          HPOS="62"
+                          CONTENT="man with an inscription saying: to the memory of Ainios, a wise and "/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="95,1332 120,1334 145,1334 171,1335 196,1335 221,1335 247,1335 272,1335 297,1335 323,1335 348,1335 373,1335 399,1334 424,1334 449,1334 475,1334 500,1335 525,1335 551,1336 576,1337 602,1338"
+                         HEIGHT="82"
+                         WIDTH="507"
+                         VPOS="1281"
+                         HPOS="95">
+                  <String ID="string_r1l8"
+                          HEIGHT="82"
+                          WIDTH="507"
+                          VPOS="1281"
+                          HPOS="95"
+                          CONTENT="good doctor."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

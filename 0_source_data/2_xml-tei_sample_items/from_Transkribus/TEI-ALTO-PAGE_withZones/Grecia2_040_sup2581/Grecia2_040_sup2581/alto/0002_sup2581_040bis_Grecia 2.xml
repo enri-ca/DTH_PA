@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:10.825+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1002" WIDTH="1758">
+         <TopMargin HEIGHT="0" WIDTH="1758" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1002" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1002" WIDTH="0" VPOS="0" HPOS="1758"/>
+         <BottomMargin HEIGHT="0" WIDTH="1758" VPOS="1002" HPOS="0"/>
+         <PrintSpace HEIGHT="1002" WIDTH="1758" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1667756440934_92"
+                       HEIGHT="316"
+                       WIDTH="1642"
+                       VPOS="662"
+                       HPOS="77">
+               <Shape>
+                  <Polygon POINTS="1713,978 77,978 83,662 1719,662"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="611,144 637,144 663,144 689,146 715,147 741,149 767,151 793,153 819,154 845,156 871,157 897,158 923,158 949,157 976,155"
+                         HEIGHT="101"
+                         WIDTH="365"
+                         VPOS="86"
+                         HPOS="611">
+                  <String ID="string_r1l1"
+                          HEIGHT="101"
+                          WIDTH="365"
+                          VPOS="86"
+                          HPOS="611"
+                          CONTENT="Olympia."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="77,453 131,453 186,454 241,454 296,454 351,454 406,454 461,453 516,453 571,453 626,453 680,453 735,453 790,454 845,455 900,457 955,459 1010,462 1065,466 1120,471 1175,476"
+                         HEIGHT="110"
+                         WIDTH="1098"
+                         VPOS="395"
+                         HPOS="77">
+                  <String ID="string_r1l2"
+                          HEIGHT="110"
+                          WIDTH="1098"
+                          VPOS="395"
+                          HPOS="77"
+                          CONTENT="The Hermes of Praxiteles."/>
+               </TextLine>
+               <TextLine ID="l"
+                         BASELINE="89,604 1722,635"
+                         HEIGHT="61"
+                         WIDTH="1634"
+                         VPOS="574"
+                         HPOS="89">
+                  <String ID="string_l"
+                          HEIGHT="61"
+                          WIDTH="1634"
+                          VPOS="574"
+                          HPOS="89"
+                          CONTENT="They have lately (1889) put legs on him."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r1" HEIGHT="606" WIDTH="1647" VPOS="44" HPOS="75">
+               <Shape>
+                  <Polygon POINTS="75,44 77,650 1722,650 1720,44"/>
+               </Shape>
+               <TextLine ID="r1l6"
+                         BASELINE="117,726 189,727 262,728 335,729 408,731 480,733 553,736 626,739 699,742 771,745 844,748 917,751 990,754 1062,757 1135,760 1208,763 1281,766 1353,768 1426,769 1499,771 1572,772"
+                         HEIGHT="121"
+                         WIDTH="1455"
+                         VPOS="676"
+                         HPOS="117">
+                  <String ID="string_r1l6"
+                          HEIGHT="121"
+                          WIDTH="1455"
+                          VPOS="676"
+                          HPOS="117"
+                          CONTENT="He was discovered on the 8.th of May 1877."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="89,820 134,824 180,828 226,831 271,834 317,836 363,839 408,840 454,842 500,844 546,845 591,847 637,848 683,849 728,850 774,852 820,853 865,855 911,857 957,859 1003,861"
+                         HEIGHT="116"
+                         WIDTH="914"
+                         VPOS="770"
+                         HPOS="89">
+                  <String ID="string_r1l7"
+                          HEIGHT="116"
+                          WIDTH="914"
+                          VPOS="770"
+                          HPOS="89"
+                          CONTENT="I saw him in 1887 and 1893."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="106,947 189,945 215,943 241,942 267,941 293,941 319,941 346,942 372,943 398,944 424,945 450,947 476,949 503,951 529,953 555,955 581,956 607,958 633,959 660,960"
+                         HEIGHT="49"
+                         WIDTH="555"
+                         VPOS="911"
+                         HPOS="106">
+                  <String ID="string_r1l8"
+                          HEIGHT="49"
+                          WIDTH="555"
+                          VPOS="911"
+                          HPOS="106"
+                          CONTENT="Fr. + Wolt.N° 1212."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

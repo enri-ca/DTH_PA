@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:03.768+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3387" WIDTH="2229">
+         <TopMargin HEIGHT="0" WIDTH="2229" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3387" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3387" WIDTH="0" VPOS="0" HPOS="2229"/>
+         <BottomMargin HEIGHT="0" WIDTH="2229" VPOS="3387" HPOS="0"/>
+         <PrintSpace HEIGHT="3387" WIDTH="2229" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="262" WIDTH="876" VPOS="2822" HPOS="568">
+               <Shape>
+                  <Polygon POINTS="568,2822 568,3084 1444,3084 1444,2822"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="678,2891 706,2899 734,2904 763,2909 791,2914 820,2916 848,2919 877,2921 905,2922 934,2924 962,2924 990,2924 1019,2925 1047,2925 1076,2925 1104,2925 1133,2927 1161,2928 1190,2930 1218,2932 1247,2934"
+                         HEIGHT="121"
+                         WIDTH="595"
+                         VPOS="2825"
+                         HPOS="678">
+                  <String ID="string_r1l1"
+                          HEIGHT="121"
+                          WIDTH="595"
+                          VPOS="2825"
+                          HPOS="678"
+                          CONTENT="HERMES"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="630,2964 763,3003 793,3008 823,3010 853,3014 883,3017 913,3018 942,3020 972,3021 1002,3023 1032,3023 1062,3024 1092,3024 1122,3024 1151,3023 1181,3023 1211,3022 1241,3021 1271,3021 1301,3020 1429,3015"
+                         HEIGHT="56"
+                         WIDTH="597"
+                         VPOS="2978"
+                         HPOS="734">
+                  <String ID="string_r1l2"
+                          HEIGHT="56"
+                          WIDTH="597"
+                          VPOS="2978"
+                          HPOS="734"
+                          CONTENT="Formerly in the Collection of"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="765,3048 795,3052 825,3056 856,3060 886,3063 917,3066 947,3067 978,3069 1008,3071 1039,3072 1069,3073 1100,3074 1130,3074 1161,3074 1191,3074 1222,3073 1252,3072 1283,3071 1313,3071 1344,3069"
+                         HEIGHT="103"
+                         WIDTH="754"
+                         VPOS="2981"
+                         HPOS="590">
+                  <String ID="string_r1l3"
+                          HEIGHT="103"
+                          WIDTH="754"
+                          VPOS="2981"
+                          HPOS="590"
+                          CONTENT="The Earl of Aberdeen"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1668200611752_582"
+                       HEIGHT="59"
+                       WIDTH="91"
+                       VPOS="3120"
+                       HPOS="1761">
+               <Shape>
+                  <Polygon POINTS="1761,3120 1761,3179 1852,3179 1852,3120"/>
+               </Shape>
+               <TextLine ID="line_1668200611797_585"
+                         BASELINE=""
+                         HEIGHT="59"
+                         WIDTH="91"
+                         VPOS="3120"
+                         HPOS="1761">
+                  <String ID="string_line_1668200611797_585"
+                          HEIGHT="59"
+                          WIDTH="91"
+                          VPOS="3120"
+                          HPOS="1761"
+                          CONTENT="267"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-01T07:54:25.258+01:00</Created>
+        <LastChange>2022-11-11T23:02:46.814+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1211161" pageId="49239367" pageNr="2" tsid="103250660" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=KDRDVELGPLYQGFRZXNKDTWIS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOVUUTEIBFNUIJPYBPGVKXMI" imageId="40227355"/>
+    </Metadata>
+    <Page imageFilename="0002_sup2553_012bis_Grecia2.JPG" imageWidth="2673" imageHeight="822" type="content">
+        <PrintSpace>
+            <Coords points="139,13 2574,25 2574,704 139,692"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864727940" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_108"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="139,13 2562,33 2579,548 156,522"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;} structure {type:heading;} organization {offset:0; length:19;ref:#AK_Museum; type:museum;}">
+                <Coords points="252,131 288,131 325,129 362,129 398,129 435,129 472,129 508,129 545,129 582,129 619,129 655,130 692,131 729,132 765,132 802,134 839,135 875,137 912,138 949,139 986,141 986,51 949,49 912,48 875,47 839,45 802,44 765,42 729,42 692,41 655,40 619,39 582,39 545,39 508,39 472,39 435,39 398,39 362,39 325,39 288,41 252,41"/>
+                <Baseline points="252,101 288,101 325,99 362,99 398,99 435,99 472,99 508,99 545,99 582,99 619,99 655,100 692,101 729,102 765,102 802,104 839,105 875,107 912,108 949,109 986,111"/>
+                <TextEquiv>
+                    <Unicode>Museum of Akropolis. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;} objectName {offset:19; length:22;ref:#NikeApteros_temple;}">
+                <Coords points="249,248 327,251 405,254 484,257 562,259 641,260 719,261 798,263 876,264 955,266 1033,266 1111,267 1190,267 1268,269 1347,269 1425,270 1504,272 1582,273 1661,276 1739,278 1855,298 1860,268 1742,248 1662,246 1583,243 1505,242 1426,240 1347,239 1268,239 1190,237 1111,237 1033,236 955,236 877,234 799,233 720,231 641,230 563,229 485,227 406,224 328,221 250,218"/>
+                <Baseline points="249,248 327,251 405,254 484,257 562,259 641,260 719,261 798,263 876,264 955,266 1033,266 1111,267 1190,267 1268,269 1347,269 1425,270 1504,272 1582,273 1661,276 1739,278 1855,298"/>
+                <TextEquiv>
+                    <Unicode>From balustrade of temple of Nike Apteros. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l3" custom="readingOrder {index:2;} person {offset:0; length:9;ref:#Kavvadias;} date {offset:14; length:17;when:1898;}">
+                <Coords points="164,381 247,383 330,384 414,386 497,387 581,389 664,390 748,392 831,395 915,396 998,398 1081,399 1165,402 1248,404 1332,405 1415,407 1499,410 1582,411 1666,414 1749,417 2531,452 2533,422 1750,387 1667,384 1583,381 1500,380 1416,377 1333,375 1249,374 1166,372 1082,369 999,368 916,366 832,365 749,362 665,360 582,359 498,357 415,356 331,354 248,353 165,351"/>
+                <Baseline points="164,381 247,383 330,384 414,386 497,387 581,389 664,390 748,392 831,395 915,396 998,398 1081,399 1165,402 1248,404 1332,405 1415,407 1499,410 1582,411 1666,414 1749,417 2531,452"/>
+                <TextEquiv>
+                    <Unicode>Kavvadias has just found -1898- the date of the temple; it is of 450 B.C. and </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l4" custom="readingOrder {index:3;} bibl {offset:22; length:16;source:#GazBArts;} abbrev {offset:22; length:4;expansion:Gazette;} abbrev {offset:31; length:2;expansion:Beaux;}">
+                <Coords points="150,502 221,506 293,511 364,514 436,517 507,519 579,521 650,523 722,524 793,526 865,527 936,529 1008,530 1079,532 1151,533 1222,536 1294,538 1365,541 1437,544 1509,548 1509,469 1437,465 1365,462 1294,459 1222,457 1151,454 1079,453 1008,451 936,450 865,448 793,447 722,445 650,444 579,442 507,440 436,438 364,435 293,432 221,427 150,423"/>
+                <Baseline points="150,476 221,480 293,485 364,488 436,491 507,493 579,495 650,497 722,498 793,500 865,501 936,503 1008,504 1079,506 1151,507 1222,510 1294,512 1365,515 1437,518 1509,522"/>
+                <TextEquiv>
+                    <Unicode>built by Kallikrates. Gaz. des B. Arts. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Museum of Akropolis. &#13;
+From balustrade of temple of Nike Apteros. &#13;
+Kavvadias has just found -1898- the date of the temple; it is of 450 B.C. and &#13;
+built by Kallikrates. Gaz. des B. Arts. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_108" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1225,663 157,673 142,522 1210,512"/>
+            <TextLine id="r_1_1l5" custom="readingOrder {index:0;} bibl {offset:0; length:25;source:#Fr_Wolt;}">
+                <Coords points="156,631 199,631 242,630 285,631 328,631 371,633 414,633 457,634 500,636 543,638 587,640 630,642 673,644 716,645 759,647 802,648 845,649 888,649 931,649 975,649 975,564 931,564 888,564 845,564 802,563 759,562 716,560 673,559 630,557 587,555 543,553 500,551 457,549 414,548 371,548 328,546 285,546 242,545 199,546 156,546"/>
+                <Baseline points="156,603 199,603 242,602 285,603 328,603 371,605 414,605 457,606 500,608 543,610 587,612 630,614 673,616 716,617 759,619 802,620 845,621 888,621 931,621 975,621"/>
+                <TextEquiv>
+                    <Unicode>Fr. + Wolt. No. 761 - 804. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fr. + Wolt. No. 761 - 804. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

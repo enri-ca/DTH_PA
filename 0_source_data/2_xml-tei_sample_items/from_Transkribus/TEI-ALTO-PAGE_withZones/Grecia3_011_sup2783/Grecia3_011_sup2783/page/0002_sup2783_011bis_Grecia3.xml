@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=B2022 English Model M4(htr_id=31338)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=B2022 English Model M4(htr_id=31338)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-01T09:20:16.381+01:00</Created>
+        <LastChange>2022-11-13T13:14:11.257+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1211200" pageId="49240445" pageNr="2" tsid="103288812" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=YOERBSDAHNCAAJMUQZIJJMPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CDFNHYUZDPSQKHEWTEGWKWBN" imageId="40228338"/>
+    </Metadata>
+    <Page imageFilename="0002_sup2783_011bis_Grecia3.JPG" imageWidth="2931" imageHeight="936" type="content">
+        <PrintSpace>
+            <Coords points="48,29 2830,29 2830,913 48,913"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864726625" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_4_1"/>
+                <RegionRefIndexed index="2" regionRef="r_10_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="floating" id="r_1_1" custom="readingOrder {index:0;} structure {type:floating;}">
+            <Coords points="48,29 432,29 432,135 48,135"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="33,139 67,136 102,155 164,137 198,160 247,159 318,127 358,152 412,154 410,38 371,47 336,24 299,36 239,25 200,40 188,29 32,31"/>
+                <Baseline points="47,98 72,96 97,96 122,96 147,96 172,96 197,98 222,98 247,98 272,97 297,96 322,96 347,94 372,92 398,87"/>
+                <TextEquiv>
+                    <Unicode>N°. 247. h. C</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>No. 247. 2. C</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="r_4_1" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="753,263 2173,256 2178,430 753,435"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;} place {offset:0; length:6;ref:#Athens;} organization {offset:8; length:14;ref:#National_Museum_Athens; type:museum;}">
+                <Coords points="763,460 2140,424 2107,339 1732,288 1489,340 1299,262 1139,377 889,275 759,318"/>
+                <Baseline points="776,417 1144,416 1184,416 1224,414 1264,413 1304,412 1344,411 1384,408 1424,407 1464,405 1504,403 1544,402 1584,400 1624,398 1664,396 1704,395 1744,394 1784,393 1824,392 1864,392 2125,395"/>
+                <TextEquiv>
+                    <Unicode>Athens. Central Museum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Athens. Ceutal Muscum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_10_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="541,515 2859,507 2859,852 538,874"/>
+            <TextLine id="r_10_1l1" custom="readingOrder {index:0;} objectName {offset:0; length:16;ref:#OA_108561;} place {offset:26; length:5;ref:#Delos;}">
+                <Coords points="563,703 846,622 1044,696 1313,603 2867,591 2700,480 2482,560 560,527"/>
+                <Baseline points="577,631 1304,604 1367,602 1429,600 1492,599 1555,597 1617,597 1680,596 1743,596 1805,596 1868,596 1931,596 1993,596 2056,596 2119,596 2181,594 2244,594 2307,594 2369,594 2432,594 2853,593"/>
+                <TextEquiv>
+                    <Unicode>Fighting warrior found at Delos. An inscription names an Ephelian, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_1l2" custom="readingOrder {index:1;}">
+                <Coords points="552,772 1044,734 1143,818 1268,728 2288,717 2284,632 1871,613 1773,665 550,703"/>
+                <Baseline points="566,750 1292,719 1344,717 1395,716 1447,714 1499,713 1550,711 1602,709 1653,707 1705,705 1757,703 1808,702 1860,699 1911,698 1963,696 2015,695 2066,693 2118,692 2169,692 2221,690 2273,690"/>
+                <TextEquiv>
+                    <Unicode>Agalias, the son of Menophilos, as the sculptor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_1l3" custom="readingOrder {index:2;} rs {offset:0; length:8;ref:#OA_108561; type:object;}">
+                <Coords points="568,900 803,866 1036,925 1261,853 1801,823 1851,858 2001,835 1997,716 1052,822 996,775 781,818 563,770"/>
+                <Baseline points="581,866 1278,848 1315,847 1352,845 1389,843 1427,841 1464,838 1501,836 1538,833 1575,831 1613,829 1650,826 1687,824 1724,822 1761,821 1799,819 1836,818 1873,817 1910,816 1947,816 1985,816"/>
+                <TextEquiv>
+                    <Unicode>The work belongs to the Neo-Attic school.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fifhting warrior found at delds. an inscriptidn names an Ephelian, 
+Agalias, the son of Menophilos, as the Scalpton.
+The word belongs to the heo. Attic Schoot.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

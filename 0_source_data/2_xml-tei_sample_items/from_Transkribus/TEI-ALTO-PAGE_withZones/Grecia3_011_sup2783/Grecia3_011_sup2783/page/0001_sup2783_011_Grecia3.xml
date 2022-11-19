@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-01T09:20:16.216+01:00</Created>
+        <LastChange>2022-11-11T22:50:36.485+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1211200" pageId="49240444" pageNr="1" tsid="103250549" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=AKUMBKGVHVVOAJZTBMPUWCFQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WQCCUNBLGONSHYUVWOIFRJYQ" imageId="40228337"/>
+    </Metadata>
+    <Page imageFilename="0001_sup2783_011_Grecia3.JPG" imageWidth="2571" imageHeight="3189" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864726419" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_10"/>
+                <RegionRefIndexed index="2" regionRef="r_5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <ImageRegion id="Image_1667762602814_1400" custom="readingOrder {index:0;}">
+            <Coords points="123,79 2482,34 2540,3114 183,3144"/>
+        </ImageRegion>
+        <TextRegion type="signature-mark" id="r_10" custom="readingOrder {index:1;} structure {type:signature-mark;}">
+            <Coords points="423,2868 266,2870 266,2756 419,2758"/>
+            <TextLine id="l_19" custom="readingOrder {index:0;} objectName {offset:0; length:2;ref:#negUNK_067;}">
+                <Coords points="304,2844 368,2844 368,2814 304,2814"/>
+                <Baseline points="304,2844 368,2844"/>
+                <TextEquiv>
+                    <Unicode>67 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="other" id="r_5" custom="readingOrder {index:2;} structure {type:other;}">
+            <Coords points="1109,3010 961,2974 956,2887 1107,2934"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="981,2974 1055,2991 1063,2994 1073,2966 1063,2963 988,2945"/>
+                <Baseline points="981,2974 1055,2991 1063,2994"/>
+                <TextEquiv>
+                    <Unicode>128 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Grecia2_040_sup2581</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2262' lry='3051' corresp='0001_sup2581_040_Grecia 2.JPG'>
+			<graphic url='0001_sup2581_040_Grecia 2.JPG' width='2262px' height='3051px'/>
+			<zone points='61,56 2167,41 2197,3001 73,3001' rendition='Image' xml:id='facs_1_Image_1667759161966_271'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='1758' lry='1002' corresp='0002_sup2581_040bis_Grecia 2.JPG'>
+			<graphic url='0002_sup2581_040bis_Grecia 2.JPG' width='1758px' height='1002px'/>
+			<zone points='1713,978 77,978 83,662 1719,662' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_region_1667756440934_92'>
+				<zone points='611,173 637,173 663,173 689,175 715,176 741,178 767,180 793,182 819,183 845,185 871,186 897,187 923,187 949,186 976,184 976,97 949,99 923,100 897,100 871,99 845,98 819,96 793,95 767,93 741,91 715,89 689,88 663,86 637,86 611,86' rendition='Line' subtype='heading' xml:id='facs_2_r1l1'/>
+				<zone points='77,482 131,482 186,483 241,483 296,483 351,483 406,483 461,482 516,482 571,482 626,482 680,482 735,482 790,483 845,484 900,486 955,488 1010,491 1065,495 1120,500 1175,505 1175,418 1120,413 1065,408 1010,404 955,401 900,399 845,397 790,396 735,395 680,395 626,395 571,395 516,395 461,395 406,396 351,396 296,396 241,396 186,396 131,395 77,395' rendition='Line' subtype='heading' xml:id='facs_2_r1l2'/>
+				<zone points='89,604 1722,635 1723,605 90,574' rendition='Line' xml:id='facs_2_l'/>
+			</zone>
+			<zone points='75,44 77,650 1722,650 1720,44' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r1'>
+				<zone points='117,751 189,752 262,753 335,754 408,756 480,758 553,761 626,764 699,767 771,770 844,773 917,776 990,779 1062,782 1135,785 1208,788 1281,791 1353,793 1426,794 1499,796 1572,797 1572,722 1499,721 1426,719 1353,718 1281,716 1208,713 1135,710 1062,707 990,704 917,701 844,698 771,695 699,692 626,689 553,686 480,683 408,681 335,679 262,678 189,677 117,676' rendition='Line' xml:id='facs_2_r1l6'/>
+				<zone points='89,845 134,849 180,853 226,856 271,859 317,861 363,864 408,865 454,867 500,869 546,870 591,872 637,873 683,874 728,875 774,877 820,878 865,880 911,882 957,884 1003,886 1003,811 957,809 911,807 865,805 820,803 774,802 728,800 683,799 637,798 591,797 546,795 500,794 454,792 408,790 363,789 317,786 271,784 226,781 180,778 134,774 89,770' rendition='Line' xml:id='facs_2_r1l7'/>
+				<zone points='106,947 189,945 215,943 241,942 267,941 293,941 319,941 346,942 372,943 398,944 424,945 450,947 476,949 503,951 529,953 555,955 581,956 607,958 633,959 660,960 661,930 634,929 609,928 583,926 557,925 531,923 505,921 478,919 452,917 426,915 399,914 373,913 347,912 320,911 293,911 266,911 240,912 213,913 187,915 106,917' rendition='Line' xml:id='facs_2_r1l8'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup2581_040_Grecia 2.JPG' n='1'/>
+			<pb facs='#facs_2' xml:id='0002_sup2581_040bis_Grecia 2.JPG' n='2'/>
+			<p facs='#facs_2_region_1667756440934_92'>
+				<lb facs='#facs_2_r1l1' n='N001'/><placeName ref='#Olympia'>Olympia</placeName>.
+				<lb facs='#facs_2_r1l2' n='N002'/><objectName ref='#OA_108400'>The Hermes of Praxiteles</objectName>.
+				<lb facs='#facs_2_l' n='N003'/><rs ref='#UND'>They</rs> have lately (<date when='1889'>1889</date>) put legs on <rs ref='#OA_108400' type='object'>him</rs>.
+			</p>
+			<p facs='#facs_2_r1'>
+				<lb facs='#facs_2_r1l6' n='N001'/><rs ref='#OA_108400' type='object'>He</rs> was discovered on the 8.<hi rend='superscript:true;'>th</hi> of May 1877.
+				<lb facs='#facs_2_r1l7' n='N002'/><persName ref='#PA_creator'>I</persName> saw <rs ref='#OA_108400' type='object'>him</rs> in <date when='1887'>1887</date> and <date when='1893'>1893</date>.
+				<lb facs='#facs_2_r1l8' n='N003'/><bibl source='#Fr_Wolt'>Fr. + Wolt.N° 1212</bibl>.
+			</p>
+		</body>
+	</text>
+</TEI>

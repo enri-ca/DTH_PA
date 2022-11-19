@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=B2022 English Model M4(htr_id=31338)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=B2022 English Model M4(htr_id=31338)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-10-22T00:46:45.593+02:00</Created>
+        <LastChange>2022-11-11T21:12:02.106+01:00</LastChange>
+        <TranskribusMetadata docId="1199331" pageId="48699471" pageNr="2" tsid="103249756" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=UDATUZKWBEDPTMNFMDIRAHZY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TEZDKAFKSUBKQWZPZSRTHVJD" imageId="39869360"/>
+    </Metadata>
+    <Page imageFilename="0002_sup2470_106bis_Grecia 1.JPG" imageWidth="2571" imageHeight="2691" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864731463" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1668197098168_64"/>
+                <RegionRefIndexed index="2" regionRef="region_1668197174696_73"/>
+                <RegionRefIndexed index="3" regionRef="region_1668197181827_76"/>
+                <RegionRefIndexed index="4" regionRef="region_1668197187110_79"/>
+                <RegionRefIndexed index="5" regionRef="region_1668197194659_82"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="32,71 27,623 2532,623 2537,71"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} objectName {offset:0; length:22;ref:#OA_108395;} textStyle {offset:38; length:2;superscript:true;}">
+                <Coords points="130,142 473,199 683,137 2386,143 2346,44 1703,92 1471,-4 1348,67 130,47"/>
+                <Baseline points="146,126 257,128 368,128 479,128 590,128 702,129 813,129 924,129 1035,129 1146,129 1258,129 1369,129 1480,129 1591,129 1702,129 1814,129 1925,131 2036,131 2147,131 2258,131 2370,131"/>
+                <TextEquiv>
+                    <Unicode>This is the fine tower built in the 13thcentury by the Frank Dukes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} rs {offset:48; length:1;ref:#PA_creator; type:person;} rs {offset:54; length:2;ref:#OA_108395; type:object;} date {offset:60; length:4;when:1865;}">
+                <Coords points="114,321 699,253 2353,277 2318,172 1153,216 114,139"/>
+                <Baseline points="131,252 241,252 351,251 461,249 572,249 682,249 792,249 903,249 1013,249 1123,249 1234,249 1344,249 1454,251 1564,251 1675,251 1785,251 1895,251 2006,249 2116,249 2226,249 2337,248"/>
+                <TextEquiv>
+                    <Unicode>of Athens on the southern wing of the Propylea. I saw it in 1865.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} date {offset:5; length:14;when:1880;} rs {offset:21; length:2;ref:#OA_108395; type:object;} person {offset:58; length:10;ref:#Schliemann;}">
+                <Coords points="112,423 2539,392 2538,308 2319,278 112,324"/>
+                <Baseline points="128,369 247,369 367,368 487,368 606,368 726,368 846,368 965,368 1085,368 1205,368 1325,368 1444,368 1564,368 1684,368 1803,368 1923,368 2043,366 2162,366 2282,365 2402,364 2522,363"/>
+                <TextEquiv>
+                    <Unicode>Some 15 years after, it was destroyed by Greeck pedantry, Schliemann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:36; length:6;ref:#Stuart;} rs {offset:47; length:2;ref:#OA_108395; type:object;} rs {offset:58; length:2;ref:#OA_108395; type:object;}">
+                <Coords points="102,513 2321,533 2430,437 102,439"/>
+                <Baseline points="117,488 231,489 346,491 461,492 576,492 691,492 806,492 920,492 1035,492 1150,492 1265,492 1380,491 1495,491 1610,491 1724,491 1839,491 1954,491 2069,491 2184,492 2299,492 2414,494"/>
+                <TextEquiv>
+                    <Unicode>assisting with a subscription. When Stuart saw it in 1752 it was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="62,633 241,622 341,680 452,623 733,654 872,606 1064,669 1265,658 1264,553 1094,570 976,525 909,566 506,523 62,590"/>
+                <Baseline points="78,623 136,621 195,620 253,618 312,617 371,617 429,615 488,615 546,615 605,614 664,614 722,614 781,613 839,612 898,612 957,612 1015,611 1074,611 1132,609 1191,609 1250,608"/>
+                <TextEquiv>
+                    <Unicode>used by the Turks as a prison.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>This is the fine tower built in the 13thcentury by the Frank Dukes&#13;
+of Athens on the southern wing of the Propylea. I saw it in 1865.&#13;
+Some 15 years after, it was destroyed by Greeck pedantry, Schliemann&#13;
+assisting with a subscription. When Stuart saw it in 1752 it was&#13;
+used by the Turks as a prison.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1668197098168_64" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="2537,1110 72,1113 72,648 2537,645"/>
+            <TextLine id="r1l6" custom="readingOrder {index:0;}">
+                <Coords points="86,764 2516,794 2516,661 86,684"/>
+                <Baseline points="102,741 228,740 354,740 480,740 607,740 733,740 859,740 985,740 1112,740 1238,741 1364,741 1490,743 1617,743 1743,744 1869,746 1995,747 2122,747 2248,749 2374,750 2501,752"/>
+                <TextEquiv>
+                    <Unicode>It was the keep of the fortified palace of these dukes and is if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+                <Coords points="82,887 2534,910 2534,817 2308,789 82,822"/>
+                <Baseline points="98,866 219,866 340,867 461,867 582,867 703,866 824,866 945,864 1066,863 1187,863 1308,861 1429,861 1550,860 1671,860 1792,860 1913,860 2034,860 2155,861 2276,863 2397,866 2519,869"/>
+                <TextEquiv>
+                    <Unicode>the same age as the tower of Marco Sanudo in the citadel of Naxos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+                <Coords points="80,999 2228,1037 2481,936 1155,873 80,937"/>
+                <Baseline points="95,977 213,977 332,975 450,975 569,975 687,975 806,974 924,974 1043,974 1161,974 1280,974 1399,974 1517,974 1636,974 1754,975 1873,975 1991,975 2110,977 2228,978 2347,978 2466,980"/>
+                <TextEquiv>
+                    <Unicode>and of that of Santonieri (Nicolas de St. Omer) at Phebes say between</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="100,1116 246,1110 353,1144 456,1113 604,1132 606,1046 579,1039 510,1059 474,1024 378,1043 313,1013 241,1052 199,1020 103,1014"/>
+                <Baseline points="116,1086 141,1088 166,1090 191,1092 216,1092 241,1094 266,1095 291,1097 316,1097 341,1098 366,1100 391,1100 416,1100 441,1101 466,1101 491,1101 516,1100 541,1100 566,1098 591,1097"/>
+                <TextEquiv>
+                    <Unicode>1250 and 1300. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>It was the keep of the fortified palace of these dukes and is if&#13;
+the same age as the tower of Marco Sanudo in the citadel of Naxos&#13;
+and of that of Santonieri (Nicolas de St. Omer) at Phebes say between&#13;
+1250 and 1300. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1668197174696_73" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="80,1147 2503,1147 2503,1322 80,1322"/>
+            <TextLine id="r1l10" custom="readingOrder {index:0;}">
+                <Coords points="96,1219 2495,1249 2496,1153 2388,1140 97,1139"/>
+                <Baseline points="113,1196 231,1196 349,1196 468,1194 586,1194 704,1196 823,1196 941,1196 1059,1197 1178,1199 1296,1200 1414,1202 1533,1203 1651,1205 1769,1206 1888,1208 2006,1210 2124,1212 2243,1214 2361,1215 2480,1217"/>
+                <TextEquiv>
+                    <Unicode>It rose to a height of 85 feet above its base, which base was 45 feet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:1;}">
+                <Coords points="92,1298 516,1339 744,1298 843,1347 927,1294 1440,1317 1440,1243 1245,1207 849,1239 747,1193 580,1256 92,1208"/>
+                <Baseline points="107,1290 172,1290 238,1290 304,1289 370,1289 436,1287 502,1287 568,1286 634,1284 700,1284 766,1283 831,1283 897,1283 963,1281 1029,1283 1095,1283 1161,1283 1227,1284 1293,1286 1359,1287 1425,1290"/>
+                <TextEquiv>
+                    <Unicode>below the stylobate of the Parthenon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>It rose to a height of 85 feet above its base, which base was 45 feet&#13;
+below the stylobate of the Parthenon.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1668197181827_76" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="92,1349 2530,1349 2530,1559 92,1559"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;}">
+                <Coords points="89,1432 2367,1458 2528,1435 2529,1361 90,1327"/>
+                <Baseline points="105,1391 225,1392 345,1394 466,1397 586,1398 707,1400 827,1401 948,1403 1068,1404 1189,1406 1309,1407 1429,1409 1550,1409 1670,1410 1791,1412 1911,1413 2032,1414 2152,1415 2273,1416 2393,1418 2514,1419"/>
+                <TextEquiv>
+                    <Unicode>The top of the tower was not so high as the roof of the Parthenon, but </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;}">
+                <Coords points="78,1516 723,1587 2198,1570 2199,1434 78,1466"/>
+                <Baseline points="95,1506 199,1506 303,1508 408,1508 512,1508 617,1509 721,1510 826,1511 930,1512 1035,1514 1139,1515 1243,1517 1348,1518 1452,1518 1557,1520 1661,1521 1766,1522 1870,1523 1975,1523 2079,1523 2184,1523"/>
+                <TextEquiv>
+                    <Unicode>36 feet above the highest point of the Akropolis road. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>The top of the tower was not so high as the roof of the Parthenon, but &#13;
+36 feet above the highest point of the Akropolis road. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1668197187110_79" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="41,1562 2548,1559 2542,2041 35,2044"/>
+            <TextLine id="r1l14" custom="readingOrder {index:0;}">
+                <Coords points="73,1646 2540,1677 2541,1566 74,1584"/>
+                <Baseline points="89,1623 210,1625 332,1628 454,1630 576,1632 698,1634 819,1635 941,1637 1063,1638 1185,1640 1307,1641 1428,1643 1550,1644 1672,1646 1794,1647 1916,1649 2037,1650 2159,1653 2281,1655 2403,1658 2525,1661"/>
+                <TextEquiv>
+                    <Unicode>It was far long; 28 1/2 feet long from East to West and 25 1/2 feet wide </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+                <Coords points="69,1770 2439,1843 2522,1836 2525,1715 71,1665"/>
+                <Baseline points="86,1733 207,1734 328,1734 449,1736 570,1739 691,1740 812,1742 933,1745 1054,1748 1175,1751 1296,1754 1417,1757 1538,1760 1659,1763 1780,1767 1901,1770 2022,1775 2143,1778 2264,1781 2385,1785 2507,1788"/>
+                <TextEquiv>
+                    <Unicode>from North to South. The walls were 5 3/4 ft thick. They consisted of </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:2;}">
+                <Coords points="44,1862 2244,1945 2346,1934 2348,1823 45,1782"/>
+                <Baseline points="59,1857 172,1857 286,1857 399,1857 513,1859 626,1859 740,1860 853,1862 967,1863 1080,1866 1194,1869 1308,1871 1421,1874 1535,1875 1648,1878 1762,1881 1875,1884 1989,1887 2102,1889 2216,1892 2330,1893"/>
+                <TextEquiv>
+                    <Unicode>51 layers of big marble stones from the old monements, each </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:3;}">
+                <Coords points="44,2026 1649,2020 1650,1934 1478,1890 1100,1948 362,1896 228,1940 121,1879 46,1927"/>
+                <Baseline points="59,1979 137,1980 216,1982 295,1983 374,1985 452,1986 531,1988 610,1989 689,1991 767,1992 846,1994 925,1995 1004,1997 1082,1998 1161,2000 1240,2001 1319,2003 1397,2004 1476,2007 1555,2008 1634,2010"/>
+                <TextEquiv>
+                    <Unicode>layer being above 10 inches in thickness. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>It was far long; 28 1/2 feet long from East to West and 25 1/2 feet wide &#13;
+from North to South. The walls were 5 3/4 ft thick. They consisted of &#13;
+51 layers of big marble stones from the old monements, each &#13;
+layer being above 10 inches in thickness. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1668197194659_82" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="32,2052 2545,2052 2545,2576 32,2576"/>
+            <TextLine id="r1l18" custom="readingOrder {index:0;}">
+                <Coords points="34,2131 2344,2217 2537,2197 2540,2079 36,2045"/>
+                <Baseline points="51,2109 174,2115 298,2120 421,2124 545,2129 669,2132 792,2135 916,2137 1039,2139 1163,2141 1287,2144 1410,2145 1534,2148 1657,2151 1781,2153 1905,2157 2028,2160 2152,2165 2275,2171 2399,2176 2523,2183"/>
+                <TextEquiv>
+                    <Unicode>On the towers North face, high up was a square tourelle putting </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:1;}">
+                <Coords points="25,2261 2266,2331 2491,2324 2494,2209 27,2190"/>
+                <Baseline points="42,2240 163,2243 285,2246 407,2250 529,2253 650,2255 772,2258 894,2261 1016,2263 1137,2265 1259,2267 1381,2270 1503,2273 1624,2275 1746,2277 1868,2281 1990,2285 2111,2288 2233,2291 2355,2296 2477,2301"/>
+                <TextEquiv>
+                    <Unicode>out and terminating in a vault and a terrace in which the </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:2;}">
+                <Coords points="16,2381 2120,2464 2494,2445 2497,2349 18,2270"/>
+                <Baseline points="32,2367 154,2372 276,2375 399,2379 521,2382 644,2385 766,2389 888,2393 1011,2396 1133,2399 1256,2401 1378,2404 1500,2406 1623,2409 1745,2411 1868,2414 1990,2417 2112,2418 2235,2421 2357,2423 2480,2424"/>
+                <TextEquiv>
+                    <Unicode>Turks had placed 2 small canons. The entrance was at the </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:3;}">
+                <Coords points="17,2546 2180,2613 2425,2580 2429,2469 21,2416"/>
+                <Baseline points="35,2495 153,2496 272,2496 391,2498 510,2501 629,2502 748,2505 866,2510 985,2513 1104,2517 1223,2522 1342,2525 1461,2529 1580,2534 1698,2537 1817,2541 1936,2544 2055,2547 2174,2550 2293,2552 2412,2553"/>
+                <TextEquiv>
+                    <Unicode>vert facing Nike Anteros; the stairs inside were of wood.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>On the towers North face, high up was a square tourelle putting &#13;
+out and terminating in a vault and a terrace in which the &#13;
+Turks had placed 2 small canons. The entrance was at the &#13;
+vert facing Nike Anteros; the stairs inside were of wood.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

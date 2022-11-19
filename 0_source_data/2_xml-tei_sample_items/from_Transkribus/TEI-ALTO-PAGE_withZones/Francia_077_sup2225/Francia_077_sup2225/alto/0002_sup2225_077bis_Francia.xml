@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:07.326+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1053" WIDTH="2340">
+         <TopMargin HEIGHT="53" WIDTH="2340" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="985" WIDTH="67" VPOS="53" HPOS="0"/>
+         <RightMargin HEIGHT="985" WIDTH="63" VPOS="53" HPOS="2277"/>
+         <BottomMargin HEIGHT="15" WIDTH="2340" VPOS="1038" HPOS="0"/>
+         <PrintSpace HEIGHT="985" WIDTH="2210" VPOS="53" HPOS="67">
+            <TextBlock ID="r_1_1" HEIGHT="124" WIDTH="768" VPOS="53" HPOS="756">
+               <Shape>
+                  <Polygon POINTS="756,53 1521,56 1524,177 756,175"/>
+               </Shape>
+               <TextLine ID="r_1_1l1"
+                         BASELINE="756,161 790,161 825,161 860,161 895,161 929,161 964,161 999,162 1034,162 1068,164 1103,164 1138,165 1173,165 1207,167 1242,167 1277,167 1312,167 1346,167 1381,165 1416,164 1508,165"
+                         HEIGHT="181"
+                         WIDTH="781"
+                         VPOS="41"
+                         HPOS="741">
+                  <String ID="string_r_1_1l1"
+                          HEIGHT="181"
+                          WIDTH="781"
+                          VPOS="41"
+                          HPOS="741"
+                          CONTENT="Musée du Louvre."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_3_1" HEIGHT="703" WIDTH="2210" VPOS="335" HPOS="67">
+               <Shape>
+                  <Polygon POINTS="67,335 2277,335 2277,1038 67,1038"/>
+               </Shape>
+               <TextLine ID="r_3_1l1"
+                         BASELINE="84,398 130,399 176,399 223,400 269,401 315,401 362,399 408,399 454,399 501,398 547,398 593,398 640,397 686,396 732,396 779,398 825,398 871,399 918,401 964,402 1011,405"
+                         HEIGHT="141"
+                         WIDTH="954"
+                         VPOS="320"
+                         HPOS="70">
+                  <String ID="string_r_3_1l1"
+                          HEIGHT="141"
+                          WIDTH="954"
+                          VPOS="320"
+                          HPOS="70"
+                          CONTENT="N.° II. Continuation of Plate I."/>
+               </TextLine>
+               <TextLine ID="r_3_1l2"
+                         BASELINE="105,530 208,530 312,530 416,530 520,530 624,530 728,530 832,530 936,528 1040,528 1144,528 1247,528 1351,528 1455,528 1559,528 1663,527 1767,527 1871,527 1975,527 2079,527 2183,527"
+                         HEIGHT="110"
+                         WIDTH="2106"
+                         VPOS="461"
+                         HPOS="90">
+                  <String ID="string_r_3_1l2"
+                          HEIGHT="110"
+                          WIDTH="2106"
+                          VPOS="461"
+                          HPOS="90"
+                          CONTENT="An officer 51. or priest has received a kanoun, or dish from "/>
+               </TextLine>
+               <TextLine ID="r_3_1l3"
+                         BASELINE="116,636 221,639 326,641 432,641 537,642 643,642 748,642 854,642 959,642 1065,642 1170,642 1275,642 1381,642 1486,642 1592,642 1697,642 1803,644 1908,645 2014,646 2119,648 2225,651"
+                         HEIGHT="94"
+                         WIDTH="2136"
+                         VPOS="569"
+                         HPOS="103">
+                  <String ID="string_r_3_1l3"
+                          HEIGHT="94"
+                          WIDTH="2136"
+                          VPOS="569"
+                          HPOS="103"
+                          CONTENT="two Kanephori who appear in Plate III. The dish has disappeared."/>
+               </TextLine>
+               <TextLine ID="r_3_1l4"
+                         BASELINE="89,750 197,750 305,750 414,752 522,752 630,752 739,753 847,753 955,754 1064,755 1172,756 1280,758 1389,759 1497,761 1605,762 1714,764 1822,767 1930,769 2039,771 2147,775 2256,779"
+                         HEIGHT="123"
+                         WIDTH="2196"
+                         VPOS="692"
+                         HPOS="75">
+                  <String ID="string_r_3_1l4"
+                          HEIGHT="123"
+                          WIDTH="2196"
+                          VPOS="692"
+                          HPOS="75"
+                          CONTENT="or he may be giving them some order. He probably held a herald's staff "/>
+               </TextLine>
+               <TextLine ID="r_3_1l5"
+                         BASELINE="86,860 117,861 148,863 179,864 210,865 241,866 272,866 303,866 334,867 365,867 396,867 427,867 458,867 489,866 520,866 551,866 582,866 613,866 644,866 675,866 707,866"
+                         HEIGHT="120"
+                         WIDTH="649"
+                         VPOS="793"
+                         HPOS="73">
+                  <String ID="string_r_3_1l5"
+                          HEIGHT="120"
+                          WIDTH="649"
+                          VPOS="793"
+                          HPOS="73"
+                          CONTENT="in his right hand."/>
+               </TextLine>
+               <TextLine ID="r_3_1l6"
+                         BASELINE="90,975 189,975 288,975 387,975 487,974 586,974 685,974 785,974 884,972 983,972 1083,972 1182,972 1281,972 1380,972 1480,974 1579,974 1678,975 1778,977 1877,978 1976,981 2126,990"
+                         HEIGHT="156"
+                         WIDTH="2065"
+                         VPOS="874"
+                         HPOS="76">
+                  <String ID="string_r_3_1l6"
+                          HEIGHT="156"
+                          WIDTH="2065"
+                          VPOS="874"
+                          HPOS="76"
+                          CONTENT="The numeration is that of the prieze in the British Museum."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

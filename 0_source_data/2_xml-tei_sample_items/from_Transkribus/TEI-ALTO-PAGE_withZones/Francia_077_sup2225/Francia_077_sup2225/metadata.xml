@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1211183</docId>
+    <title>Francia_077_sup2225</title>
+    <uploadTimestamp>1667288707780</uploadTimestamp>
+    <scriptType>HANDWRITTEN</scriptType>
+    <uploader>enrica.zani@studio.unibo.it</uploader>
+    <uploaderId>117782</uploaderId>
+    <nrOfPages>2</nrOfPages>
+    <pageId>49239840</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=BBADFOICAMLCALJRIJVQZICM</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=BBADFOICAMLCALJRIJVQZICM</thumbUrl>
+    <externalId>http://catalogo.fondazionezeri.unibo.it/entry/photo/182974/</externalId>
+    <authority>NA</authority>
+    <desc>077bis_Francia</desc>
+    <language>English</language>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1211183</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>168494</colId>
+            <colName>PA_untrascribed</colName>
+            <description>created by enrica.zani@studio.unibo.it</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>169853</colId>
+            <colName>PA_overall</colName>
+            <description>created by enrica.zani@studio.unibo.it</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

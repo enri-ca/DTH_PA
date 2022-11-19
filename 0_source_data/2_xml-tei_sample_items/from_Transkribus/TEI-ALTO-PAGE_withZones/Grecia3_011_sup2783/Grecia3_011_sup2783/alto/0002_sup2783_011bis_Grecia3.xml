@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:06.706+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="936" WIDTH="2931">
+         <TopMargin HEIGHT="29" WIDTH="2931" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="884" WIDTH="48" VPOS="29" HPOS="0"/>
+         <RightMargin HEIGHT="884" WIDTH="101" VPOS="29" HPOS="2830"/>
+         <BottomMargin HEIGHT="23" WIDTH="2931" VPOS="913" HPOS="0"/>
+         <PrintSpace HEIGHT="884" WIDTH="2782" VPOS="29" HPOS="48">
+            <TextBlock ID="r_1_1" HEIGHT="106" WIDTH="384" VPOS="29" HPOS="48">
+               <Shape>
+                  <Polygon POINTS="48,29 432,29 432,135 48,135"/>
+               </Shape>
+               <TextLine ID="r_1_1l1"
+                         BASELINE="47,98 72,96 97,96 122,96 147,96 172,96 197,98 222,98 247,98 272,97 297,96 322,96 347,94 372,92 398,87"
+                         HEIGHT="136"
+                         WIDTH="380"
+                         VPOS="24"
+                         HPOS="32">
+                  <String ID="string_r_1_1l1"
+                          HEIGHT="136"
+                          WIDTH="380"
+                          VPOS="24"
+                          HPOS="32"
+                          CONTENT="N°. 247. h. C"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_4_1" HEIGHT="179" WIDTH="1425" VPOS="256" HPOS="753">
+               <Shape>
+                  <Polygon POINTS="753,263 2173,256 2178,430 753,435"/>
+               </Shape>
+               <TextLine ID="r_4_1l1"
+                         BASELINE="776,417 1144,416 1184,416 1224,414 1264,413 1304,412 1344,411 1384,408 1424,407 1464,405 1504,403 1544,402 1584,400 1624,398 1664,396 1704,395 1744,394 1784,393 1824,392 1864,392 2125,395"
+                         HEIGHT="198"
+                         WIDTH="1381"
+                         VPOS="262"
+                         HPOS="759">
+                  <String ID="string_r_4_1l1"
+                          HEIGHT="198"
+                          WIDTH="1381"
+                          VPOS="262"
+                          HPOS="759"
+                          CONTENT="Athens. Central Museum"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_10_1" HEIGHT="367" WIDTH="2321" VPOS="507" HPOS="538">
+               <Shape>
+                  <Polygon POINTS="541,515 2859,507 2859,852 538,874"/>
+               </Shape>
+               <TextLine ID="r_10_1l1"
+                         BASELINE="577,631 1304,604 1367,602 1429,600 1492,599 1555,597 1617,597 1680,596 1743,596 1805,596 1868,596 1931,596 1993,596 2056,596 2119,596 2181,594 2244,594 2307,594 2369,594 2432,594 2853,593"
+                         HEIGHT="223"
+                         WIDTH="2307"
+                         VPOS="480"
+                         HPOS="560">
+                  <String ID="string_r_10_1l1"
+                          HEIGHT="223"
+                          WIDTH="2307"
+                          VPOS="480"
+                          HPOS="560"
+                          CONTENT="Fighting warrior found at Delos. An inscription names an Ephelian, "/>
+               </TextLine>
+               <TextLine ID="r_10_1l2"
+                         BASELINE="566,750 1292,719 1344,717 1395,716 1447,714 1499,713 1550,711 1602,709 1653,707 1705,705 1757,703 1808,702 1860,699 1911,698 1963,696 2015,695 2066,693 2118,692 2169,692 2221,690 2273,690"
+                         HEIGHT="205"
+                         WIDTH="1738"
+                         VPOS="613"
+                         HPOS="550">
+                  <String ID="string_r_10_1l2"
+                          HEIGHT="205"
+                          WIDTH="1738"
+                          VPOS="613"
+                          HPOS="550"
+                          CONTENT="Agalias, the son of Menophilos, as the sculptor."/>
+               </TextLine>
+               <TextLine ID="r_10_1l3"
+                         BASELINE="581,866 1278,848 1315,847 1352,845 1389,843 1427,841 1464,838 1501,836 1538,833 1575,831 1613,829 1650,826 1687,824 1724,822 1761,821 1799,819 1836,818 1873,817 1910,816 1947,816 1985,816"
+                         HEIGHT="209"
+                         WIDTH="1438"
+                         VPOS="716"
+                         HPOS="563">
+                  <String ID="string_r_10_1l3"
+                          HEIGHT="209"
+                          WIDTH="1438"
+                          VPOS="716"
+                          HPOS="563"
+                          CONTENT="The work belongs to the Neo-Attic school."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

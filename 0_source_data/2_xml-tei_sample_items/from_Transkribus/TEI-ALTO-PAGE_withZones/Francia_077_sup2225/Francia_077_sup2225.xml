@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Francia_077_sup2225</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: enrica.zani@studio.unibo.it</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2451' lry='3138' corresp='0001_sup2225_077_Francia.JPG'>
+			<graphic url='0001_sup2225_077_Francia.JPG' width='2451px' height='3138px'/>
+			<zone points='64,32 2397,32 2397,3119 64,3119' rendition='printspace'/>
+			<zone points='64,32 2397,32 2397,3119 64,3119' rendition='Image' xml:id='facs_1_Image_1667763503056_1467'/>
+			<zone points='2388,2987 99,3011 101,2882 2386,2881' rendition='TextRegion' subtype='signature-mark' xml:id='facs_1_r_40'>
+				<zone points='1927,2956 2213,2942 2211,2912 1926,2926' rendition='Line' xml:id='facs_1_l_86'/>
+			</zone>
+			<zone points='2385,2992 95,3015 90,3099 2376,3076' rendition='TextRegion' subtype='caption' xml:id='facs_1_r_34'>
+				<zone points='158,3076 266,3077 267,3047 158,3046' rendition='Line' subtype='signature-mark' xml:id='facs_1_l_78'/>
+				<zone points='348,3077 1663,3065 1663,3035 348,3047' rendition='Line' subtype='header' xml:id='facs_1_l_82'/>
+				<zone points='2113,3054 2346,3054 2346,3024 2113,3024' rendition='Line' subtype='credit' xml:id='facs_1_l_74'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2340' lry='1053' corresp='0002_sup2225_077bis_Francia.JPG'>
+			<graphic url='0002_sup2225_077bis_Francia.JPG' width='2340px' height='1053px'/>
+			<zone points='67,53 2277,53 2277,1038 67,1038' rendition='printspace'/>
+			<zone points='756,53 1521,56 1524,177 756,175' rendition='TextRegion' subtype='heading' xml:id='facs_2_r_1_1'>
+				<zone points='741,177 898,222 1104,177 1521,197 1522,75 1347,41 1284,46 1178,134 1040,52 945,97 742,93' rendition='Line' xml:id='facs_2_r_1_1l1'/>
+			</zone>
+			<zone points='67,335 2277,335 2277,1038 67,1038' rendition='TextRegion' subtype='paragraph' xml:id='facs_2_r_3_1'>
+				<zone points='70,412 461,409 593,461 932,407 1024,448 1024,342 902,320 339,328 227,358 171,323 70,336' rendition='Line' subtype='heading' xml:id='facs_2_r_3_1l1'/>
+				<zone points='91,558 1993,571 2196,478 90,461' rendition='Line' xml:id='facs_2_r_3_1l2'/>
+				<zone points='103,662 2239,663 2239,585 1987,573 104,569' rendition='Line' xml:id='facs_2_r_3_1l3'/>
+				<zone points='75,771 2177,815 2270,784 2271,692 75,716' rendition='Line' xml:id='facs_2_r_3_1l4'/>
+				<zone points='73,900 193,876 366,913 464,867 689,898 721,893 722,809 619,841 529,797 467,818 413,802 350,831 220,793 161,827 74,827' rendition='Line' xml:id='facs_2_r_3_1l5'/>
+				<zone points='76,992 1953,1030 2141,998 2141,920 1442,874 76,927' rendition='Line' xml:id='facs_2_r_3_1l6'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' xml:id='0001_sup2225_077_Francia.JPG' n='1'/>
+			<p facs='#facs_1_r_40'>
+				<lb facs='#facs_1_l_86' n='N001'/><orgName ref='#Giraudon' type='photographer'>A. GIRAUDON</orgName> 
+			</p>
+			<p facs='#facs_1_r_34'>
+				<lb facs='#facs_1_l_78' n='N001'/><objectName ref='#negGiraudon_1452'>1452</objectName> 
+				<lb facs='#facs_1_l_82' n='N002'/>Art Gréque - <objectName ref='#OA_108820'>Frise provenant du Parthénon. dètail</objectName> (<orgName ref='#Louvre' type='museum'>Louvre</orgName>)
+				<lb facs='#facs_1_l_74' n='N003'/><orgName ref='#Giraudon' type='photographer'>A. G. phot.</orgName> 
+			</p>
+			<pb facs='#facs_2' xml:id='0002_sup2225_077bis_Francia.JPG' n='2'/>
+			<p facs='#facs_2_r_1_1'>
+				<lb facs='#facs_2_r_1_1l1' n='N001'/><orgName ref='#Louvre' type='museum'>Musée du Louvre</orgName>.
+			</p>
+			<p facs='#facs_2_r_3_1'>
+				<lb facs='#facs_2_r_3_1l1' n='N001'/><objectName ref='#PlateI'>N.° II. Continuation of Plate I.</objectName>
+				<lb facs='#facs_2_r_3_1l2' n='N002'/>An officer <hi rend='superscript:true;'>51.</hi> or priest has received a kanoun, or dish from 
+				<lb facs='#facs_2_r_3_1l3' n='N003'/>two Kanephori who appear in <objectName ref='#PlateI'>Plate III</objectName>. The dish has disappeared.
+				<lb facs='#facs_2_r_3_1l4' n='N004'/>or he may be giving them some order. He probably held a herald&apos;s staff 
+				<lb facs='#facs_2_r_3_1l5' n='N005'/>in his right hand.
+				<lb facs='#facs_2_r_3_1l6' n='N006'/>The numeration is that of the <unclear>prieze</unclear> in the <orgName ref='#Br_museum' type='museum'>British Museum</orgName>.
+			</p>
+		</body>
+	</text>
+</TEI>

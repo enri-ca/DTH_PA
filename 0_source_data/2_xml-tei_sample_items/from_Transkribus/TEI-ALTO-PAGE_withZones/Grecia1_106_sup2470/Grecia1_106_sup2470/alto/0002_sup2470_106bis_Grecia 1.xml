@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:11.53+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2691" WIDTH="2571">
+         <TopMargin HEIGHT="0" WIDTH="2571" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2691" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2691" WIDTH="0" VPOS="0" HPOS="2571"/>
+         <BottomMargin HEIGHT="0" WIDTH="2571" VPOS="2691" HPOS="0"/>
+         <PrintSpace HEIGHT="2691" WIDTH="2571" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="552" WIDTH="2510" VPOS="71" HPOS="27">
+               <Shape>
+                  <Polygon POINTS="32,71 27,623 2532,623 2537,71"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="146,126 257,128 368,128 479,128 590,128 702,129 813,129 924,129 1035,129 1146,129 1258,129 1369,129 1480,129 1591,129 1702,129 1814,129 1925,131 2036,131 2147,131 2258,131 2370,131"
+                         HEIGHT="199"
+                         WIDTH="2256"
+                         VPOS="0"
+                         HPOS="130">
+                  <String ID="string_r1l1"
+                          HEIGHT="199"
+                          WIDTH="2256"
+                          VPOS="0"
+                          HPOS="130"
+                          CONTENT="This is the fine tower built in the 13thcentury by the Frank Dukes"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="131,252 241,252 351,251 461,249 572,249 682,249 792,249 903,249 1013,249 1123,249 1234,249 1344,249 1454,251 1564,251 1675,251 1785,251 1895,251 2006,249 2116,249 2226,249 2337,248"
+                         HEIGHT="182"
+                         WIDTH="2239"
+                         VPOS="139"
+                         HPOS="114">
+                  <String ID="string_r1l2"
+                          HEIGHT="182"
+                          WIDTH="2239"
+                          VPOS="139"
+                          HPOS="114"
+                          CONTENT="of Athens on the southern wing of the Propylea. I saw it in 1865."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="128,369 247,369 367,368 487,368 606,368 726,368 846,368 965,368 1085,368 1205,368 1325,368 1444,368 1564,368 1684,368 1803,368 1923,368 2043,366 2162,366 2282,365 2402,364 2522,363"
+                         HEIGHT="145"
+                         WIDTH="2427"
+                         VPOS="278"
+                         HPOS="112">
+                  <String ID="string_r1l3"
+                          HEIGHT="145"
+                          WIDTH="2427"
+                          VPOS="278"
+                          HPOS="112"
+                          CONTENT="Some 15 years after, it was destroyed by Greeck pedantry, Schliemann"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="117,488 231,489 346,491 461,492 576,492 691,492 806,492 920,492 1035,492 1150,492 1265,492 1380,491 1495,491 1610,491 1724,491 1839,491 1954,491 2069,491 2184,492 2299,492 2414,494"
+                         HEIGHT="96"
+                         WIDTH="2328"
+                         VPOS="437"
+                         HPOS="102">
+                  <String ID="string_r1l4"
+                          HEIGHT="96"
+                          WIDTH="2328"
+                          VPOS="437"
+                          HPOS="102"
+                          CONTENT="assisting with a subscription. When Stuart saw it in 1752 it was"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="78,623 136,621 195,620 253,618 312,617 371,617 429,615 488,615 546,615 605,614 664,614 722,614 781,613 839,612 898,612 957,612 1015,611 1074,611 1132,609 1191,609 1250,608"
+                         HEIGHT="157"
+                         WIDTH="1203"
+                         VPOS="523"
+                         HPOS="62">
+                  <String ID="string_r1l5"
+                          HEIGHT="157"
+                          WIDTH="1203"
+                          VPOS="523"
+                          HPOS="62"
+                          CONTENT="used by the Turks as a prison."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1668197098168_64"
+                       HEIGHT="468"
+                       WIDTH="2465"
+                       VPOS="645"
+                       HPOS="72">
+               <Shape>
+                  <Polygon POINTS="2537,1110 72,1113 72,648 2537,645"/>
+               </Shape>
+               <TextLine ID="r1l6"
+                         BASELINE="102,741 228,740 354,740 480,740 607,740 733,740 859,740 985,740 1112,740 1238,741 1364,741 1490,743 1617,743 1743,744 1869,746 1995,747 2122,747 2248,749 2374,750 2501,752"
+                         HEIGHT="133"
+                         WIDTH="2430"
+                         VPOS="661"
+                         HPOS="86">
+                  <String ID="string_r1l6"
+                          HEIGHT="133"
+                          WIDTH="2430"
+                          VPOS="661"
+                          HPOS="86"
+                          CONTENT="It was the keep of the fortified palace of these dukes and is if"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="98,866 219,866 340,867 461,867 582,867 703,866 824,866 945,864 1066,863 1187,863 1308,861 1429,861 1550,860 1671,860 1792,860 1913,860 2034,860 2155,861 2276,863 2397,866 2519,869"
+                         HEIGHT="121"
+                         WIDTH="2452"
+                         VPOS="789"
+                         HPOS="82">
+                  <String ID="string_r1l7"
+                          HEIGHT="121"
+                          WIDTH="2452"
+                          VPOS="789"
+                          HPOS="82"
+                          CONTENT="the same age as the tower of Marco Sanudo in the citadel of Naxos"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="95,977 213,977 332,975 450,975 569,975 687,975 806,974 924,974 1043,974 1161,974 1280,974 1399,974 1517,974 1636,974 1754,975 1873,975 1991,975 2110,977 2228,978 2347,978 2466,980"
+                         HEIGHT="164"
+                         WIDTH="2401"
+                         VPOS="873"
+                         HPOS="80">
+                  <String ID="string_r1l8"
+                          HEIGHT="164"
+                          WIDTH="2401"
+                          VPOS="873"
+                          HPOS="80"
+                          CONTENT="and of that of Santonieri (Nicolas de St. Omer) at Phebes say between"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="116,1086 141,1088 166,1090 191,1092 216,1092 241,1094 266,1095 291,1097 316,1097 341,1098 366,1100 391,1100 416,1100 441,1101 466,1101 491,1101 516,1100 541,1100 566,1098 591,1097"
+                         HEIGHT="131"
+                         WIDTH="506"
+                         VPOS="1013"
+                         HPOS="100">
+                  <String ID="string_r1l9"
+                          HEIGHT="131"
+                          WIDTH="506"
+                          VPOS="1013"
+                          HPOS="100"
+                          CONTENT="1250 and 1300. "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1668197174696_73"
+                       HEIGHT="175"
+                       WIDTH="2423"
+                       VPOS="1147"
+                       HPOS="80">
+               <Shape>
+                  <Polygon POINTS="80,1147 2503,1147 2503,1322 80,1322"/>
+               </Shape>
+               <TextLine ID="r1l10"
+                         BASELINE="113,1196 231,1196 349,1196 468,1194 586,1194 704,1196 823,1196 941,1196 1059,1197 1178,1199 1296,1200 1414,1202 1533,1203 1651,1205 1769,1206 1888,1208 2006,1210 2124,1212 2243,1214 2361,1215 2480,1217"
+                         HEIGHT="110"
+                         WIDTH="2400"
+                         VPOS="1139"
+                         HPOS="96">
+                  <String ID="string_r1l10"
+                          HEIGHT="110"
+                          WIDTH="2400"
+                          VPOS="1139"
+                          HPOS="96"
+                          CONTENT="It rose to a height of 85 feet above its base, which base was 45 feet"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="107,1290 172,1290 238,1290 304,1289 370,1289 436,1287 502,1287 568,1286 634,1284 700,1284 766,1283 831,1283 897,1283 963,1281 1029,1283 1095,1283 1161,1283 1227,1284 1293,1286 1359,1287 1425,1290"
+                         HEIGHT="154"
+                         WIDTH="1348"
+                         VPOS="1193"
+                         HPOS="92">
+                  <String ID="string_r1l11"
+                          HEIGHT="154"
+                          WIDTH="1348"
+                          VPOS="1193"
+                          HPOS="92"
+                          CONTENT="below the stylobate of the Parthenon."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1668197181827_76"
+                       HEIGHT="210"
+                       WIDTH="2438"
+                       VPOS="1349"
+                       HPOS="92">
+               <Shape>
+                  <Polygon POINTS="92,1349 2530,1349 2530,1559 92,1559"/>
+               </Shape>
+               <TextLine ID="r1l12"
+                         BASELINE="105,1391 225,1392 345,1394 466,1397 586,1398 707,1400 827,1401 948,1403 1068,1404 1189,1406 1309,1407 1429,1409 1550,1409 1670,1410 1791,1412 1911,1413 2032,1414 2152,1415 2273,1416 2393,1418 2514,1419"
+                         HEIGHT="131"
+                         WIDTH="2440"
+                         VPOS="1327"
+                         HPOS="89">
+                  <String ID="string_r1l12"
+                          HEIGHT="131"
+                          WIDTH="2440"
+                          VPOS="1327"
+                          HPOS="89"
+                          CONTENT="The top of the tower was not so high as the roof of the Parthenon, but "/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="95,1506 199,1506 303,1508 408,1508 512,1508 617,1509 721,1510 826,1511 930,1512 1035,1514 1139,1515 1243,1517 1348,1518 1452,1518 1557,1520 1661,1521 1766,1522 1870,1523 1975,1523 2079,1523 2184,1523"
+                         HEIGHT="153"
+                         WIDTH="2121"
+                         VPOS="1434"
+                         HPOS="78">
+                  <String ID="string_r1l13"
+                          HEIGHT="153"
+                          WIDTH="2121"
+                          VPOS="1434"
+                          HPOS="78"
+                          CONTENT="36 feet above the highest point of the Akropolis road. "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1668197187110_79"
+                       HEIGHT="485"
+                       WIDTH="2513"
+                       VPOS="1559"
+                       HPOS="35">
+               <Shape>
+                  <Polygon POINTS="41,1562 2548,1559 2542,2041 35,2044"/>
+               </Shape>
+               <TextLine ID="r1l14"
+                         BASELINE="89,1623 210,1625 332,1628 454,1630 576,1632 698,1634 819,1635 941,1637 1063,1638 1185,1640 1307,1641 1428,1643 1550,1644 1672,1646 1794,1647 1916,1649 2037,1650 2159,1653 2281,1655 2403,1658 2525,1661"
+                         HEIGHT="111"
+                         WIDTH="2468"
+                         VPOS="1566"
+                         HPOS="73">
+                  <String ID="string_r1l14"
+                          HEIGHT="111"
+                          WIDTH="2468"
+                          VPOS="1566"
+                          HPOS="73"
+                          CONTENT="It was far long; 28 1/2 feet long from East to West and 25 1/2 feet wide "/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="86,1733 207,1734 328,1734 449,1736 570,1739 691,1740 812,1742 933,1745 1054,1748 1175,1751 1296,1754 1417,1757 1538,1760 1659,1763 1780,1767 1901,1770 2022,1775 2143,1778 2264,1781 2385,1785 2507,1788"
+                         HEIGHT="178"
+                         WIDTH="2456"
+                         VPOS="1665"
+                         HPOS="69">
+                  <String ID="string_r1l15"
+                          HEIGHT="178"
+                          WIDTH="2456"
+                          VPOS="1665"
+                          HPOS="69"
+                          CONTENT="from North to South. The walls were 5 3/4 ft thick. They consisted of "/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="59,1857 172,1857 286,1857 399,1857 513,1859 626,1859 740,1860 853,1862 967,1863 1080,1866 1194,1869 1308,1871 1421,1874 1535,1875 1648,1878 1762,1881 1875,1884 1989,1887 2102,1889 2216,1892 2330,1893"
+                         HEIGHT="163"
+                         WIDTH="2304"
+                         VPOS="1782"
+                         HPOS="44">
+                  <String ID="string_r1l16"
+                          HEIGHT="163"
+                          WIDTH="2304"
+                          VPOS="1782"
+                          HPOS="44"
+                          CONTENT="51 layers of big marble stones from the old monements, each "/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="59,1979 137,1980 216,1982 295,1983 374,1985 452,1986 531,1988 610,1989 689,1991 767,1992 846,1994 925,1995 1004,1997 1082,1998 1161,2000 1240,2001 1319,2003 1397,2004 1476,2007 1555,2008 1634,2010"
+                         HEIGHT="147"
+                         WIDTH="1606"
+                         VPOS="1879"
+                         HPOS="44">
+                  <String ID="string_r1l17"
+                          HEIGHT="147"
+                          WIDTH="1606"
+                          VPOS="1879"
+                          HPOS="44"
+                          CONTENT="layer being above 10 inches in thickness. "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1668197194659_82"
+                       HEIGHT="524"
+                       WIDTH="2513"
+                       VPOS="2052"
+                       HPOS="32">
+               <Shape>
+                  <Polygon POINTS="32,2052 2545,2052 2545,2576 32,2576"/>
+               </Shape>
+               <TextLine ID="r1l18"
+                         BASELINE="51,2109 174,2115 298,2120 421,2124 545,2129 669,2132 792,2135 916,2137 1039,2139 1163,2141 1287,2144 1410,2145 1534,2148 1657,2151 1781,2153 1905,2157 2028,2160 2152,2165 2275,2171 2399,2176 2523,2183"
+                         HEIGHT="172"
+                         WIDTH="2506"
+                         VPOS="2045"
+                         HPOS="34">
+                  <String ID="string_r1l18"
+                          HEIGHT="172"
+                          WIDTH="2506"
+                          VPOS="2045"
+                          HPOS="34"
+                          CONTENT="On the towers North face, high up was a square tourelle putting "/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="42,2240 163,2243 285,2246 407,2250 529,2253 650,2255 772,2258 894,2261 1016,2263 1137,2265 1259,2267 1381,2270 1503,2273 1624,2275 1746,2277 1868,2281 1990,2285 2111,2288 2233,2291 2355,2296 2477,2301"
+                         HEIGHT="141"
+                         WIDTH="2469"
+                         VPOS="2190"
+                         HPOS="25">
+                  <String ID="string_r1l19"
+                          HEIGHT="141"
+                          WIDTH="2469"
+                          VPOS="2190"
+                          HPOS="25"
+                          CONTENT="out and terminating in a vault and a terrace in which the "/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="32,2367 154,2372 276,2375 399,2379 521,2382 644,2385 766,2389 888,2393 1011,2396 1133,2399 1256,2401 1378,2404 1500,2406 1623,2409 1745,2411 1868,2414 1990,2417 2112,2418 2235,2421 2357,2423 2480,2424"
+                         HEIGHT="194"
+                         WIDTH="2481"
+                         VPOS="2270"
+                         HPOS="16">
+                  <String ID="string_r1l20"
+                          HEIGHT="194"
+                          WIDTH="2481"
+                          VPOS="2270"
+                          HPOS="16"
+                          CONTENT="Turks had placed 2 small canons. The entrance was at the "/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="35,2495 153,2496 272,2496 391,2498 510,2501 629,2502 748,2505 866,2510 985,2513 1104,2517 1223,2522 1342,2525 1461,2529 1580,2534 1698,2537 1817,2541 1936,2544 2055,2547 2174,2550 2293,2552 2412,2553"
+                         HEIGHT="197"
+                         WIDTH="2412"
+                         VPOS="2416"
+                         HPOS="17">
+                  <String ID="string_r1l21"
+                          HEIGHT="197"
+                          WIDTH="2412"
+                          VPOS="2416"
+                          HPOS="17"
+                          CONTENT="vert facing Nike Anteros; the stairs inside were of wood."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

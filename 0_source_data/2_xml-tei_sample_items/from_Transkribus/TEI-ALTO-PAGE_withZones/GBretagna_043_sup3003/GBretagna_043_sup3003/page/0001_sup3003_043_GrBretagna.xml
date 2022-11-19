@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-06T22:03:59.899+01:00</Created>
+        <LastChange>2022-11-11T22:04:56.643+01:00</LastChange>
+        <TranskribusMetadata docId="1215962" pageId="49380053" pageNr="1" tsid="103250301" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=USZXIWKMMXQISAKZCJUQWVAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICQAUNHWOXHJQRUXCBOZDAAZ" imageId="40332288"/>
+    </Metadata>
+    <Page imageFilename="0001_sup3003_043_GrBretagna.JPG" imageWidth="2229" imageHeight="3387" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864722560" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1668200611752_582"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="other" id="r1" custom="readingOrder {index:0;} structure {type:other;}">
+            <Coords points="568,2822 568,3084 1444,3084 1444,2822"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} structure {type:header;} objectName {offset:0; length:6;ref:#OA_108716;}">
+                <Coords points="678,2905 706,2913 734,2918 763,2923 791,2928 820,2930 848,2933 877,2935 905,2936 934,2938 962,2938 990,2938 1019,2939 1047,2939 1076,2939 1104,2939 1133,2941 1161,2942 1190,2944 1218,2946 1273,2939 1268,2849 1187,2854 1159,2854 1144,2853 1125,2854 1096,2852 1074,2854 1045,2854 1016,2855 987,2854 961,2855 933,2855 903,2852 873,2851 844,2849 797,2843 767,2835 750,2832 711,2825 679,2825 678,2862"/>
+                <Baseline points="678,2891 706,2899 734,2904 763,2909 791,2914 820,2916 848,2919 877,2921 905,2922 934,2924 962,2924 990,2924 1019,2925 1047,2925 1076,2925 1104,2925 1133,2927 1161,2928 1190,2930 1218,2932 1247,2934"/>
+                <TextEquiv>
+                    <Unicode>HERMES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} organization {offset:16; length:13; continued:true;ref:#Aberdeen_coll; type:collection;}">
+                <Coords points="734,3009 763,3013 793,3018 823,3020 853,3024 883,3027 913,3028 942,3030 972,3031 1002,3033 1032,3033 1062,3034 1092,3034 1122,3034 1151,3033 1181,3033 1211,3032 1241,3031 1271,3031 1301,3030 1331,3028 1331,2997 1301,2999 1271,3000 1241,3000 1211,3001 1181,3002 1151,3002 1122,3003 1092,3003 1062,3003 1032,3002 1002,3002 972,3000 942,2999 913,2997 883,2996 853,2993 823,2989 793,2987 763,2982 734,2978"/>
+                <Baseline points="630,2964 763,3003 793,3008 823,3010 853,3014 883,3017 913,3018 942,3020 972,3021 1002,3023 1032,3023 1062,3024 1092,3024 1122,3024 1151,3023 1181,3023 1211,3022 1241,3021 1271,3021 1301,3020 1429,3015"/>
+                <TextEquiv>
+                    <Unicode>Formerly in the Collection of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} organization {offset:0; length:20; continued:true;ref:#Aberdeen_coll; type:collection;}">
+                <Coords points="590,3013 795,3062 825,3066 856,3070 886,3073 917,3076 947,3077 978,3079 1008,3081 1039,3082 1069,3083 1100,3084 1130,3084 1161,3084 1191,3084 1222,3083 1252,3082 1283,3081 1313,3081 1344,3079 1344,3048 1313,3050 1283,3050 1252,3051 1222,3052 1191,3053 1161,3053 1130,3053 1100,3053 1069,3052 1039,3051 1008,3050 978,3048 947,3046 917,3045 886,3042 856,3039 825,3035 795,3031 616,2981"/>
+                <Baseline points="765,3048 795,3052 825,3056 856,3060 886,3063 917,3066 947,3067 978,3069 1008,3071 1039,3072 1069,3073 1100,3074 1130,3074 1161,3074 1191,3074 1222,3073 1252,3072 1283,3071 1313,3071 1344,3069"/>
+                <TextEquiv>
+                    <Unicode>The Earl of Aberdeen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>HERMES&#13;
+Formerly in the Collection of&#13;
+The Earl of Aberdeen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="signature-mark" id="region_1668200611752_582" custom="readingOrder {index:1;} structure {type:signature-mark;}">
+            <Coords points="1761,3120 1761,3179 1852,3179 1852,3120"/>
+            <TextLine id="line_1668200611797_585" custom="readingOrder {index:0;} objectName {offset:0; length:3;ref:#negUNK_267;}">
+                <Coords points="1852,3179 1761,3179 1761,3120 1852,3120"/>
+                <TextEquiv>
+                    <Unicode>267</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>267</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

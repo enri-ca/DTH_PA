@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:07.129+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3138" WIDTH="2451">
+         <TopMargin HEIGHT="32" WIDTH="2451" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3087" WIDTH="64" VPOS="32" HPOS="0"/>
+         <RightMargin HEIGHT="3087" WIDTH="54" VPOS="32" HPOS="2397"/>
+         <BottomMargin HEIGHT="19" WIDTH="2451" VPOS="3119" HPOS="0"/>
+         <PrintSpace HEIGHT="3087" WIDTH="2333" VPOS="32" HPOS="64">
+            <TextBlock ID="r_40" HEIGHT="130" WIDTH="2289" VPOS="2881" HPOS="99">
+               <Shape>
+                  <Polygon POINTS="2388,2987 99,3011 101,2882 2386,2881"/>
+               </Shape>
+               <TextLine ID="l_86"
+                         BASELINE="1927,2956 2213,2942"
+                         HEIGHT="44"
+                         WIDTH="287"
+                         VPOS="2912"
+                         HPOS="1926">
+                  <String ID="string_l_86"
+                          HEIGHT="44"
+                          WIDTH="287"
+                          VPOS="2912"
+                          HPOS="1926"
+                          CONTENT="A. GIRAUDON "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_34" HEIGHT="107" WIDTH="2295" VPOS="2992" HPOS="90">
+               <Shape>
+                  <Polygon POINTS="2385,2992 95,3015 90,3099 2376,3076"/>
+               </Shape>
+               <TextLine ID="l_78"
+                         BASELINE="158,3076 266,3077"
+                         HEIGHT="31"
+                         WIDTH="109"
+                         VPOS="3046"
+                         HPOS="158">
+                  <String ID="string_l_78"
+                          HEIGHT="31"
+                          WIDTH="109"
+                          VPOS="3046"
+                          HPOS="158"
+                          CONTENT="1452 "/>
+               </TextLine>
+               <TextLine ID="l_82"
+                         BASELINE="348,3077 1663,3065"
+                         HEIGHT="42"
+                         WIDTH="1315"
+                         VPOS="3035"
+                         HPOS="348">
+                  <String ID="string_l_82"
+                          HEIGHT="42"
+                          WIDTH="1315"
+                          VPOS="3035"
+                          HPOS="348"
+                          CONTENT="Art Gréque - Frise provenant du Parthénon. dètail (Louvre)"/>
+               </TextLine>
+               <TextLine ID="l_74"
+                         BASELINE="2113,3054 2346,3054"
+                         HEIGHT="30"
+                         WIDTH="233"
+                         VPOS="3024"
+                         HPOS="2113">
+                  <String ID="string_l_74"
+                          HEIGHT="30"
+                          WIDTH="233"
+                          VPOS="3024"
+                          HPOS="2113"
+                          CONTENT="A. G. phot. "/>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="Image_1667763503056_1467"
+                          HEIGHT="3087"
+                          WIDTH="2333"
+                          VPOS="32"
+                          HPOS="64"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

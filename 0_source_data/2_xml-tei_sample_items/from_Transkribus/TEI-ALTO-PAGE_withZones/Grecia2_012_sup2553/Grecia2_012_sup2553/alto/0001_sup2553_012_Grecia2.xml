@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-19T14:32:07.785+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4002" WIDTH="2598">
+         <TopMargin HEIGHT="0" WIDTH="2598" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4002" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4002" WIDTH="0" VPOS="0" HPOS="2598"/>
+         <BottomMargin HEIGHT="0" WIDTH="2598" VPOS="4002" HPOS="0"/>
+         <PrintSpace HEIGHT="4002" WIDTH="2598" VPOS="0" HPOS="0">
+            <TextBlock ID="r_2_1" HEIGHT="180" WIDTH="1760" VPOS="3648" HPOS="622">
+               <Shape>
+                  <Polygon POINTS="622,3648 2379,3658 2382,3828 622,3828"/>
+               </Shape>
+               <TextLine ID="r_2_1l1"
+                         BASELINE="630,3725 685,3723 741,3722 797,3720 853,3719 908,3718 964,3717 1020,3716 1076,3716 1131,3716 1187,3716 1243,3716 1299,3716 1354,3716 1410,3716 1466,3716 1522,3716 1577,3716 1633,3716 1689,3716 2265,3724"
+                         HEIGHT="39"
+                         WIDTH="1636"
+                         VPOS="3686"
+                         HPOS="629">
+                  <String ID="string_r_2_1l1"
+                          HEIGHT="39"
+                          WIDTH="1636"
+                          VPOS="3686"
+                          HPOS="629"
+                          CONTENT="Victory returns to her temple and takes off her sandals. "/>
+               </TextLine>
+               <TextLine ID="r_2_1l2"
+                         BASELINE="1182,3812 1209,3813 1237,3813 1264,3814 1292,3815 1320,3815 1347,3815 1375,3816 1402,3816 1430,3816 1458,3818 1485,3818 1513,3818 1540,3818 1568,3818 1596,3819 1623,3819 1651,3819 1678,3819 1706,3819 1778,3832"
+                         HEIGHT="50"
+                         WIDTH="602"
+                         VPOS="3782"
+                         HPOS="1182">
+                  <String ID="string_r_2_1l2"
+                          HEIGHT="50"
+                          WIDTH="602"
+                          VPOS="3782"
+                          HPOS="1182"
+                          CONTENT="Acropolis of Athens. "/>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="Image_1667765115354_1518"
+                          HEIGHT="3252"
+                          WIDTH="2052"
+                          VPOS="241"
+                          HPOS="317"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

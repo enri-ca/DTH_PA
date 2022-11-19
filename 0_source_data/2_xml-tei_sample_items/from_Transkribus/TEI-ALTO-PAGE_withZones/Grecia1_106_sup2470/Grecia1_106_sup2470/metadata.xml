@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1199331</docId>
+    <title>Grecia1_106_sup2470</title>
+    <uploadTimestamp>1666392405780</uploadTimestamp>
+    <scriptType>HANDWRITTEN</scriptType>
+    <uploader>enrica.zani@studio.unibo.it</uploader>
+    <uploaderId>117782</uploaderId>
+    <nrOfPages>2</nrOfPages>
+    <pageId>48699471</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=UDATUZKWBEDPTMNFMDIRAHZY</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=UDATUZKWBEDPTMNFMDIRAHZY</thumbUrl>
+    <externalId>http://catalogo.fondazionezeri.unibo.it/entry/photo/182021/</externalId>
+    <authority>NA</authority>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1199331</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>159068</colId>
+            <colName>PA_visited_places</colName>
+            <description>created by enrica.zani@studio.unibo.it</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>169853</colId>
+            <colName>PA_overall</colName>
+            <description>created by enrica.zani@studio.unibo.it</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

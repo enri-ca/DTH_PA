@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-10-22T01:21:44.587+02:00</Created>
+        <LastChange>2022-11-06T19:26:08.944+01:00</LastChange>
+        <TranskribusMetadata docId="1199335" pageId="48699840" pageNr="1" tsid="102251210" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=TMCRCWKEZQPBYRNFYLRNQCBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SMSSAVMIYYFCIOXWGDTAQYPM" imageId="39869724"/>
+    </Metadata>
+    <Page imageFilename="0001_sup2581_040_Grecia 2.JPG" imageWidth="2262" imageHeight="3051" type="front-cover">
+        <ImageRegion id="Image_1667759161966_271" custom="readingOrder {index:0;}">
+            <Coords points="61,56 2167,41 2197,3001 73,3001"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

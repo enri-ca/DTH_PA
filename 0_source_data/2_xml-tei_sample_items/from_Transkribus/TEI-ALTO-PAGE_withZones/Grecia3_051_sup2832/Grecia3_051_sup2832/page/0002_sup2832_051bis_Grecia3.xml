@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-06T22:03:37.299+01:00</Created>
+        <LastChange>2022-11-13T12:54:55.294+01:00</LastChange>
+        <TranskribusMetadata docId="1215961" pageId="49380052" pageNr="2" tsid="103288529" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=HEFSZYXPDODXYMJSJGLSJRBA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BSEJXGKQSHBQSUILLRDVOYUH" imageId="40332287"/>
+    </Metadata>
+    <Page imageFilename="0002_sup2832_051bis_Grecia3.JPG" imageWidth="2958" imageHeight="1407">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864725055" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="62,66 62,1363 2898,1363 2898,66"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} structure {type:heading;} organization {offset:0; length:23;ref:#National_Museum_Athens; type:museum;}">
+                <Coords points="101,150 150,150 199,151 249,153 298,153 348,154 397,154 446,154 496,156 545,156 595,156 644,156 693,157 743,157 792,158 842,160 891,162 940,163 990,165 1039,168 1089,169 1089,85 1039,84 990,81 940,79 891,78 842,76 792,74 743,73 693,73 644,72 595,72 545,72 496,72 446,70 397,70 348,70 298,69 249,69 199,67 150,66 101,66"/>
+                <Baseline points="101,122 150,122 199,123 249,125 298,125 348,126 397,126 446,126 496,128 545,128 595,128 644,128 693,129 743,129 792,130 842,132 891,134 940,135 990,137 1039,140 1089,141"/>
+                <TextEquiv>
+                    <Unicode>National Museum Athens. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} ref {offset:0; length:2;}">
+                <Coords points="63,583 185,588 308,591 431,594 553,597 676,600 799,601 921,603 1044,606 1167,607 1290,607 1412,609 1535,610 1658,611 1780,612 1903,613 2026,613 2148,615 2271,616 2394,618 2517,619 2517,535 2394,534 2271,532 2148,531 2026,529 1903,529 1780,528 1658,527 1535,526 1412,525 1290,523 1167,523 1044,522 921,519 799,517 676,516 553,513 431,510 308,507 185,504 63,499"/>
+                <Baseline points="63,555 185,560 308,563 431,566 553,569 676,572 799,573 921,575 1044,578 1167,579 1290,579 1412,581 1535,582 1658,583 1780,584 1903,585 2026,585 2148,587 2271,588 2394,590 2517,591"/>
+                <TextEquiv>
+                    <Unicode>28. Archaic Sphinx from Spata in Attica of Pentelic marble. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} ref {offset:0; length:2;}">
+                <Coords points="72,736 196,741 321,744 446,747 571,750 695,753 820,754 945,757 1070,759 1194,762 1319,765 1444,768 1569,771 1693,775 1818,779 1943,784 2068,790 2192,796 2317,805 2442,813 2567,823 2567,739 2442,729 2317,721 2192,712 2068,706 1943,700 1818,695 1693,691 1569,687 1444,684 1319,681 1194,678 1070,675 945,673 820,670 695,669 571,666 446,663 321,660 196,657 72,652"/>
+                <Baseline points="72,708 196,713 321,716 446,719 571,722 695,725 820,726 945,729 1070,731 1194,734 1319,737 1444,740 1569,743 1693,747 1818,751 1943,756 2068,762 2192,768 2317,777 2442,785 2567,795"/>
+                <TextEquiv>
+                    <Unicode>76. Archaic Sphinx found at the Peiraios in 1880. Parian marble. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} ref {offset:0; length:2;}">
+                <Coords points="83,897 189,898 296,898 402,900 509,900 616,901 722,903 829,904 936,904 1042,906 1149,907 1256,910 1362,911 1469,913 1576,915 1682,918 1789,920 1896,922 2002,925 2109,928 2216,931 2216,847 2109,844 2002,841 1896,838 1789,836 1682,834 1576,831 1469,829 1362,827 1256,826 1149,823 1042,822 936,820 829,820 722,819 616,817 509,816 402,816 296,814 189,814 83,813"/>
+                <Baseline points="83,869 189,870 296,870 402,872 509,872 616,873 722,875 829,876 936,876 1042,878 1149,879 1256,882 1362,883 1469,885 1576,887 1682,890 1789,892 1896,894 2002,897 2109,900 2216,903"/>
+                <TextEquiv>
+                    <Unicode>52. Archaic head of beautiful art. Pentelic marble.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} ref {offset:0; length:2;} abbrev {offset:70; length:4;expansion:diameter;}">
+                <Coords points="75,1020 214,1023 353,1026 493,1027 632,1029 771,1030 911,1030 1050,1032 1189,1033 1329,1033 1468,1035 1607,1038 1747,1039 1886,1042 2025,1047 2165,1051 2304,1057 2443,1064 2583,1072 2722,1081 2862,1093 2862,1009 2722,997 2583,988 2443,980 2304,973 2165,967 2025,963 1886,958 1747,955 1607,954 1468,951 1329,949 1189,949 1050,948 911,946 771,946 632,945 493,943 353,942 214,939 75,936"/>
+                <Baseline points="75,992 214,995 353,998 493,999 632,1001 771,1002 911,1002 1050,1004 1189,1005 1329,1005 1468,1007 1607,1010 1747,1011 1886,1014 2025,1019 2165,1023 2304,1029 2443,1036 2583,1044 2722,1053 2862,1065"/>
+                <TextEquiv>
+                    <Unicode>93. Disk of Parian marble found at the Peiraios in 1889. 11 inches in diam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} date {offset:22; length:3;year:0; day:0; month:0; notBefore:1889;} unclear {offset:64; length:7;reason:illegible;}">
+                <Coords points="68,1146 209,1144 351,1144 492,1144 634,1144 775,1144 917,1146 1058,1147 1200,1149 1341,1152 1483,1155 1624,1158 1766,1161 1907,1165 2049,1170 2190,1174 2332,1180 2473,1186 2615,1192 2756,1199 2898,1206 2898,1131 2756,1124 2615,1117 2473,1111 2332,1105 2190,1099 2049,1095 1907,1090 1766,1086 1624,1083 1483,1080 1341,1077 1200,1074 1058,1072 917,1071 775,1069 634,1069 492,1069 351,1069 209,1069 68,1071"/>
+                <Baseline points="68,1121 209,1119 351,1119 492,1119 634,1119 775,1119 917,1121 1058,1122 1200,1124 1341,1127 1483,1130 1624,1133 1766,1136 1907,1140 2049,1145 2190,1149 2332,1155 2473,1161 2615,1167 2756,1174 2898,1181"/>
+                <TextEquiv>
+                    <Unicode>The painting on it is now almost effaced but once represented a bearded </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} cit {offset:9; length:59; continued:true;} ref {offset:9; length:21;} quote {offset:32; length:36; continued:true;}">
+                <Coords points="62,1246 200,1250 339,1253 478,1257 617,1260 756,1263 895,1266 1034,1269 1173,1272 1312,1275 1451,1278 1589,1282 1728,1285 1867,1290 2006,1293 2145,1297 2284,1302 2423,1307 2562,1312 2701,1318 2840,1324 2840,1249 2701,1243 2562,1237 2423,1232 2284,1227 2145,1222 2006,1218 1867,1215 1728,1210 1589,1207 1451,1203 1312,1200 1173,1197 1034,1194 895,1191 756,1188 617,1185 478,1182 339,1178 200,1175 62,1171"/>
+                <Baseline points="62,1221 200,1225 339,1228 478,1232 617,1235 756,1238 895,1241 1034,1244 1173,1247 1312,1250 1451,1253 1589,1257 1728,1260 1867,1265 2006,1268 2145,1272 2284,1277 2423,1282 2562,1287 2701,1293 2840,1299"/>
+                <TextEquiv>
+                    <Unicode>man with an inscription saying: to the memory of Ainios, a wise and </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} cit {offset:0; length:11; continued:true;} quote {offset:0; length:11; continued:true;}">
+                <Coords points="95,1357 120,1359 145,1359 171,1360 196,1360 221,1360 247,1360 272,1360 297,1360 323,1360 348,1360 373,1360 399,1359 424,1359 449,1359 475,1359 500,1360 525,1360 551,1361 576,1362 602,1363 602,1287 576,1286 551,1285 525,1284 500,1284 475,1283 449,1283 424,1283 399,1283 373,1284 348,1284 323,1284 297,1284 272,1284 247,1284 221,1284 196,1284 171,1284 145,1283 120,1283 95,1281"/>
+                <Baseline points="95,1332 120,1334 145,1334 171,1335 196,1335 221,1335 247,1335 272,1335 297,1335 323,1335 348,1335 373,1335 399,1334 424,1334 449,1334 475,1334 500,1335 525,1335 551,1336 576,1337 602,1338"/>
+                <TextEquiv>
+                    <Unicode>good doctor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>National Museum Athens. &#13;
+28. Archaic Sphinx from Spata in Attica of Pentelic marble. &#13;
+76. Archaic Sphinx found at the Peiraios in 1880. Parian marble. &#13;
+52. Archaic head of beautiful art. Pentelic marble.&#13;
+93. Disk of Parian marble found at the Peiraios in 1889. 11 inches in diam.&#13;
+The painting on it is now almost effaced but once represented a bearded &#13;
+man with an inscription saying: to the memory of Ainios, a wise and &#13;
+good doctor.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

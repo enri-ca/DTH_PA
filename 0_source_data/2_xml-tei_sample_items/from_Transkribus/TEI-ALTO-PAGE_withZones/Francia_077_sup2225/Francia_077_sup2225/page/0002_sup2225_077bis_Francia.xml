@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=B2022 English Model M4(htr_id=31338)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-01T08:45:49.333+01:00</Created>
+        <LastChange>2022-11-11T22:56:13.697+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1211183" pageId="49239841" pageNr="2" tsid="103250623" status="IN_PROGRESS" userId="117782" imgUrl="https://files.transkribus.eu/Get?id=CKWYBTRESXCZQSIESBKTWBHG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXOSLLLRUWFNNDSXERERLSKC" imageId="40227824"/>
+    </Metadata>
+    <Page imageFilename="0002_sup2225_077bis_Francia.JPG" imageWidth="2340" imageHeight="1053" type="content">
+        <PrintSpace>
+            <Coords points="67,53 2277,53 2277,1038 67,1038"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1668864727251" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="r_1_1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="756,53 1521,56 1524,177 756,175"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;} organization {offset:0; length:15;ref:#Louvre; type:museum;}">
+                <Coords points="741,177 898,222 1104,177 1521,197 1522,75 1347,41 1284,46 1178,134 1040,52 945,97 742,93"/>
+                <Baseline points="756,161 790,161 825,161 860,161 895,161 929,161 964,161 999,162 1034,162 1068,164 1103,164 1138,165 1173,165 1207,167 1242,167 1277,167 1312,167 1346,167 1381,165 1416,164 1508,165"/>
+                <TextEquiv>
+                    <Unicode>Musée du Louvre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Musie du Lowore.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="67,335 2277,335 2277,1038 67,1038"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;} structure {type:heading;} objectName {offset:0; length:32;ref:#PlateI;}">
+                <Coords points="70,412 461,409 593,461 932,407 1024,448 1024,342 902,320 339,328 227,358 171,323 70,336"/>
+                <Baseline points="84,398 130,399 176,399 223,400 269,401 315,401 362,399 408,399 454,399 501,398 547,398 593,398 640,397 686,396 732,396 779,398 825,398 871,399 918,401 964,402 1011,405"/>
+                <TextEquiv>
+                    <Unicode>N.° II. Continuation of Plate I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;} textStyle {offset:11; length:3;superscript:true;}">
+                <Coords points="91,558 1993,571 2196,478 90,461"/>
+                <Baseline points="105,530 208,530 312,530 416,530 520,530 624,530 728,530 832,530 936,528 1040,528 1144,528 1247,528 1351,528 1455,528 1559,528 1663,527 1767,527 1871,527 1975,527 2079,527 2183,527"/>
+                <TextEquiv>
+                    <Unicode>An officer 51. or priest has received a kanoun, or dish from </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;} objectName {offset:28; length:9;ref:#PlateI;}">
+                <Coords points="103,662 2239,663 2239,585 1987,573 104,569"/>
+                <Baseline points="116,636 221,639 326,641 432,641 537,642 643,642 748,642 854,642 959,642 1065,642 1170,642 1275,642 1381,642 1486,642 1592,642 1697,642 1803,644 1908,645 2014,646 2119,648 2225,651"/>
+                <TextEquiv>
+                    <Unicode>two Kanephori who appear in Plate III. The dish has disappeared.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="75,771 2177,815 2270,784 2271,692 75,716"/>
+                <Baseline points="89,750 197,750 305,750 414,752 522,752 630,752 739,753 847,753 955,754 1064,755 1172,756 1280,758 1389,759 1497,761 1605,762 1714,764 1822,767 1930,769 2039,771 2147,775 2256,779"/>
+                <TextEquiv>
+                    <Unicode>or he may be giving them some order. He probably held a herald's staff </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="73,900 193,876 366,913 464,867 689,898 721,893 722,809 619,841 529,797 467,818 413,802 350,831 220,793 161,827 74,827"/>
+                <Baseline points="86,860 117,861 148,863 179,864 210,865 241,866 272,866 303,866 334,867 365,867 396,867 427,867 458,867 489,866 520,866 551,866 582,866 613,866 644,866 675,866 707,866"/>
+                <TextEquiv>
+                    <Unicode>in his right hand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;} unclear {offset:30; length:6;reason:illegible;} organization {offset:44; length:14;ref:#Br_museum; type:museum;}">
+                <Coords points="76,992 1953,1030 2141,998 2141,920 1442,874 76,927"/>
+                <Baseline points="90,975 189,975 288,975 387,975 487,974 586,974 685,974 785,974 884,972 983,972 1083,972 1182,972 1281,972 1380,972 1480,974 1579,974 1678,975 1778,977 1877,978 1976,981 2126,990"/>
+                <TextEquiv>
+                    <Unicode>The numeration is that of the prieze in the British Museum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>No. II. Continuation of Plate I
+51
+An officer or priest has received a Ranoun, or dish from 
+two Ranephore who appear in Plate III Re dish has disappeared.
+or he may be guing them some order. He probably held a heralds staff 
+in his reguthand.
+The numeration is that of the frieze in the British Mudcum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
