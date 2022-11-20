@@ -1,1 +1,0 @@
-recall_images_in _0_source_data.txt
