@@ -13,7 +13,7 @@ The Github repository hosts:
 <ul>
 <li> the Xquery files to work as a whole the single photographs' TEI encodings (<b>3_xpath_xquery_files</b>). </li>
 <li> the final TEI files used to the visualization, according to the rules stated in the <b>Encoding Guide (1_PA_encoding_model.pdf)</b><li>
-</ul
+</ul>
 
 3. the <b>2_evt-files</b> folder that contains the customized files to make work the <a href="http://evt.labcd.unipi.it/" target="_blank">EVT-Edition Visualization Technology tool</a>:
 <ul>
