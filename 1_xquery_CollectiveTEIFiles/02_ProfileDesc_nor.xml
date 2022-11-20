@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profileDesc>
+   <particDesc>
+      <listPerson>
+         <head>Persons</head>
+         <person xml:id="Kavvadias">
+            <persName>Kavvadias</persName>
+         </person>
+         <person xml:id="Lechat">
+            <persName>Lechat</persName>
+         </person>
+         <person xml:id="PA_creator">
+            <persName>I</persName>
+         </person>
+         <person xml:id="Perkins">
+            <persName>Mr. Perkins</persName>
+         </person>
+         <person xml:id="Schliemann">
+            <persName>Schliemann</persName>
+         </person>
+         <person xml:id="Sellers">
+            <persName>Miss Sellers</persName>
+         </person>
+         <person xml:id="Stuart">
+            <persName>Stuart</persName>
+         </person>
+         <person xml:id="Wolters">
+            <persName>Wolters</persName>
+         </person>
+      </listPerson>
+      <listOrg>
+         <head>Museums</head>
+         <org xml:id="AK_Museum">
+            <orgName>Museum of Akropolis</orgName>
+         </org>
+         <org xml:id="AN_FI_Museum">
+            <orgName>Museum at Florence</orgName>
+         </org>
+         <org xml:id="Br_Museum">
+            <orgName>British Museum</orgName>
+         </org>
+         <org xml:id="Corneto_Museum">
+            <orgName>
+                  Corneto. Museum</orgName>
+         </org>
+         <org xml:id="Kircherian_Museum">
+            <orgName>Kircherian</orgName>
+         </org>
+         <org xml:id="Louvre">
+            <orgName>Musée du Louvre</orgName>
+         </org>
+         <org xml:id="NA_Museum">
+            <orgName>Central Museum</orgName>
+         </org>
+         <org xml:id="National_Museum_Athens">
+            <orgName>National Museum Athens.</orgName>
+         </org>
+         <org xml:id="PA_museum">
+            <orgName>Museo Palermo</orgName>
+         </org>
+         <head>Collections</head>
+         <org xml:id="Aberdeen_coll">
+            <orgName>Lord Aberdeen's collection</orgName>
+         </org>
+         <org xml:id="Casuccini_coll">
+            <orgName>Casuccini collection</orgName>
+         </org>
+         <head>Photographers</head>
+         <org xml:id="Giraudon">
+            <orgName>A. Giraudon phot.</orgName>
+         </org>
+         <org xml:id="Incorpora">
+            <orgName>G. Incorpora, Palermo
+               </orgName>
+         </org>
+         <org xml:id="Paganori">
+            <orgName>V. Paganori, Firenze</orgName>
+         </org>
+         <org xml:id="Sommer">
+            <orgName>G. Sommer Napoli
+               </orgName>
+         </org>
+         <head>Collectors</head>
+         <org xml:id="PA_gov">
+            <orgName>town of Palermo
+               </orgName>
+         </org>
+         <org xml:id="UND_FI_Gov">
+            <orgName>the Government (Firenze ?)</orgName>
+         </org>
+      </listOrg>
+      <listObject>
+         <head>Works of art</head>
+         
+         <object xml:id="OA_108561">
+            <objectName>Fighting warrior</objectName>
+         </object>
+         <object xml:id="OA_108820">
+            <objectName>Frise provenant du Parthénon. dètail</objectName>
+         </object>
+         
+         <object xml:id="OA_108716">
+            <objectName>Hermes</objectName>
+         </object>
+         <object xml:id="OA_108400">
+            <objectName>Hermes of Praxiteles</objectName>
+         </object>
+         
+         <object xml:id="Hermes_Olympia">
+            <objectName>Hermes of Olympia</objectName>
+         </object>
+         <object xml:id="OA_81897">
+            <objectName>Monument of Hecuba de Lusignan</objectName>
+         </object>
+         <object xml:id="PlateI">
+            <objectName>Plate I.</objectName>
+         </object>
+         <object xml:id="PlateI">
+            <objectName>Plate III</objectName>
+         </object>
+         <object xml:id="OA_107660">
+            <objectName>Sarcofago Etrusco</objectName>
+         </object>
+         
+         <object xml:id="Sphinx">
+            <objectName>Sphinx</objectName>
+         </object>
+         <object xml:id="NikeApteros_temple">
+            <objectName>temple of Nike Apteros</objectName>
+         </object>
+         <object xml:id="OA_108395">
+            <objectName>This is the fine tower</objectName>
+         </object>
+         <object xml:id="OA_107455">
+            <objectName>This painted terra cotta Etruscan lady, Larthia Seianti S...</objectName>
+         </object>
+         <object xml:id="OA_107699">
+            <objectName>Tomba di Costanza </objectName>
+         </object>
+         <object xml:id="OA_108368">
+            <objectName>Victory returns to her temple and takes off her sandals</objectName>
+         </object>
+         
+         <object xml:id="OA_106976">
+            <objectName>Vitelleschi's palace</objectName>
+         </object>
+         
+         <head>Photograph negatives</head>
+         <object xml:id="negGiraudon_1452">
+            <objectName>1452</objectName>
+         </object>
+         <object xml:id="negIncorpora_067">
+            <objectName>67</objectName>
+         </object>
+         <object xml:id="negIncorpora_229">
+            <objectName>N. 229</objectName>
+         </object>
+         <object xml:id="negPaganori_599">
+            <objectName>599</objectName>
+         </object>
+         <object xml:id="negSommier_9072">
+            <objectName>9072</objectName>
+         </object>
+         <object xml:id="negUNK_067">
+            <objectName>67</objectName>
+         </object>
+         <object xml:id="negUNK_267">
+            <objectName>267</objectName>
+         </object>
+      </listObject>
+   </particDesc>
+   <settingDesc>
+      <listPlace>
+         <head>Places</head>
+         <place xml:id="Assisi">
+            <placeName>Assisi</placeName>
+         </place>
+         <place xml:id="Athens">
+             <placeName>Athens</placeName>
+         </place>
+         <place xml:id="Chiusi">
+            <placeName>Chiusi</placeName>
+         </place>
+         <place xml:id="Delos">
+            <placeName>Delos</placeName>
+         </place>
+         <place xml:id="Napoli">
+            <placeName>Napoli</placeName>
+         </place>
+         <place xml:id="Olympia">
+            <placeName>Olympia</placeName>
+         </place>
+         <place xml:id="Palermo">
+            <placeName>Palermo</placeName>
+         </place>
+         <place xml:id="Rome">
+            <placeName>Rome</placeName>
+         </place>
+         <place xml:id="Taquinia">
+            <placeName>Corneto</placeName>
+         </place>
+      </listPlace>
+   </settingDesc>
+</profileDesc>

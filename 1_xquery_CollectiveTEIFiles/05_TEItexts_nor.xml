@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:dbo="http://dbpedia.org/ontology/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:geonames="https://www.geonames.org/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:viaf="http://viaf.org/viaf/"
+     xmlns:wikidata="https://www.wikidata.org/wiki/"
+     xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Partizione Antica from Fototeca Supino: a pilot digital edition</title>
+            <title>Fototeca Supino</title>
+            <principal>Zani, Enrica</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">Project distributed under a Creative Commons Attribution-ShareAlike 3.0 License. All the images and the data are published for illustrative and didactical purposes only. For any request of use, please refer to: Biblioteca delle Arti. Sezione di Arti visive "I. B. Supino" (images) and Fondazione "Federico Zeri" (OA and F records).</licence>
+            </availability>
+         </publicationStmt>
+         <!--sourceDesc o xi:include href="sourceDesc.xml"/-->
+         <sourceDesc xmlns="">
+            <listBibl>
+               <bibl xml:id="Dennis">
+                  <author>
+                     <name>Dennis, George</name>
+                  </author>
+                  <title>Cities and Cemeteries of Etruria</title>
+                  <date>1848</date>
+                  <ref target="http://digi.ub.uni-heidelberg.de/diglit/dennis1848bd2">Digitized version by Heidelberg Un.</ref>
+               </bibl>
+               <bibl xml:id="Fr_Wolt">
+                  <author>
+                     <name>Friederichs, Carl</name>
+                  </author>
+                  <author>
+                     <name>Wolters, Paul</name>
+                  </author>
+                  <title>Die Gipsabgusse Antiker Bildwerke in Historischer Folge Erklart</title>
+                  <date>1885</date>
+               </bibl>
+               <bibl xml:id="GazBArts">
+                  <title>Gazette des beaux-arts (Paris. 1859)</title>
+                  <date>1859</date>
+                  <idno type="ISSN">2419-641X</idno>
+                  <ref target="https://gallica.bnf.fr/ark:/12148/cb343486585/date">Gallica Reproduction numérique</ref>
+               </bibl>
+               <bibl xml:id="Villani">
+                  <author>
+                     <name>Villani, Giovanni</name>
+                  </author>
+                  <title>Nova cronica</title>
+                  <ref target="http://digi.ub.uni-heidelberg.de/diglit/bav_pal_lat_939/0015">Digitized version by Heidelberg Un.</ref>
+               </bibl>
+            </listBibl>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Bologna</settlement>
+                  <repository>Biblioteca delle Arti. Sezione di Arti visive "I. B. Supino". Alma Mater Studiorum Università di Bologna</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Supino, Igino Benvenuto</author>
+                     <title>Fototeca Supino - Partizione Antica</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <p>3260 albumen photographs collected and handritten annotated on the verso by an unknown Art Historian or Collector in the second half of the XIXth century.</p>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <p>For their peculiarity in the overall Supino fund, the 3260 photographs in the series called Partizione Antica, were transferred in 1990 to the Historical Archive of the University of Bologna, reorganized on a topographical basis, digitized and cataloged with the Sebina Multimedia software. In 2006 they rejoined the rest of the Fund at the Arts Department.</p>
+                  <p>Between 2019 and 2020 the entire Partizione Antica series was cataloged by the Federico Zeri Foundation.</p>
+                  <p>A sample of 14 recto-verso photographs is the object of this pilot digital edition.</p>
+               </history>
+            </msDesc>
+         </sourceDesc>
+         <!--/sourceDesc-->
+      </fileDesc>
+      <!--profileDesc o xi:include href="ProfileDesc.xml"/-->
+      <profileDesc xmlns="">
+         <particDesc>
+            <listPerson>
+               <head>Persons</head>
+               <person xml:id="Kavvadias">
+                  <persName>Kavvadias</persName>
+               </person>
+               <person xml:id="Lechat">
+                  <persName>Lechat</persName>
+               </person>
+               <person xml:id="PA_creator">
+                  <persName>I</persName>
+               </person>
+               <person xml:id="Perkins">
+                  <persName>Mr. Perkins</persName>
+               </person>
+               <person xml:id="Schliemann">
+                  <persName>Schliemann</persName>
+               </person>
+               <person xml:id="Sellers">
+                  <persName>Miss Sellers</persName>
+               </person>
+               <person xml:id="Stuart">
+                  <persName>Stuart</persName>
+               </person>
+               <person xml:id="Wolters">
+                  <persName>Wolters</persName>
+               </person>
+            </listPerson>
+            <listOrg>
+               <head>Museums</head>
+               <org xml:id="AK_Museum">
+                  <orgName>Museum of Akropolis</orgName>
+               </org>
+               <org xml:id="AN_FI_Museum">
+                  <orgName>Museum at Florence</orgName>
+               </org>
+               <org xml:id="Br_Museum">
+                  <orgName>British Museum</orgName>
+               </org>
+               <org xml:id="Corneto_Museum">
+                  <orgName>
+                  Corneto. Museum</orgName>
+               </org>
+               <org xml:id="Kircherian_Museum">
+                  <orgName>Kircherian</orgName>
+               </org>
+               <org xml:id="Louvre">
+                  <orgName>Musée du Louvre</orgName>
+               </org>
+               <org xml:id="National_Museum_Athens">
+                  <orgName>National Museum Athens.</orgName>
+               </org>
+               <org xml:id="PA_museum">
+                  <orgName>Museo Palermo</orgName>
+               </org>
+               <head>Collections</head>
+               <org xml:id="Aberdeen_coll">
+                  <orgName>Lord Aberdeen's collection</orgName>
+               </org>
+               <org xml:id="Casuccini_coll">
+                  <orgName>Casuccini collection</orgName>
+               </org>
+               <head>Photographers</head>
+               <org xml:id="Giraudon">
+                  <orgName>A. Giraudon phot.</orgName>
+               </org>
+               <org xml:id="Incorpora">
+                  <orgName>G. Incorpora, Palermo
+               </orgName>
+               </org>
+               <org xml:id="Paganori">
+                  <orgName>V. Paganori, Firenze</orgName>
+               </org>
+               <org xml:id="Sommer">
+                  <orgName>G. Sommer Napoli
+               </orgName>
+               </org>
+               <head>Collectors</head>
+               <org xml:id="PA_gov">
+                  <orgName>town of Palermo
+               </orgName>
+               </org>
+               <org xml:id="UND_FI_Gov">
+                  <orgName>the Government (Firenze ?)</orgName>
+               </org>
+            </listOrg>
+            <listObject>
+               <head>Works of art</head>
+               <object xml:id="OA_108561">
+                  <objectName>Fighting warrior</objectName>
+               </object>
+               <object xml:id="OA_108820">
+                  <objectName>Frise provenant du Parthénon. dètail</objectName>
+               </object>
+               <object xml:id="OA_108716">
+                  <objectName>Hermes</objectName>
+               </object>
+               <object xml:id="OA_108400">
+                  <objectName>Hermes of Praxiteles</objectName>
+               </object>
+               <object xml:id="Hermes_Olympia">
+                  <objectName>Hermes of Olympia</objectName>
+               </object>
+               <object xml:id="OA_81897">
+                  <objectName>Monument of Hecuba de Lusignan</objectName>
+               </object>
+               <object xml:id="PlateI">
+                  <objectName>Plate I.</objectName>
+               </object>
+               <object xml:id="PlateI">
+                  <objectName>Plate III</objectName>
+               </object>
+               <object xml:id="OA_107660">
+                  <objectName>Sarcofago Etrusco</objectName>
+               </object>
+               <object xml:id="Sphinx">
+                  <objectName>Sphinx</objectName>
+               </object>
+               <object xml:id="NikeApteros_temple">
+                  <objectName>temple of Nike Apteros</objectName>
+               </object>
+               <object xml:id="OA_108395">
+                  <objectName>This is the fine tower</objectName>
+               </object>
+               <object xml:id="OA_107455">
+                  <objectName>This painted terra cotta Etruscan lady, Larthia Seianti S...</objectName>
+               </object>
+               <object xml:id="OA_107699">
+                  <objectName>Tomba di Costanza </objectName>
+               </object>
+               <object xml:id="OA_108368">
+                  <objectName>Victory returns to her temple and takes off her sandals</objectName>
+               </object>
+               <object xml:id="OA_106976">
+                  <objectName>Vitelleschi's palace</objectName>
+               </object>
+               <head>Photograph negatives</head>
+               <object xml:id="negGiraudon_1452">
+                  <objectName>1452</objectName>
+               </object>
+               <object xml:id="negIncorpora_067">
+                  <objectName>67</objectName>
+               </object>
+               <object xml:id="negIncorpora_229">
+                  <objectName>N. 229</objectName>
+               </object>
+               <object xml:id="negPaganori_599">
+                  <objectName>599</objectName>
+               </object>
+               <object xml:id="negSommier_9072">
+                  <objectName>9072</objectName>
+               </object>
+               <object xml:id="negUNK_067">
+                  <objectName>67</objectName>
+               </object>
+               <object xml:id="negUNK_267">
+                  <objectName>267</objectName>
+               </object>
+            </listObject>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+               <head>Places</head>
+               <place xml:id="Assisi">
+                  <placeName>Assisi</placeName>
+               </place>
+               <place xml:id="Athens">
+                  <placeName>Athens</placeName>
+               </place>
+               <place xml:id="Chiusi">
+                  <placeName>Chiusi</placeName>
+               </place>
+               <place xml:id="Delos">
+                  <placeName>Delos</placeName>
+               </place>
+               <place xml:id="Napoli">
+                  <placeName>Napoli</placeName>
+               </place>
+               <place xml:id="Olympia">
+                  <placeName>Olympia</placeName>
+               </place>
+               <place xml:id="Palermo">
+                  <placeName>Palermo</placeName>
+               </place>
+               <place xml:id="Rome">
+                  <placeName>Rome</placeName>
+               </place>
+               <place xml:id="Taquinia">
+                  <placeName>Corneto</placeName>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
+      <!--/profileDesc-->
+      <encodingDesc>
+         <projectDesc>
+            <p>A sample of 14 photographs over the more than 3000 of the Partizione Antica, has been used to try to face an high challenging
+                      material to encode as works of art photographs annotated on their verso by an unknown art historian.</p>
+         </projectDesc>
+      </encodingDesc>
+      <!--xenoData xi:include href="04_xenoData.xml"/-->
+      <xenoData xmlns="">
+         <rdf:RDF>
+		<!-- PLACES -->
+            <rdf:Description tei:ref="#Athens" rdf:about="geonames:264371">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label xml:lang="en">Greece - Athens</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Olympia" rdf:about="geonames:9293812">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label xml:lang="en">Greece - Olympia</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Delos" rdf:about="geonames:11995092">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label xml:lang="en">Greece - Delos</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Assisi" rdf:about="geonames:6538612">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label>Italy, Umbria - Assisi</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Chiusi" rdf:about="geonames:6539740">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label>Italy, Toscana - Chiusi</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Napoli" rdf:about="geonames:3172394">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label>Italy, Campania - Napoli</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Rome" rdf:about="geonames:3169071">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label>Italy, Lazio - Roma</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Palermo" rdf:about="geonames:6542127">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label>Italy, Sicilia - Palermo</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Tarquinia" rdf:about="geonames:3165919">
+               <rdf:type rdf:resource="dbo:Place"/>
+               <rdfs:label>Italy, Lazio - Tarquinia</rdfs:label>
+            </rdf:Description>
+            <!-- PEOPLE -->
+            <rdf:Description tei:ref="#Kavvadias" rdf:about="viaf:46808673">
+               <rdf:type rdf:resource="foaf:Person"/>
+               <rdfs:label xml:lang="en">Kavvadias, Panagiotis (1850?-1928)</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Perkins" rdf:about="viaf:8130001">
+               <rdf:type rdf:resource="foaf:Person"/>
+               <rdfs:label xml:lang="en">Perkins, Charles Callahan (1823–1886)</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Shliemann" rdf:about="viaf:17229333">
+               <rdf:type rdf:resource="foaf:Person"/>
+               <rdfs:label xml:lang="en">Schliemann, Heinrich (1822-1890)</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Stuart" rdf:about="viaf:44317198">
+               <rdf:type rdf:resource="foaf:Person"/>
+               <rdfs:label xml:lang="en">Stuart, James (1713-1788)</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Sellers" rdf:about="viaf:79104263">
+               <rdf:type rdf:resource="foaf:Person"/>
+               <rdfs:label xml:lang="en">Strong, Eugénie Sellers (1860-1943)</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Wolters" rdf:about="viaf:74226426">
+               <rdf:type rdf:resource="foaf:Person"/>
+               <rdfs:label xml:lang="en">Wolters, Paul (1858-1936)</rdfs:label>
+            </rdf:Description>
+            <!-- ORG -->
+            <rdf:Description tei:ref="#CasucciniColl"
+                             rdf:source="https://it.wikipedia.org/wiki/Museo_archeologico_regionale_Antonino_Salinas#Collezione_Casuccini">
+               <rdf:type rdf:resource="foaf:Organization"/>
+               <rdfs:label xml:lang="en">Casuccini Collection</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Br_Museum" rdf:about="wikidata:Q6373">
+               <rdf:type rdf:resource="dbo:museum"/>
+               <rdfs:label xml:lang="en">British Museum, London</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#AK_Museum" rdf:about="wikidata:Q421084">
+               <rdf:type rdf:resource="dbo:museum"/>
+               <rdfs:label xml:lang="en">Akropolis Museum, Athens</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Kircherian_Museum" rdf:about="wikidata:Q1530830">
+               <rdf:type rdf:resource="dbo:museum"/>
+               <rdfs:label xml:lang="en">Kircherian Museum</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Louvre" rdf:about="wikidata:Q19675">
+               <rdf:type rdf:resource="dbo:museum"/>
+               <rdfs:label xml:lang="fr">Musée du Louvre, Paris</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#AN_FI_Museum" rdf:about="wikidata:Q637237">
+               <rdf:type rdf:resource="dbo:museum"/>
+               <rdfs:label xml:lang="it">Museo Archeologico Nazionale, Firenze</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Corneto_Museum" rdf:about="wikidata:Q67014154">
+               <rdf:type rdf:resource="dbo:museum"/>
+               <rdfs:label xml:lang="it">Museo della Ceramica, Corneto</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#National_Museum_Athens" rdf:about="wikidata:Q637187">
+               <rdf:type rdf:resource="dbo:museum"/>
+               <rdfs:label xml:lang="en">National Archaeological Museum of Athens, Athens</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Incorpora" rdf:about="viaf:3165919">
+               <rdf:type rdf:resource="foaf:Organization"/>
+               <rdfs:label xml:lang="it">G. Incorpora - Palermo</rdfs:label>
+            </rdf:Description>
+            <!-- OA -->
+            <rdf:Description tei:ref="#OA_106976"
+                             rdf:source="http://catalogo.fondazionezeri.unibo.it/entry/work/106976/">
+               <rdf:type rdf:resource="dbo:Work_of_art"/>
+               <rdfs:label xml:lang="it">Palazzo Vitelleschi</rdfs:label>
+            </rdf:Description>
+            <!-- BIBL -->
+            <rdf:Description tei:ref="#Villani"
+                             rdf:about="http://www.worldcat.org/oclc/1263806877"
+                             dbo:oclc="1263806877">
+               <rdf:type rdf:resource="dbo:WrittenWork"/>
+			   <dc:title>Quessto Libro Si Chiama La Nuova Cronica Nela Quale Si Contiene Di Piu Chose E Spezialmente Del Origine E Chomincamento [!] Della Citta Di Firenzze Eppoi Di Tutte Le Mutazioni Che a Aute E Aura Per Gli Temppi Chommincato a Conpilare Negli Anni Dela Incharnazione Di Christo Mccc Chominca Il Prologo El [!] Primo Libro Dicendo Capitolo Primo.</dc:title>
+			   <dc:creator>Villani, Giovanni</dc:creator>
+			   <dc:date>1376</dc:date>
+			   <dc:identifier>Biblioteca Apostolica Vaticana Pal. Lat. 939 1376 1ra-273va</dc:identifier>
+			   <!--http://digi.ub.uni-heidelberg.de/diglit/bav_pal_lat_939/0015.-->
+			  <rdfs:label>Vita Nova</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Fr_Wolt"
+                             rdf:about="http://www.worldcat.org/oclc/875919615"
+                             dbo:oclc="875919615">
+               <rdf:type rdf:resource="dbo:Book"/>
+			   <dc:title>Die Gipsabgusse Antiker Bildwerke in Historischer Folge Erklart : Bausteine Zur Geschichte Der Griechisch-Romischen Plastik</dc:title>
+			   <dc:creator>Friederichs, Carl</dc:creator>
+               <dc:contributor>Wolters, Paul</dc:contributor>
+               <dc:publisher>W. Spemann</dc:publisher>		   
+			   <dc:date>1885</dc:date>
+               <rdfs:label xml:lang="de">Friederichs Carl and Paul Wolters. 1885. Die Gipsabgusse Antiker Bildwerke in Historischer Folge Erklart : Bausteine Zur Geschichte Der Griechisch-Romischen Plastik. Berlin: W. Spemann.</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#Dennis"
+                             rdf:about="http://www.worldcat.org/oclc/711916703"
+                             dbo:oclc="711916703">
+               <rdf:type rdf:resource="dbo:Book"/>
+               <dc:title>The Cities and Cemeteries of Etruria voll.I-II</dc:title>
+			   <dc:creator>Dennis, George</dc:creator>
+               <dc:publisher>Murray</dc:publisher>		   
+			   <dc:date>1848</dc:date>
+               <rdfs:label xml:lang="en">Dennis George. 1848. The Cities and Cemeteries of Etruria. London: Murray. http://digi.ub.uni-heidelberg.de/diglit/dennis1848bd2</rdfs:label>
+            </rdf:Description>
+            <rdf:Description tei:ref="#GazBArts"
+                             rdf:about="http://www.worldcat.org/oclc/1570479"
+                             dbo:oclc="1570479">
+               <rdf:type rdf:resource="dbo:PeriodicalLiterature"/>
+               <dc:title>Gazette des beaux-arts</dc:title>   
+			   <dc:date>1859</dc:date>
+               <rdfs:label xml:lang="fr">Gazette des beaux-arts (Paris. 1859. Reproduction numérique) = ISSN 2419-641X (https://gallica.bnf.fr/ark:/12148/cb343486585/date)</rdfs:label>
+               <!--https://gallica.bnf.fr/iiif/ark:/12148/bpt6k203145s/manifest.json-->
+            </rdf:Description>
+         </rdf:RDF>
+      </xenoData>
+      <!--/xenoData-->
+   </teiHeader>
+   <text xml:id="Francia_077_sup2225_tx">
+      <body>         
+	  <pb xml:id="sup2225_077_Francia" n="r" />
+	  <div type="recto">
+         <p>
+		    <lb facs="#facs_1_l_86" n="N001"/>
+            <orgName ref="#Giraudon" type="photographer">A. GIRAUDON</orgName>
+         </p>
+		 <div type="caption">
+		    <p>
+		    <lb facs="#facs_1_l_78" n="N001"/>
+            <objectName ref="#negGiraudon_1452">1452</objectName>
+            <lb facs="#facs_1_l_82" n="N002"/>Art Gréque - <objectName ref="#OA_108820">Frise provenant du Parthénon. dètail</objectName> (<orgName ref="#Louvre" type="museum">Louvre</orgName>)
+				<lb facs="#facs_1_l_74" n="N003"/>
+            <orgName ref="#Giraudon" type="photographer">A. G. phot.</orgName>
+		       </p>
+         </div>
+		</div>
+   <pb xml:id="sup2225_077bis_Francia" n="v" />
+      <div type="annotation">
+         <lb facs="#facs_2_r_1_1l1" n="N001"/><head><orgName ref="#Louvre" type="museum">Musée du Louvre</orgName>. </head>	
+         <p>
+            <lb facs="#facs_2_r_3_1l1" n="N001"/>
+            <rs ref="#OA_106557" type="object">N.° II</rs>. Continuation of <objectName ref="#PlateI">Plate I</objectName>.
+				<lb facs="#facs_2_r_3_1l2" n="N002"/>An officer <hi rend="superscript:true;">51.</hi> or priest has received a kanoun, or dish from 
+				<lb facs="#facs_2_r_3_1l3" n="N003"/>two Kanephori who appear in <objectName ref="#PlateIII">Plate III</objectName>. The dish has disappeared.
+				<lb facs="#facs_2_r_3_1l4" n="N004"/>or he may be giving them some order. He probably held a herald's staff 
+				<lb facs="#facs_2_r_3_1l5" n="N005"/>in his right hand.
+				<lb facs="#facs_2_r_3_1l6" n="N006"/>The numeration is that of the <unclear reason="illegible">prieze</unclear> in the <orgName ref="#Br_museum" type="museum">British Museum</orgName>.
+			</p>
+			</div>
+      </body>
+   </text>
+   
+   <text xml:id="GBretagna_043_sup3003_tx">
+      <body>         
+	  <pb xml:id="sup3003_043_GrBretagna" n="r" />
+         <div type="recto">
+			   <div><p>
+				<lb facs="#facs_1_r1l1" n="N001"/>
+				<objectName ref="#OA_108716">HERMES</objectName>
+				<lb facs="#facs_1_r1l2" n="N002"/>Formerly in the <orgName ref="#Aberdeen_coll" type="collection">Collection of</orgName>
+				<lb facs="#facs_1_r1l3" n="N003"/>
+				<orgName ref="#Aberdeen_coll" type="collection">The Earl of Aberdeen</orgName>
+			    </p></div>
+			 <div>
+			    <p>
+				<lb facs="#facs_1_line_1668200611797_585" n="N001"/>
+				<objectName ref="#negUNK_267">267</objectName>
+			       </p>
+			 </div>
+		</div>
+
+<pb xml:id="sup3003_043bis_GrBretagna" n="v" />
+	<div type="annotation">
+                <lb facs="#facs_2_r1l1" n="N001"/>
+            <head><orgName ref="#Br_Museum" type="museum">British Museum</orgName>. </head>
+			<p>
+				<lb facs="#facs_2_r1l2" n="N002"/>
+            <rs ref="#OA_108716" type="object">This head</rs> came from <orgName ref="#Aberdeen_coll" type="collection">Lord Aberdeen's collection</orgName> and 
+				<lb facs="#facs_2_r1l3" n="N003"/>was formerly called that of a young Hercules. 
+				<lb facs="#facs_2_r1l4" n="N004"/>In <date when="1886">1886</date>
+            <persName ref="#Wolters">Wolters</persName> discovered that it was Praxitelean. 
+				<lb facs="#facs_2_r1l5" n="N005"/>
+            <persName ref="#Sellers">Miss Sellers</persName> put it by the side of the head of <objectName ref="#Hermes_Olympia">the Hermes </objectName>
+            <lb facs="#facs_2_r1l6" n="N006"/>
+            <objectName ref="#Hermes_Olympia">of Olympia</objectName> and found them amazingly similar. 
+				<lb facs="#facs_2_r1l8" n="N007"/>The head is of finest Parian marble and has holes 
+				<lb facs="#facs_2_r1l9" n="N008"/>in the hair for a wreath. <persName ref="#Lechat">Lechat</persName> says that <rs ref="#OA_108716" type="object">it</rs>
+            <lb facs="#facs_2_r1l10" n="N009"/>is brother to the <objectName ref="#Sphinx_AK_Museum">Sphinx</objectName> of the <orgName ref="#AK_Museum" type="museum">Akropolis Museum</orgName>
+         </p>
+		 </div>
+      </body>
+   </text>
+   
+   <text xml:id="Grecia1_106_sup2470_tx">
+      <body>         
+	  <pb xml:id="sup2470_106_Grecia1" n="r" />
+
+<pb xml:id="sup2470_106bis_Grecia1" n="v" />
+<div type="annotation">
+         <p>
+            <lb facs="#facs_2_r1l1" n="N001"/>
+            <objectName ref="#OA_108395">This is the fine tower</objectName> built in the 13<hi rend="superscript:true;">th</hi>century by the Frank Dukes
+				<lb facs="#facs_2_r1l2" n="N002"/>of Athens on the southern wing of the Propylea. <rs ref="#PA_creator" type="person">I</rs> saw <rs ref="#OA_108395" type="object">it</rs> in <date when="1865">1865</date>.
+				<lb facs="#facs_2_r1l3" n="N003"/>Some <date when="1880">15 years after</date>, <rs ref="#OA_108395" type="object">it</rs> was destroyed by Greeck pedantry, <persName ref="#Schliemann">Schliemann</persName>
+            <lb facs="#facs_2_r1l4" n="N004"/>assisting with a subscription. When <persName ref="#Stuart">Stuart</persName> saw <rs ref="#OA_108395" type="object">it</rs> in 1752 <rs ref="#OA_108395" type="object">it</rs> was
+				<lb facs="#facs_2_r1l5" n="N005"/>used by the Turks as a prison.
+			</p>
+         <p>
+            <lb facs="#facs_2_r1l6" n="N001"/>It was the keep of the fortified palace of these dukes and is if
+				<lb facs="#facs_2_r1l7" n="N002"/>the same age as the tower of Marco Sanudo in the citadel of Naxos
+				<lb facs="#facs_2_r1l8" n="N003"/>and of that of Santonieri (Nicolas de St. Omer) at Phebes say between
+				<lb facs="#facs_2_r1l9" n="N004"/>1250 and 1300. 
+			</p>
+         <p>
+            <lb facs="#facs_2_r1l10" n="N001"/>It rose to a height of 85 feet above its base, which base was 45 feet
+				<lb facs="#facs_2_r1l11" n="N002"/>below the stylobate of the Parthenon.
+			</p>
+         <p>
+            <lb facs="#facs_2_r1l12" n="N001"/>The top of the tower was not so high as the roof of the Parthenon, but 
+				<lb facs="#facs_2_r1l13" n="N002"/>36 feet above the highest point of the Akropolis road. 
+			</p>
+         <p>
+            <lb facs="#facs_2_r1l14" n="N001"/>It was far long; 28 1/2 feet long from East to West and 25 1/2 feet wide 
+				<lb facs="#facs_2_r1l15" n="N002"/>from North to South. The walls were 5 3/4 ft thick. They consisted of 
+				<lb facs="#facs_2_r1l16" n="N003"/>51 layers of big marble stones from the old monements, each 
+				<lb facs="#facs_2_r1l17" n="N004"/>layer being above 10 inches in thickness. 
+			</p>
+         <p>
+            <lb facs="#facs_2_r1l18" n="N001"/>On the towers North face, high up was a square tourelle putting 
+				<lb facs="#facs_2_r1l19" n="N002"/>out and terminating in a vault and a terrace in which the 
+				<lb facs="#facs_2_r1l20" n="N003"/>Turks had placed 2 small canons. The entrance was at the 
+				<lb facs="#facs_2_r1l21" n="N004"/>vert facing Nike Anteros; the stairs inside were of wood.
+			</p>
+</div>
+      </body>
+
+   </text>
+   <text xml:id="Grecia2_012_sup2553_tx">
+      <body>         
+	  <pb xml:id="sup2553_012_Grecia2" n="r" />
+         <div type="recto">
+            <p>
+            <lb facs="#facs_1_r_2_1l1" n="N001"/>
+            <objectName ref="#OA_108368">Victory returns to her temple and takes off her sandals</objectName>. 
+				<lb facs="#facs_1_r_2_1l2" n="N002"/>
+            <placeName ref="#Athens">Acropolis of Athens</placeName>. 
+               </p>
+			</div>
+
+<pb xml:id="sup2553_012bis_Grecia2" n="v" />
+<div type="annotation">
+         
+   <lb facs="#facs_2_r_1_1l1" n="N001"/><head><orgName ref="#AK_Museum" type="museum">Museum of Akropolis</orgName>. </head>
+      <p><lb facs="#facs_2_r_1_1l2" n="N002"/>From balustrade of <objectName ref="#NikeApteros_temple">temple of Nike Apteros</objectName>.
+			</p>
+			<p hand="later">
+				<lb facs="#facs_2_r_1_1l3" n="N003"/>
+            <persName ref="#Kavvadias">Kavvadias</persName> has <date when="1898">just found -1898-</date> the date of the temple; it is of 450 B.C. and 
+				<lb facs="#facs_2_r_1_1l4" n="N004"/>built by Kallikrates. <bibl source="#GazBArts"><choice><expan>Gazette</expan>
+                  <abbr>Gaz.</abbr></choice> des <choice>
+                  <expan>Beaux</expan>
+                  <abbr>B.</abbr>
+               </choice> Arts</bibl>. 
+			</p>
+         <p>
+            <lb facs="#facs_2_r_1_1l5" n="N001"/>
+            <bibl source="#Fr_Wolt">Fr. + Wolt. No. 761 - 804</bibl>. 
+			</p>
+			</div>
+      </body>
+   </text>
+   <text xml:id="Grecia2_040_sup2581_tx">
+      <body>         
+	  <pb xml:id="sup2581_040_Grecia 2" n="r" />
+
+<pb xml:id="sup2581_040bis_Grecia 2" n="v" />
+         <div type="annotation">
+		 
+            <lb facs="#facs_2_r1l1" n="N001"/>
+            <head><placeName ref="#Olympia">Olympia</placeName>. </head>
+            <p>
+               <lb facs="#facs_2_r1l2" n="N002"/>
+            <objectName ref="#OA_108400">The Hermes of Praxiteles</objectName>.
+		
+			<lb facs="#facs_2_l" n="N003"/>
+            <rs ref="#UND">They</rs> have lately (<date when="1889">1889</date>) put legs on <rs ref="#OA_108400" type="object">him</rs>.
+			</p>
+         <p hand="later">
+            <lb facs="#facs_2_r1l6" n="N001"/>
+            <rs ref="#OA_108400" type="object">He</rs> was discovered on the 8.<hi rend="superscript:true;">th</hi> of May 1877.
+				<lb facs="#facs_2_r1l7" n="N002"/>
+            <persName ref="#PA_creator">I</persName> saw <rs ref="#OA_108400" type="object">him</rs> in <date when="1887">1887</date> and <date when="1893">1893</date>.</p>
+			<p>
+				<lb facs="#facs_2_r1l8" n="N003"/>
+            <bibl source="#Fr_Wolt">Fr. + Wolt.N° 1212</bibl>.
+			</p>
+		</div>
+      </body>
+   </text>
+   <text xml:id="Grecia3_011_sup2783_tx">
+      <body>         
+	  <pb xml:id="sup2783_011_Grecia3" n="r" />
+         <div type="recto">
+		 <p>
+            <lb facs="#facs_1_l_19" n="N001"/>
+            <objectName ref="#negUNK_067">67</objectName>
+         </p>
+         <p>
+            <lb facs="#facs_1_l" n="N001"/>128 
+			</p>
+		</div>
+
+<pb xml:id="sup2783_011bis_Grecia3" n="v"/>
+<div type="annotation">
+         
+   <lb facs="#facs_2_r_1_1l1" n="N001"/><head>N°. 247. h. C</head>
+   <lb facs="#facs_2_r_4_1l1" n="N001"/>
+   <p>
+      <placeName ref="#Athens">Athens</placeName>. <orgName ref="#National_Museum_Athens" type="museum">Central Museum</orgName></p>
+         
+         <p>
+            <lb facs="#facs_2_r_10_1l1" n="N001"/>
+            <objectName ref="#OA_108561">Fighting warrior</objectName> found at <placeName ref="#Delos">Delos</placeName>. An inscription names an Ephelian, 
+				<lb facs="#facs_2_r_10_1l2" n="N002"/>Agalias, the son of Menophilos, as the sculptor.
+				<lb facs="#facs_2_r_10_1l3" n="N003"/>
+            <rs ref="#OA_108561" type="object">The work</rs> belongs to the Neo-Attic school.
+			</p>
+			</div>
+      </body>
+   </text>
+   <text xml:id="Grecia3_051_sup2832_tx">
+      <body>         
+	  <pb xml:id="sup2832_051_Grecia3" n="r" />
+<div type="recto">      
+	  <p>
+            <lb facs="#facs_1_line_1667941394445_570" n="N001"/>52
+			</p>
+         <p>
+            <lb facs="#facs_1_line_1667941371962_555" n="N001"/>93
+			</p>
+         <p>
+            <lb facs="#facs_1_line_1667941172653_468" n="N001"/>28
+			</p>
+         <p>
+            <lb facs="#facs_1_line_1667941203450_485" n="N001"/>26
+			</p>
+</div>
+<pb xml:id="sup2832_051bis_Grecia3" n="v" />
+         <div type="annotation">
+            <lb facs="#facs_2_r1l1" n="N001"/>
+			<head>
+            <orgName ref="#National_Museum_Athens" type="museum">National Museum Athens.</orgName></head>	
+<p>
+   <lb facs="#facs_2_r1l2" n="N002"/>
+            28. <objectName ref="#Sphinx_Spata">Archaic Sphinx from Spata</objectName> in Attica of Pentelic marble. 
+            76. <objectName ref="#Sphinx_Peiaios">Archaic Sphinx</objectName> found at the Peiraios in 1880. Parian marble. 
+				<lb facs="#facs_2_r1l4" n="N004"/>
+            52. <objectName ref="#Head">Archaic head</objectName> of beautiful art. Pentelic marble.
+				<lb facs="#facs_2_r1l5" n="N005"/>
+            93. <objectName ref="#Disk_Peiraios">Disk</objectName> of Parian marble found at the Peiraios in 1889. 11 inches in <choice>
+               <expan>diameter</expan>
+               <abbr>diam</abbr>
+            </choice>.
+
+				<lb facs="#facs_2_r1l6" n="N006"/>The painting on it is <date notBefore="1889">now</date> almost effaced but once represented a <unclear reason="illegible">bearded</unclear>
+            <lb facs="#facs_2_r1l7" n="N007"/>man with <cit>an inscription saying: <q>to the memory of Ainios, a wise and
+				<lb facs="#facs_2_r1l8" n="N008"/>good doctor</q>
+            </cit>.
+			</p>
+			</div>
+      </body>
+   </text>
+   <text xml:id="Lazio_015_sup0028_tx">
+      <body>         
+	  <pb xml:id="sup0028_015_Lazio" n="r"/>
+      <pb xml:id="sup0028_015bis_Lazio" n="v"/>
+         <div type="annotation">
+            <lb facs="#facs_2_r1l1" n="N001"/><head>
+            <orgName ref="#Corneto_Museum" type="museum">
+               <placeName ref="#Tarquinia">Corneto</placeName>. Museum</orgName>. </head>
+				<lb facs="#facs_2_r1l2" n="N002"/>
+				<p>
+            <rs ref="#OA_106911" type="object">Sarcophagus</rs> found in <date when="1876">1876</date>. Relief with encaustic paintings showing 
+				<lb facs="#facs_2_r1l3" n="N003"/>Achilles slaughtering prisoners to the shade of Petroclus. 
+				<lb facs="#facs_2_r1l4" n="N004"/>The reclining figure is called the priest of Giove. 
+			</p>
+			</div>
+      </body>
+   </text>
+   
+   <text xml:id="Lazio_062_sup0218_tx">
+      <body>
+		<pb xml:id="sup0218_062_Lazio" n="r" />
+		<pb xml:id="062bis_Lazio" n="v" />
+		<div type="annotation">
+         <p>
+            <lb facs="#facs_2_l_91" n="N001"/>Court of Cardinal <objectName ref="#OA_106976">Vitelleschi's palace</objectName> at <placeName ref="#Taquinia">Corneto</placeName>. 
+				<lb facs="#facs_2_l_96" n="N002"/>
+            <rs ref="#OA_106976" type="object">It</rs> is <date notBefore="1861">now</date> an inn and a tenement for the person classes in <rs ref="#Tarquinia" type="place">the town</rs>. 
+				<lb facs="#facs_2_l_31" n="N003"/>When <rs ref="#PA_creator" type="person">I</rs> was first <rs ref="#Tarquinia" type="place">there</rs> in <date when="1861">1861</date>, <rs ref="#OA_106976" type="object">it</rs> was occupied by French officiers, 
+				<lb facs="#facs_2_l_40" n="N004"/>who had their mess in <rs ref="#OA_106976" type="object">it</rs>.
+			</p>
+			</div>
+      </body>
+   </text>
+   <text xml:id="Sicilia_007_sup1351_tx">
+      <body>         
+	  <pb xml:id="sup1351_007_Sicilia" n="r" />
+         <div type="recto">
+            <div type="caption">
+            <p><lb facs="#facs_1_line_1667759538519_323" n="N001"/>
+            <objectName ref="#OA_107660">SARCOFAGO ETRUSCO</objectName>
+            <lb facs="#facs_1_line_1667759532302_320" n="N002"/>
+            <objectName ref="#negIncorpora_229">N. 229</objectName> - <orgName ref="#PA_museum" type="museum">Museo Palermo</orgName>
+            <lb facs="#facs_1_line_1667759626723_336" n="N003"/>
+            <orgName ref="#Incorpora" type="photographer">G. Incorpora, <placeName ref="#Palermo">Palermo</placeName>
+            </orgName>
+               </p>
+         </div>
+         </div>
+<pb xml:id="007bis_Sicilia" n="v" />
+         <div type="annotation">
+		 <p>
+            <lb facs="#facs_2_l_32" n="N001"/>
+            <rs ref="#OA_107660" type="object">This grand headless Etruscan lady</rs> came with the other gear 
+				<lb facs="#facs_2_l_37" n="N002"/>from the <orgName ref="#Casuccini_coll" type="collection">Casuccini collection</orgName> of <placeName ref="#Chiusi">Chiusi</placeName> where <rs ref="#PA_creator" type="person">I</rs> saw 
+				<lb facs="#facs_2_l_26" n="N003"/>
+            <rs ref="#OA_107660" type="object">her</rs> in <date when="1866">1866</date>. <rs ref="#OA_107660" type="object">She</rs> is of white marble. The figures below, 
+				<lb facs="#facs_2_l_36" n="N004"/>painted and with painted inscriptions, are of alabaster. 
+			</p>
+			</div>
+      </body>
+   </text>
+   <text xml:id="Sicilia_008_sup1352_tx">
+      <body>         
+	  <pb xml:id="sup 1352_g" n="r"/>
+         <div type="recto">  
+         <div type="caption">
+            <p>
+            <lb facs="#facs_1_line_1667767471372_1882" n="N001"/>
+            <objectName ref="#negSommier_9072">9072</objectName>
+            <lb facs="#facs_1_l_27" n="N002"/>
+            <placeName ref="#Palermo">PALERMO</placeName>
+            <objectName ref="#OA_107660">Sarcofago</objectName>
+            <lb facs="#facs_1_l_31" n="N003"/>
+            <orgName ref="#Sommer" type="photographer">G. Sommer - <placeName ref="#Napoli">Napoli</placeName>
+            </orgName>
+               </p>
+         </div>
+         </div>
+
+<pb xml:id="sup 1352v" n="v" />
+<div type="annotation">
+         <p>
+            <lb facs="#facs_2_r_2_1l1" n="N001"/>
+            <rs ref="#OA_107660" type="object">All these</rs>
+            <choice>
+               <expan>scarcophagus</expan>
+               <abbr>sarch.</abbr>
+            </choice> and turns are of alabaster and 
+				<lb facs="#facs_2_r_3_1l1" n="N002"/>come from <placeName ref="#Chiusi">Chiusi</placeName>. The <orgName ref="#PA_gov" type="collector">town of <placeName ref="#Palermo">Palermo</placeName>
+            </orgName> bought 
+				<lb facs="#facs_2_r_3_1l2" n="N003"/>the <orgName ref="#Casuccini_coll" type="collection">Casuccini collection</orgName> in <date when="1866">1866</date>. 
+			</p>
+         <p hand="later">
+            <lb facs="#facs_2_l" n="N001"/>The relief of the big <choice>
+               <expan>sarchophagus</expan>
+               <abbr>sarc.</abbr>
+            </choice> represents the farewell of a married pair. 
+				<lb facs="#facs_2_l_89" n="N002"/>He is Lavth Aphuna, she Aphunei who reclines covered with jewelry 
+				<lb facs="#facs_2_l_93" n="N003"/>on the lid of the <choice>
+               <expan>sarchophagus</expan>
+               <abbr>sarc.</abbr>
+            </choice> Awreiged female demon leads her off to the 
+				<lb facs="#facs_2_l_97" n="N004"/>shades below, while her daughter Thanch (Tanaquit) tries to console 
+				<lb facs="#facs_2_l_101" n="N005"/>her old father. Others of the family are standing about. 
+				<lb facs="#facs_2_l_105" n="N006"/>On the extreme left a fate, called <unclear reason="illegible">Culice</unclear> is coming out of the portal 
+				<lb facs="#facs_2_l_109" n="N007"/>of Death. See <bibl source="#Dennis">Dennis Vol II. page 316</bibl>.
+			</p>
+			</div>
+      </body>
+   </text>
+   <text xml:id="Sicilia_024_sup1368_tx">
+      <body>         
+	  <pb xml:id="sup1368_024_Sicilia" n="r" />
+         <div type="recto">
+         <div type="caption">
+            <p>
+            <lb facs="#facs_1_l" n="N001"/>
+            <objectName ref="#negIncorpora_067">67</objectName>. - <placeName ref="#Palermo">PALERMO</placeName>
+            <lb facs="#facs_1_l_393" n="N002"/>
+            <objectName ref="#OA_107699">TOMBA DI COSTANZA </objectName>
+            <lb facs="#facs_1_l_397" n="N003"/>
+            <orgName ref="#Incorpora" type="photographer">G. INCORPORA, <placeName ref="#Palermo">PALERMO</placeName>
+            </orgName>
+               </p>
+         </div>
+         </div>
+<pb xml:id="024bis_Sicilia" n="v" />
+         <div type="annotation">
+		 <p>
+            <lb facs="#facs_2_r1l1" n="N001"/>
+            <rs ref="#OA_107699" type="object">The sarcophagus</rs> is of solid porphyry; the six supporting columns 
+				<lb facs="#facs_2_r1l2" n="N002"/>of the baldachino are inlaid with gold mosaics; at the head 
+				<lb facs="#facs_2_r1l3" n="N003"/>of the <choice>
+               <expan>sarcophagus</expan>
+               <abbr>
+                  <rs ref="#OA_107699" type="object">sarc.</rs>
+               </abbr>
+            </choice> an imperial crown in relief, below it a cross patonce 
+				<lb facs="#facs_2_r1l4" n="N004"/>inscribed in a circle; at the rear, above a rosette, below a 
+				<lb facs="#facs_2_r1l5" n="N005"/>single headed eagle. 
+				<lb facs="#facs_2_line_1668199366974_463" n="N006"/>
+            <cit>
+              An old, but contemporary inscription said:
+               <q>
+                  <l facs="#facs_2_r1l7" n="N001"/>Caesaris Henrici latet hic Constantia corpus 
+				<l facs="#facs_2_r1l8" n="N002"/>undeno lustro hac platea rugosa sacerdos 
+				<l facs="#facs_2_r1l9" n="N003"/>Facta dedis parta Fredericum Augusta secundum 
+				<l facs="#facs_2_r1l10" n="N004"/>To meritis sacratam tenes sic ossa Panhormus, 
+				<l facs="#facs_2_r1l11" n="N005"/>Vix. Au LX1. Ubiis MCCIII. M.2.</q>
+            </cit>
+            <lb facs="#facs_2_r1l12" n="N006"/>She died in fact in 1198 aged 44. 
+				<lb facs="#facs_2_r1l13" n="N007"/>See <bibl source="#Villani">Villani</bibl> for the myth about her. 
+			</p>
+         <p hand="later">
+            <lb facs="#facs_2_r1l14" n="N001"/>The impress Constantia II, the wife of stupor mundi, she died at Catania 
+				<lb facs="#facs_2_r1l15" n="N002"/>in 1222, is also buried here, with her was interred a lot of jewels, rings, 
+				<lb facs="#facs_2_r1l16" n="N003"/>collars, diadem etc. There, when her tomb was opened in the past century 
+				<lb facs="#facs_2_r1l17" n="N004"/>were found in a box other feet together with a lamina with an 
+				<lb facs="#facs_2_r1l18" n="N005"/>inscription in rude Latin, but quite legible. She wore garments of 
+				<lb facs="#facs_2_r1l19" n="N006"/>Saracenic art. <rs ref="#PA_creator" type="person">I</rs> saw some of these remains in the sacristy of 
+				<lb facs="#facs_2_r1l20" n="N007"/>the <placeName ref="#Palermo">Duomo</placeName> in <date when="1892">1892</date>.
+			</p>
+			</div>
+      </body>
+   </text>
+   <text xml:id="Toscana2_084_sup1965_tx">
+      <body>         
+	  <pb xml:id="sup 1965_g" n="r" />
+<div type="recto">        
+		<div type="caption">
+		   <p>
+            <lb facs="#facs_1_l_19" n="N001"/>
+            <orgName ref="#Paganori" type="photographer">V. PAGANORI</orgName>
+            <lb facs="#facs_1_l_23" n="N002"/>FIRENZE 
+			<lb facs="#facs_1_l_27" n="N003"/>VIA DELLA SCALA 1 
+            <lb facs="#facs_1_l_31" n="N001"/><objectName ref="#negPaganori_599">599</objectName>. 
+		   </p>
+		</div>
+</div>
+
+<pb xml:id="sup 1965v" n="v" />
+        <div type="annotation">
+		 <p>
+            <lb facs="#facs_2_r_1_1l1" n="N001"/>
+            <objectName ref="#OA_107455">This painted terra cotta Etruscan lady, Larthia Seianti S...</objectName> (of the family 
+				<lb facs="#facs_2_r_2_1l1" n="N002"/>of Sejanus) was discovered at <placeName ref="#Chiusi">Chiusi</placeName> in <date when="1877">1877</date>, brought to <placeName ref="#Rome">Rome</placeName> and placed 
+				<lb facs="#facs_2_r_2_1l2" n="N003"/>in the <orgName ref="#Kircherian_Museum" type="museum">Kircherian</orgName> in <date when="1878">1878</date> and then removed to the <orgName ref="#AN_FI_Museum" type="museum">Museum at Florence</orgName>, 
+				<lb facs="#facs_2_r_2_1l3" n="N004"/>where <rs ref="#OA_107455" type="object">she</rs> now is. <rs ref="#OA_107455" type="object">She</rs> wears a quantity of jewelry: a fillet of flowers with 
+				<lb facs="#facs_2_r_2_1l4" n="N005"/>rubies and emeralds; a girdle studded with rubies; an emerald clasp to her 
+				<lb facs="#facs_2_r_2_1l5" n="N006"/>golden sandals; earrings; a necklace; a brooch with a Medusa's head; 
+				<lb facs="#facs_2_r_2_1l6" n="N007"/>a bracelet and an amulet; and rings in plenty on her left hand in which 
+				<lb facs="#facs_2_r_2_1l7" n="N008"/>she holds a mirror set in a framework of gold. 
+				<lb facs="#facs_2_r_2_1l8" n="N009"/>The date of <rs ref="#OA_107455" type="object">this monument</rs> is said to be 217 B.C. 
+				<lb facs="#facs_2_r_2_1l9" n="N010"/>
+            <rs ref="#OA_107455" type="object">It</rs> cost <orgName ref="#UND_FI_Gov" type="collector">the Government</orgName> 10,000 fes. only.
+			</p>
+		</div>
+      </body>
+   </text>
+   <text xml:id="Umbria_037_sup0661_tx">
+      <body>         
+	  <pb xml:id="sup661_037_Umbria" n="r" />
+	  <pb xml:id="sup661_037bis_Umbria" n="v" />
+         <div type="annotation">
+		 <head>
+            <lb facs="#facs_2_r_1_1l1" n="N001"/>
+            <placeName ref="#Assisi">Assisi</placeName>.</head>
+		<p>
+			<lb facs="#facs_2_r_2_1l1" n="N002"/>
+            <objectName ref="#OA_81897">Monument of Hecuba de Lusignan</objectName>, Queen of Cyprus. 
+				<lb facs="#facs_2_r_3_1l1" n="N003"/>Said to have been made by Fuccio Fiorentino about 1240. 
+				<lb facs="#facs_2_r_3_1l2" n="N004"/>
+            <persName ref="#Perkins">Mr. Perkins</persName> thinks that the tomb was made probably 
+				<lb facs="#facs_2_r_3_1l3" n="N005"/>by Lapo, one of Nicolò Pisanos scholars. 
+			</p>
+         <p hand="later">
+            <lb facs="#facs_2_r_3_1l4" n="N001"/>It is thought <date when="1898">now (1898)</date> that the tomb is that of Maria, princess of 
+				<lb facs="#facs_2_r_3_1l5" n="N002"/>Antioch, daughter of John of Brieune, king of Jerusalem. He died at Constantinople 
+				<lb facs="#facs_2_r_3_1l6" n="N003"/>in 1237 and in 1268 she made over her right to his Kingdom to Carl of <unclear reason="illegible">Ansor</unclear>. 
+				<lb facs="#facs_2_r_3_1l7" n="N004"/>The arms on the tomb are those of Jerusalem. 
+			</p>
+		</div>
+      </body>
+   </text>
+</TEI>
