@@ -1,4 +1,5 @@
 The project <a href="https://enri-ca.github.io/dist/" target="_blank"><b>Partizione Antica from Fototeca Supino: a pilot digital edition</b></a>, has been realized in the framework of the <a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/443592"  target="_blank">85448 Digital Text in the Humanities Theories, Methodologies and Applications</a> course of the 1st year <a href="https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge"  target="_blank">DHDK Master Degree</a> a.a. 2020-21.<br>
+<b>It has been enriched with new photographs encodings and images in the framework of the final dissertation of the DHDK master.</b><br>
 The project aims to realize a pilot for a digital edition of the <a href="https://archiviostorico.unibo.it/it/archivio-fotografico/altre-collezioni-e-fondi/fondo-igino-benvenuto-supino/patrimonio-fotografico-altri-paesi/algeria" target="_blank"><b>Partizione Antica</b></a> of the Supino photographic Archival fund. <br>
 The Github repository hosts:
 
