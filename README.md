@@ -29,4 +29,4 @@ The project is completed by:<br>
 - an <b>Encoding Guide (1_PA_encoding_model.pdf)</b> 
 - the <b>project presentation (2_PA_presentation)</b>.<br>
 
-All the images (CC-BY-NC-ND credits to:<a href="mailto:abis.arti-av@unibo.it">Biblioteca delle Arti. Sezione di Arti visive "I. B. Supino". Alma Mater Studiorum Università di Bologna</a>) and the OA and F records (CC-BY credits to: <a href="mailto:fondazionezeri.fototeca@unibo.it">Fondazione "Federico Zeri"</a>(CC-BY- ) are published for <b>illustrative and didactical purposes only</b>.
+All the images (CC-BY-NC credits to:<a href="mailto:abis.arti-av@unibo.it">Biblioteca delle Arti. Sezione di Arti visive "I. B. Supino". Alma Mater Studiorum Università di Bologna</a>) and the OA and F records (CC-BY-NC credits to: <a href="mailto:fondazionezeri.fototeca@unibo.it">Fondazione "Federico Zeri"</a>(CC-BY-NC) are published for <b>illustrative and didactical purposes only</b>.
